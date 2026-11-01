@@ -126,13 +126,28 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|---|
 | Culpeper, VA | General | Business and experience first | Community-based | Equipment or expertise angle | Trust/credibility | What the customer sees | Cost, Insurance, Emergency response, Timing |
+| Culpeper, VA | Tree Trimming | Local problem first | Tree-species-based | n/a (trimming techniques) | Direct benefit | What we do | Cost, Timing, Process |
+| Culpeper, VA | Tree Removal | Scenario first | Terrain/risk-based | n/a (removal types) | Comparison angle | Why it matters | Cost, What to expect, Permits |
+| Culpeper, VA | Stump Grinding | Benefit first | Crew/team-based | n/a | Peace-of-mind angle | Technical/expertise angle | Cost, Process, What to expect |
+| Culpeper, VA | Tree Cutting | Local detail first | Regulatory/practical-based | n/a | Local-relevance angle | What the customer sees | Cost, Timing, Insurance |
+| Culpeper, VA | Emergency Tree Service | Business and experience first | Community-based | n/a | Trust/credibility | What we do | Cost, Response time, What to expect |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
 |---|---|---|
 | Rooted in Culpeper Since 1978 | Culpeper, VA | Avoid reusing for next 5 pages |
+| Pruning Culpeper's White Oaks and Tulip Poplars | Culpeper, VA (Tree Trimming) | Avoid reusing for next 5 pages |
+| Removing Trees on Tight Culpeper Lots | Culpeper, VA (Tree Removal) | Avoid reusing for next 5 pages |
+| Our Crews Grind Stumps Across Culpeper | Culpeper, VA (Stump Grinding) | Avoid reusing for next 5 pages |
+| When a Tree Can Fall in One Piece | Culpeper, VA (Tree Cutting) | Avoid reusing for next 5 pages |
+| Storm Help for Our Culpeper Neighbors | Culpeper, VA (Emergency Tree Service) | Avoid reusing for next 5 pages |
 
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
 | Culpeper, VA | 2026-11-01 | pages/culpeper-va.md |
+| Culpeper, VA (Tree Trimming) | 2026-11-01 | pages/tree-trimming-culpeper-va.md |
+| Culpeper, VA (Tree Removal) | 2026-11-01 | pages/tree-removal-culpeper-va.md |
+| Culpeper, VA (Stump Grinding) | 2026-11-01 | pages/stump-grinding-culpeper-va.md |
+| Culpeper, VA (Tree Cutting) | 2026-11-01 | pages/tree-cutting-culpeper-va.md |
+| Culpeper, VA (Emergency Tree Service) | 2026-11-01 | pages/emergency-tree-service-culpeper-va.md |
