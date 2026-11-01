@@ -1,6 +1,6 @@
-# About: Fants Tree Service
+# About: Fant's Tree Service
 
-Business Name: Fants Tree service
+Business Name: Fant's Tree Service
 
 Address: 244 Crooked Run Ln, Culpeper, VA 22701
 

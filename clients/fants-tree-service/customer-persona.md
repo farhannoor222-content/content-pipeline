@@ -1,10 +1,10 @@
-# Fants Tree Service Customer Profile
+# Fant's Tree Service Customer Profile
 
 Note: the source file's "Working with the owner" section and internal account notes (staff contact details, the owner's personal cell, domain and ad-account status) are not stored here because this repository is public. Keep them in the original onboarding file.
 
 ## Snapshot
 
-Fants Tree Service is a third-generation, family-owned tree company in business since 1978. It is based at 244 Crooked Run Ln, Culpeper, VA, and works across Albemarle County, Lake Monticello, Palmyra, Madison, Gordonsville and nearby towns. It runs three full crews of its own employees on its own equipment, including cranes and lifts. It does no subcontracting and no equipment rental. Besides tree work, it plows snow (many HOAs) and does mulch and hardscaping.
+Fant's Tree Service is a third-generation, family-owned tree company in business since 1978. It is based at 244 Crooked Run Ln, Culpeper, VA, and works across Albemarle County, Lake Monticello, Palmyra, Madison, Gordonsville and nearby towns. It runs three full crews of its own employees on its own equipment, including cranes and lifts. It does no subcontracting and no equipment rental. Besides tree work, it plows snow (many HOAs) and does mulch and hardscaping.
 
 ## Owner's Story
 
@@ -92,7 +92,7 @@ Matt's grandfather started the business in 1978 because he cared about trees and
 
 ## Job Stories
 
-* Largest tree in Madison County, on Main Street. About 12.5 feet across at the stump. It was badly decayed, full of ivy, and hung over power lines and the street. Five companies looked at it and none would take it. The Board of Supervisors had to vote on which company to hire, which took months. VDOT approved a road closure and local police shut the road. Fants took it down safely, and let traffic through at times. Townspeople sat in chairs and watched "like a parade". Matt called it a very historic and very dangerous tree.
+* Largest tree in Madison County, on Main Street. About 12.5 feet across at the stump. It was badly decayed, full of ivy, and hung over power lines and the street. Five companies looked at it and none would take it. The Board of Supervisors had to vote on which company to hire, which took months. VDOT approved a road closure and local police shut the road. Fant's Tree Service took it down safely, and let traffic through at times. Townspeople sat in chairs and watched "like a parade". Matt called it a very historic and very dangerous tree.
 * Tree work for Madison County High School's baseball and football complexes and local youth fields, done as a community cleanup. Dates and details: Not covered on the call.
 * Storm work after thunderstorms, mainly blown-over pines and tulip poplars. No specific job named.
 
@@ -182,7 +182,7 @@ Matt's grandfather started the business in 1978 because he cared about trees and
 * Don't claim a safety record or numbers. None were given.
 * Don't claim a set emergency fee or premium. They price case by case.
 * Don't say they subcontract or rent equipment.
-* Don't use "Fathom's" for the name. That was a transcription error. It is Fants Tree Service.
+* Don't use "Fathom's" for the name. That was a transcription error. It is Fant's Tree Service.
 * Don't push tree removal or disease scares. They stress honesty.
 
 ## Worries and Red Flags

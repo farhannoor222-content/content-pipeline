@@ -1,5 +1,5 @@
 ---
-business_name: Fants Tree Service
+business_name: Fant's Tree Service
 industry: Tree Service
 phone: "(540) 547-4056"
 email: fantstreeservice@gmail.com
@@ -8,7 +8,9 @@ established: 1978
 main_targeted_city: Culpeper, VA
 ---
 
-# Pipeline Notes: Fants Tree Service
+# Pipeline Notes: Fant's Tree Service
+
+Business name is spelled "Fant's Tree Service" (with the apostrophe). The folder slug stays `fants-tree-service`.
 
 This file holds only what `about.md` and `customer-persona.md` do not already cover: tracking data the content pipeline needs to keep pages varied and consistent.
 
@@ -48,7 +50,7 @@ Tree services from about.md and the full service list in customer-persona.md:
 
 Non-tree services (not default H3s on tree service pages, mention only where relevant): mulch, patios and hardscaping, snow plowing for HOAs and driveways. Never mention firewood.
 
-## USPs (for H3s under "Why Choose Fants Tree Service")
+## USPs (for H3s under "Why Choose Fant's Tree Service")
 Default list, from about.md and customer-persona.md. Duplicates in about.md are merged (Always Open, 24/7 Emergency Service, 24/7 service available, Fast Emergency Response; Free estimates and Free, No-Obligation Estimates). Not fixed, use these unless competitor research finds something better that passes the Thin-Content Filter.
 
 - Family Owned and Operated Since 1978 (lead USP, marked "Major" in about.md; third generation)
@@ -76,7 +78,7 @@ Drafted from customer-persona.md. Not confirmed by the client. Four genuine job 
 - Rigging gear
 
 ## Pricing Reference (for FAQ cost answers)
-No dollar figures in the source files. Per location-page-template.md, research a real local or regional average range for each page's cost question and present it as a typical area range, not Fants's own price.
+No dollar figures in the source files. Per location-page-template.md, research a real local or regional average range for each page's cost question and present it as a typical area range, not Fant's Tree Service's own price.
 
 Price factors from customer-persona.md:
 - Size of the tree
