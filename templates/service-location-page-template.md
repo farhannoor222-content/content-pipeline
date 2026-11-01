@@ -8,8 +8,10 @@ Before writing, check the client's Pattern and Angle Tracker in pipeline-notes.m
 
 ## Population Tiers for This Template
 
-- Tree Trimming, Tree Removal, Emergency Tree Service pages: use the same population tiers as location-page-template.md (Tier 1 under 5,000 = 1 sentence, Tier 2 5,000 to 20,000 = 2 sentences, Tier 3 over 20,000 = 3 sentences) for sections marked "(tiered)" below.
-- Stump Grinding, Stump Removal, Crane Service, and any other service page: always use the Tier 2 word count (2 sentences) for "(tiered)" sections, regardless of the city's actual population.
+- Tree Trimming, Tree Removal, Emergency Tree Service pages: use the same population tiers as location-page-template.md (Tier 1 under 5,000 = 1 sentence, Tier 2 5,000 to 20,000 = 2 sentences, Tier 3 over 20,000 = 3 sentences) for the "Our [Service] Services" section.
+- Stump Grinding, Stump Removal, Crane Service, and any other service page: always use the Tier 2 word count (2 sentences), regardless of the city's actual population.
+
+These tiers apply only to the "Our [Service] Services" section (Trimming and Removal pages). The Customized Local Heading has a fixed length.
 
 ## Page Structure
 
@@ -25,7 +27,7 @@ Same as location-page-template.md: 4 short bullets, 3 to 4 words each, right aft
 ### H2: Customized Local Heading
 Same rules as location-page-template.md (angle rotation, expertise framing rule, depth rule, local-reference rule, order rule), but every example and local tie-in should relate specifically to this one service, not tree service in general.
 
-(tiered) word count per the Population Tiers section above.
+Body: 100 to 120 words. Fixed length, not tiered.
 
 ### H2: Our [Service] Services, Trimming and Removal pages only
 Include this section only when the page's service is Tree Trimming or Tree Removal. Skip it entirely for every other service page (Stump Grinding, Stump Removal, Tree Cutting, Emergency Tree Service, Crane Service, or any other single service) and go directly from the Customized Local Heading to Why Choose Us.

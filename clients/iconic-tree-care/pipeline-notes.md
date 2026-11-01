@@ -17,7 +17,7 @@ This client has three page types. Confirm the page type before writing.
 1. **Main Targeted City: Morristown, VT**
    - Gets the most content
    - Gets a general location page (uses location-page-template.md, same as Nearby City pages)
-   - Also gets a dedicated page per service (e.g., "Tree Trimming in Morristown," "Tree Removal in Morristown"). Template for these: TBD, not yet defined.
+   - Also gets a dedicated page per service (e.g., "Tree Trimming in Morristown," "Tree Removal in Morristown"). Template: `templates/service-location-page-template.md`.
 
 2. **Nearby Cities**
    - Uses `location-page-template.md` exactly as built, with population-tier word counts
@@ -93,9 +93,9 @@ Emerald ash borer, fire blight, bacterial leaf scorch, chlorosis, crown thinning
 ## Pattern and Angle Tracker
 Updated after every page. Choose a pattern or angle not used in the client's last 3 to 5 pages (per column).
 
-| City, State | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
-|---|---|---|---|---|---|---|
-| Rutland City, VT | Local problem first | Regulatory/practical-based | When it's needed | Peace-of-mind angle | What the customer sees | Cost, permits, emergency response |
+| City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
+|---|---|---|---|---|---|---|---|
+| Rutland City, VT | General | Local problem first | Regulatory/practical-based | When it's needed | Peace-of-mind angle | What the customer sees | Cost, permits, emergency response |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |

@@ -159,8 +159,8 @@ Only include if competitor research surfaced a genuinely useful topic the client
 
 ## Pattern and Angle Tracker (template for client profile files)
 
-Each client profile file should include a table like this, updated after every page:
+Each client profile file should include a table like this, updated after every page. Page Type is "General" for pages from this template, or the service name (e.g., "Tree Trimming") for pages from service-location-page-template.md:
 
-| City, State | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
-|---|---|---|---|---|---|---|
-| (example) West Milton, PA | Local problem first | Crew-based | Local tree connection | Trust/credibility | What we do | Cost, Permits, Emergency response |
+| City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
+|---|---|---|---|---|---|---|---|
+| (example) West Milton, PA | General | Local problem first | Crew-based | Local tree connection | Trust/credibility | What we do | Cost, Permits, Emergency response |

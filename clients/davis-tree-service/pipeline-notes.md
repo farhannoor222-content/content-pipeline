@@ -16,7 +16,7 @@ This file holds only what `about.md` and `customer-persona.md` do not already co
 1. **Main Targeted City: Ponca City, OK**
    - Gets the most content
    - Gets a general location page (uses location-page-template.md, same as Nearby City pages)
-   - Also gets a dedicated page per service (e.g., "Tree Removal in Ponca City," "Crane Services in Ponca City"). Template for these: TBD, not yet defined.
+   - Also gets a dedicated page per service (e.g., "Tree Removal in Ponca City," "Crane Services in Ponca City"). Template: `templates/service-location-page-template.md`.
 
 2. **Nearby Cities**
    - Uses `location-page-template.md` exactly as built, with population-tier word counts
@@ -103,11 +103,10 @@ High winds, tornadoes, and ice storms (OSU Extension), spring and early-summer t
 ## Pattern and Angle Tracker
 Updated after every page. Choose a pattern or angle not used in the client's last 3 to 5 pages (per column).
 
-| City, State | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
-|---|---|---|---|---|---|---|
-
+| City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
+|---|---|---|---|---|---|---|---|
 ## Heading Pool: Customized Local H2
-| Heading Used | City, State | Notes |
+| Heading Used | General | City, State | Notes |
 |---|---|---|
 
 ## Pages Written

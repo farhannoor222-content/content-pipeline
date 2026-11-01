@@ -15,7 +15,7 @@ This file holds only what `about.md` and `customer-persona.md` do not already co
 1. **Main Targeted City: Winfield, PA**
    - Gets the most content
    - Gets a general location page (uses location-page-template.md, same as Nearby City pages)
-   - Also gets a dedicated page per service (e.g., "Tree Trimming in Winfield," "Tree Removal in Winfield"). Template for these: TBD, not yet defined.
+   - Also gets a dedicated page per service (e.g., "Tree Trimming in Winfield," "Tree Removal in Winfield"). Template: `templates/service-location-page-template.md`.
 
 2. **Nearby Cities**
    - Uses `location-page-template.md` exactly as built, with population-tier word counts
@@ -85,10 +85,10 @@ Emerald Ash Borer (ash trees), crotch splitting and fungal decay (maples), anthr
 ## Pattern and Angle Tracker
 Updated after every page. Choose a pattern or angle not used in the client's last 3 to 5 pages (per column).
 
-| City, State | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
-|---|---|---|---|---|---|---|
-| West Milton, PA (prior to pipeline, reference only) | Unknown | Crew-based | Local tree connection | Direct benefit | What we do | Cost, Timing, Quote |
-| New Berlin, PA | Local problem first | Terrain/risk-based | Risk or consequence angle | Comparison angle | Why it matters | Cost, Emergency response, Insurance |
+| City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
+|---|---|---|---|---|---|---|---|
+| West Milton, PA (prior to pipeline, reference only) | General | Unknown | Crew-based | Local tree connection | Direct benefit | What we do | Cost, Timing, Quote |
+| New Berlin, PA | General | Local problem first | Terrain/risk-based | Risk or consequence angle | Comparison angle | Why it matters | Cost, Emergency response, Insurance |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
