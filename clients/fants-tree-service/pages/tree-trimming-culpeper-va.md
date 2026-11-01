@@ -57,6 +57,10 @@ We can usually look at a limb rubbing your roof the same day or the next. Quick 
 
 Our Virginia contractor's license and insurance cover every trimming job. That coverage protects you if a limb falls the wrong way.
 
+### Family Owned and Operated Since 1978
+
+You get pruning advice from a family that has worked on Culpeper oaks since 1978. Three generations of experience go into every cut we make on your trees.
+
 ## Our Working Process
 
 Fant's Tree Service follows a safety-focused process on every trimming job. Each step protects your tree, your home, and our crew.

@@ -57,6 +57,10 @@ Some companies push removal on any tree that looks tired. We tell you when trimm
 
 A new outfit may not be around when you need follow-up work. Our family has served Culpeper since 1978 and plans to keep going.
 
+### Same-Day or Next-Day Scheduling
+
+Some companies make you wait weeks while a dead tree hangs over your house. We can usually visit the same day or the next.
+
 ## Our Working Process
 
 Fant's Tree Service follows a safety-focused process on every removal. Each step exists to protect your home, your yard, and our crew.

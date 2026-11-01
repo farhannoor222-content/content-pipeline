@@ -79,6 +79,10 @@ Most calls get a visit the same day or the next day. Fast scheduling matters whe
 
 Reviews often mention that our jobs leave no ruts in the yard. That result comes from the arbor mats we lay under our heavy equipment. Your lawn looks the same when we leave as it did when we arrived.
 
+### Honest Recommendations
+
+We never call a healthy tree diseased or stretch a job over extra days. Honest advice is how a family business lasts three generations in one town. You get the truth about your trees, even when it means less work for us.
+
 ## Our Working Process
 
 Fant's Tree Service runs every job with a safety-focused plan. You can watch each step from your porch, and our crew explains what comes next.
