@@ -125,11 +125,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 
 | City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|---|
+| Culpeper, VA | General | Business and experience first | Community-based | Equipment or expertise angle | Trust/credibility | What the customer sees | Cost, Insurance, Emergency response, Timing |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
 |---|---|---|
+| Rooted in Culpeper Since 1978 | Culpeper, VA | Avoid reusing for next 5 pages |
 
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+| Culpeper, VA | 2026-11-01 | pages/culpeper-va.md |
