@@ -1,5 +1,14 @@
 # Tone and QA Rules (Global, applies to all clients)
 
+## Service Definitions
+
+These two services are often confused. Never describe them the same way or use overlapping language between them:
+
+- Tree Removal: cutting down a tree section by section
+- Tree Cutting: felling a tree in one piece
+
+When writing about either service, state the actual method (section by section versus felling in one piece) rather than a generic phrase like "taking the tree down," so the two services stay clearly distinct.
+
 ## Voice
 
 * Confident, professional, reassuring, like a seasoned local expert
