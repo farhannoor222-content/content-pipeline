@@ -72,6 +72,7 @@ Claims rule: "arborist" and "our arborists" are fine for every client. Never add
 * The description text under consecutive H3s must not start with the same word
 * H3 descriptions under the same H2 should stay similar in length for layout alignment
 * Customized local H2 heading must not repeat a heading already used for the same client in its last 5 pages
+* No H2 or H3 heading may name or target a specific tree species (e.g., not "Pruning Culpeper's White Oaks," "Oak Care," or "Pine Removal"). Species belong in body text only. This applies to every section, including the Tree-species-based angle, where the heading stays general and the species appear in the paragraph
 
 ## Banned Words List (Global)
 
@@ -107,3 +108,4 @@ Only use a heading or phrase that passes all three tests. Never copy a competito
 10. FAQ answers give a direct answer first, then a second sentence naming the business's own action ("our" or the business name preferred over "we"), per the FAQ rules in the page template
 11. "We" appears in no more than about 20 percent of sentences
 12. Required Terms present: "arborist" at least 2 times, and "tree experts," "tree care professionals," "local," "experienced," and "tree surgeons" at least once each, with no unsupported arborist claims
+13. No H2 or H3 heading names a specific tree species
