@@ -11,7 +11,7 @@ Before writing, check the client's Pattern and Angle Tracker in pipeline-notes.m
 - Tree Trimming, Tree Removal, Emergency Tree Service pages: use the same population tiers as location-page-template.md (Tier 1 under 5,000 = 1 sentence, Tier 2 5,000 to 20,000 = 2 sentences, Tier 3 over 20,000 = 3 sentences) for the "Our [Service] Services" section.
 - Stump Grinding, Stump Removal, Crane Service, and any other service page: always use the Tier 2 word count (2 sentences), regardless of the city's actual population.
 
-These tiers apply only to the "Our [Service] Services" section (Trimming and Removal pages). The Customized Local Heading has a fixed length.
+These tiers apply only to the "Our [Service] Services" section (Trimming and Removal pages). The Customized Local Heading and Why Choose sections have fixed lengths.
 
 ## Page Structure
 
@@ -41,7 +41,7 @@ Follow the same Action rule and Species rule as the "Our Services" section in lo
 (tiered) word count per the Population Tiers section above.
 
 ### H2: Why Choose [Business Name]
-Identical to the "Why Choose [Business Name]" section in location-page-template.md: same angle options, same rotation rule, same tiered word count.
+Same as the "Why Choose [Business Name]" section in location-page-template.md (same angle options, same rotation rule), except the length is fixed: always use the Tier 2 count, 2 sentences per USP H3, regardless of the city's population.
 
 ### H2: Our Working Process
 Identical to the "Our Working Process" section in location-page-template.md: same angle options, same even-steps-only rule (4 or 6), same rule against using a USP as a step.
