@@ -136,7 +136,7 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | Heading Used | City, State | Notes |
 |---|---|---|
 | Rooted in Culpeper Since 1978 | Culpeper, VA | Avoid reusing for next 5 pages |
-| Pruning Culpeper's White Oaks and Tulip Poplars | Culpeper, VA (Tree Trimming) | Avoid reusing for next 5 pages |
+| Pruning Culpeper's Mature Shade Trees | Culpeper, VA (Tree Trimming) | Avoid reusing for next 5 pages |
 | Removing Trees on Tight Culpeper Lots | Culpeper, VA (Tree Removal) | Avoid reusing for next 5 pages |
 | Our Crews Grind Stumps Across Culpeper | Culpeper, VA (Stump Grinding) | Avoid reusing for next 5 pages |
 | When a Tree Can Fall in One Piece | Culpeper, VA (Tree Cutting) | Avoid reusing for next 5 pages |

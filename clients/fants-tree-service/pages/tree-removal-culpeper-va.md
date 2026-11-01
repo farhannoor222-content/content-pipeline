@@ -37,19 +37,19 @@ For big trees, our crane lifts each section up and over your home to a safe land
 
 Hiring Fant's Tree Service for removal means a local family crew with its own cranes and lifts. You get options that many smaller outfits cannot offer.
 
-### Crane Lifts Instead of Free Drops
+### Crane Lifts, Not Drops
 
 Many crews drop sections and hope the lawn survives. Our crane lifts heavy wood out and sets it down where you choose.
 
-### No Rental Markup on Big Removals
+### No Crane Rental Markup
 
 Companies that rent a crane pass that cost along to you. Fant's Tree Service owns its crane, so your price covers the work only.
 
-### Insured for Removals Near Your Home
+### Insured Near Your Home
 
 An uninsured crew leaves you paying for any damage to your house. Our Virginia contractor's license and insurance remove that risk.
 
-### Removal Only When Trimming Won't Work
+### Removal Only When Needed
 
 Some companies push removal on any tree that looks tired. Our tree experts tell you when trimming or cabling can save it instead.
 
@@ -57,11 +57,11 @@ Some companies push removal on any tree that looks tired. Our tree experts tell 
 
 Fant's Tree Service treats every removal as a safety-focused project. Each step exists to protect your home, your yard, and the crew.
 
-### Drop Zone and Hazard Check
+### Drop Zone Check
 
 Our arborist maps the drop zone and nearby lines before planning cuts. That check prevents surprises once the first section comes down.
 
-### Arbor Mats Before Heavy Gear
+### Mats Before Heavy Gear
 
 Arbor mats cover your lawn before any machine rolls in. Spreading the weight this way stops ruts from forming in soft ground.
 
@@ -69,7 +69,7 @@ Arbor mats cover your lawn before any machine rolls in. Spreading the weight thi
 
 The crew ropes each section and lowers it instead of letting it fall. Controlled lowering keeps heavy wood away from your roof and fences.
 
-### Debris Cleanup and Yard Review
+### Cleanup and Yard Review
 
 Once the tree is down, the crew clears debris and lifts the mats. A final walkthrough lets you check every part of the yard.
 

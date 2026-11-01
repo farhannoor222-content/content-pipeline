@@ -11,7 +11,7 @@ Heavy limbs over roofs, borer damage, and canopies opened too far all strain you
 - Proper Weight Reduction Pruning
 - Same-Day or Next-Day Scheduling
 
-## Pruning Culpeper's White Oaks and Tulip Poplars
+## Pruning Culpeper's Mature Shade Trees
 
 If your Culpeper yard holds white oaks or chestnut oaks, our arborists prune both with small, careful cuts. The crew leaves enough canopy to shade the bark, since an over-opened oak can sun-scorch. Tall tulip poplars and pines break easily, so our tree surgeons lighten limbs over your roof first. That work lowers the chance of a limb snapping during a summer thunderstorm. On older lots near Commerce Street downtown, the crew trims limbs back from porches, gutters, and rooflines. Our crane reaches over tight spaces when a ladder or lift cannot. Every tree gets a plan based on its species, health, and location. You see that plan before the first cut.
 
@@ -37,19 +37,19 @@ Low limbs that block your driveway, sidewalk, or windows come off with crown rai
 
 Hiring Fant's Tree Service for trimming means experienced tree care professionals on every job. You get safer limbs and a canopy that stays healthy for years.
 
-### Pruning That Keeps Oaks Shaded
+### Pruning That Preserves Shade
 
 You keep the shade your oaks need, because the crew never strips a canopy bare. That restraint protects white and chestnut oak bark from sun scorch.
 
-### Weight Reduction Cuts, Never Stubbing
+### Proper Cuts, No Stubbing
 
 Your trees get shortened limbs, not stubbed-off crowns that grow back weak. That method is what any good arborist recommends for long-term health.
 
-### Lifts and a Crane for High Limbs
+### Own Lifts and Crane
 
 Our own lifts and crane reach the high limbs over your roof. You pay no rental markup, so the trimming bill stays lower.
 
-### Quick Visits for Limbs on Your Roof
+### Fast Roofline Limb Checks
 
 Fant's Tree Service can usually check a limb scraping your shingles the same day or the next. Quick visits stop small rubs from turning into roof repairs.
 
@@ -61,7 +61,7 @@ Fant's Tree Service keeps every trimming job safety-focused from the first look 
 
 An arborist studies each tree's species, health, and limb weight before any cut. You hear which limbs come off and why.
 
-### Ground Mats Under the Lift
+### Mats Under the Lift
 
 The crew lays arbor mats wherever the lift will roll across your lawn. Those mats spread the load and keep the turf firm.
 
@@ -69,7 +69,7 @@ The crew lays arbor mats wherever the lift will roll across your lawn. Those mat
 
 Climbers tie off each heavy limb above your house and lower it on ropes. Nothing large drops freely near your roof or garden.
 
-### Brush Haul-Off and Final Look
+### Haul-Off and Final Look
 
 Cut branches leave on our trucks, and the mats come up last. You walk the yard with the crew before it leaves.
 
