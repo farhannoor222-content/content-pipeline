@@ -22,7 +22,7 @@ Check the city's population and set the tier. Use it to set sentence and word co
 
 Opening pattern: choose one category not used in this client's last 3 to 4 pages.
 
-- **Local problem first**: Research a tree-related problem genuinely common in this city or region (storm damage, a specific pest, soil conditions, drought stress, etc.). Open with that problem, grounded in real local research, not a generic line.
+- **Local problem first**: Research 2 to 3 tree-related problems genuinely common in this city or region (storm damage, a specific pest, soil conditions, drought stress, etc.), not just one. Mentioning only one problem narrows the page to readers who have that exact issue; covering 2 to 3 makes more readers feel the page speaks to them. Open with these problems, grounded in real local research, not generic lines.
 - **Business and experience first**: Open with what the business does and how long it has served the area, then connect to the local context.
 - **Local detail first**: Open with a specific researched local detail (climate, tree species, landmark) and tie it naturally into the need for tree service.
 - **Benefit first**: Open with the outcome or benefit the homeowner gets, then explain briefly how.
@@ -33,7 +33,18 @@ After the opening (regardless of pattern chosen), the H1 must:
 - End with a benefit or result
 - Include "tree service in [City, State]" naturally within the 40 words
 
+Transition rule: the sentence introducing the business must connect directly to what the opening said, not jump to a generic service pitch. If the opening named problems, the business sentence should say how the business addresses those specific problems (e.g., stopping their spread, fixing them before they worsen), not just list services. The reader should feel one continuous thought, not two disconnected sentences stitched together.
+
 Rule: never reuse the same opening pattern as the client's immediately preceding page. Never reuse specific phrasing, facts, or sentence structure from a previous page, even within the same pattern category.
+
+### Trust Badges
+Immediately after the H1 intro, add 4 short bullet points, 3 to 4 words each, conversion-focused trust signals. Not a sentence, just the phrase.
+
+Pull from the client's USPs, certifications, or guarantees (from the client profile files). Examples of the type: "ISA-Certified Arborists," "Licensed and Insured," "24/7 Emergency Service," "X Years in Business."
+
+Review count badge: check `data/review-counts.csv` (a shared, monthly-updated file covering all clients) for this client's current review count. If the file has an entry and the count is 30 or higher, include it as one of the 4 badges (e.g., "47 5-Star Reviews"). If there is no entry, the count is below 30, or the file does not exist yet, skip the review badge and use another USP or certification instead. Never invent a review count.
+
+These 4 can stay the same across a client's pages or vary, either is fine, no rotation tracking needed for this section.
 
 ### H2: Customized Local Heading
 Pull from the client's heading pool if an unused or recently-unused option exists. Otherwise write a new one using local details.
@@ -49,6 +60,12 @@ Angle: choose one focus not used in this client's last 3 to 4 pages.
 - **Regulatory/practical-based**: Lead with local permit rules, insurance requirements, or practical constraints specific to this city, and how the business navigates them.
 
 Content rule: do not cover every category (tree species, weather, soil, neighborhoods, equipment, regulations) every time. Pick 2 to 3 that fit the chosen angle naturally.
+
+Expertise framing rule: this section is a landing page, not a blog or a manual. Never state a local fact (a city rule, a regulation, a tree risk) as a standalone fact. Always tie it back to what the business does about it: who the business works with, how the business handles it, what the business confirms or arranges for the customer. A sentence that only explains a fact without connecting it to the business's role is not allowed.
+
+Depth rule: do not let one topic (e.g., one specific regulation or one specific pest program) take up more than about a third of this section's word count. Cover 2 to 3 distinct local factors instead of elaborating heavily on just one. Say each point directly and move on, don't pad a single idea across multiple sentences.
+
+Local-reference rule: this section must name at least one real local neighborhood, street, or landmark from the location research, in any natural way that fits the chosen angle. Never skip this.
 
 Order rule: vary the order details appear in from page to page.
 
@@ -94,7 +111,7 @@ Rules:
 ### H2: Our Working Process
 Intro: 20 to 30 words. State business name, that the process is safety-focused.
 
-Content angle for this page: choose ONE for all process-step H3s on this page (from client's process step list, 4 to 6 steps):
+Content angle for this page: choose ONE for all process-step H3s on this page (from client's process step list):
 
 - **What we do**: a plain description of the action taken in this step
 - **Why it matters**: the safety or quality reason behind this step
@@ -102,6 +119,8 @@ Content angle for this page: choose ONE for all process-step H3s on this page (f
 - **Technical/expertise angle**: briefly note the skill or equipment involved in this step
 
 Rules:
+- Use an EVEN number of steps only: 4 or 6. Never 3 or 5.
+- Process steps describe an action taken during the job (assessment, protection, execution, cleanup). A USP (like "Same-Day Response," "Free Estimates," "Licensed and Insured") is not a process step, even if it happens early. Do not pull USP content into this section, even reworded. If the client's process step list has an odd number of genuine process steps, either combine two closely related steps into one, or split a broader step into two, to land on 4 or 6, rather than adding an unrelated USP as a step.
 - All process-step H3s on one page use the same chosen angle
 - 20 to 24 words per step, 2 sentences
 - Track angle used on this client's last 5 to 8 pages, avoid repeating
@@ -115,29 +134,22 @@ For each neighborhood or landmark (from location research file):
 - Do not promote the service in this section
 
 ### H2: Frequently Asked Questions
-3 to 4 questions total: 1 mandatory cost question plus 2 to 3 rotating questions.
+3 to 4 questions.
 
-**Mandatory: Cost.** Every page includes one cost question. Answer only with the price ranges in the client's profile file. Never invent numbers.
+Question pool:
+- **Mandatory**: one cost or pricing question appears on every page (the single most-searched topic)
+- **Rotate** (pick 2 to 3, not used in this client's last 4 to 5 pages): timing or signs to call an arborist, permits or regulations, how to get a quote, insurance or liability, what to expect during service, emergency response time
 
-**Rotating: choose 2 to 3 topics from this list:**
+Sources for questions:
+- The client's profile file (customer-persona.md or pipeline-notes.md), especially "Concerns" and "Evaluation Criteria" sections, for real customer worries rather than generic questions
+- Competitor FAQ sections, if a competitor page has a genuinely useful question not already in the pool above. Run it through the same test as the Thin-Content Filter in tone-and-qa-rules.md (specific, adds something new, not boilerplate) before adding it
 
-- **Timing**: when to schedule work, or signs it's time to call an arborist
-- **Permits**: whether this city requires a permit for tree work or removal
-- **Quote process**: how to get an estimate and what it includes
-- **Insurance**: the business's coverage and what it means for the homeowner
-- **Service expectations**: what happens on the day of service, including cleanup
-- **Emergency response**: what to do after storm damage and how fast help can arrive
-
-**Competitor FAQ source:** A question found in competitor research can fill one rotating slot, but only if it passes all three tests in the Thin-Content Filter in `tone-and-qa-rules.md` (specific, adds something new, not boilerplate). Never copy a competitor's question or answer verbatim. Adapt it into original wording.
-
-Rules:
-- Check the FAQ Topics column in the client's Pattern and Angle Tracker, and do not use the same set of rotating topics as the client's immediately preceding page
-- Log the topics used (including any competitor-sourced question) in the FAQ Topics column after finishing the page
+Track which FAQ topics were used on this client's last 4 to 5 pages (add an "FAQ Topics" column to the Pattern and Angle Tracker) and avoid repeating the same set.
 
 For each answer:
 - 22 to 25 words
-- Give a direct answer first
-- End by promoting the service generally (not the business name) unless the question is explicitly about contacting the business
+- First sentence: a direct answer, using real pricing or details from the client profile where relevant, never invented numbers
+- Second sentence: promote the business by directly naming its own action, using "we" or "our" (e.g., "Our free estimates give you the exact price," "Our arborists can confirm whether you need a permit," "We're available 24/7 for emergency calls"). Never a generic third-person statement ("A free estimate gives you...", "A tree service can confirm..."). Exception: if the question is explicitly about contacting the business, the whole answer can focus on that instead
 
 ### Optional: 1 to 2 Additional H2s
 Only include if competitor research surfaced a genuinely useful topic the client's competitors cover and this template does not. Skip if no competitor page clears the 300-word thin-content threshold.
@@ -148,4 +160,4 @@ Each client profile file should include a table like this, updated after every p
 
 | City, State | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|
-| (example) West Milton, PA | Local problem first | Crew-based | Local tree connection | Trust/credibility | What we do | Cost, permits, emergency response |
+| (example) West Milton, PA | Local problem first | Crew-based | Local tree connection | Trust/credibility | What we do | Cost, Permits, Emergency response |
