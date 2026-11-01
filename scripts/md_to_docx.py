@@ -31,6 +31,8 @@ def convert(md_path: Path) -> Path:
         m = re.match(r"^(#{1,3})\s+(.*)$", line)
         if m:
             doc.add_heading(m.group(2), level=len(m.group(1)))
+        elif line.startswith("- "):
+            doc.add_paragraph(line[2:], style="List Bullet")
         else:
             doc.add_paragraph(line)
 
