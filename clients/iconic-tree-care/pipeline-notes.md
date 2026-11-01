@@ -95,11 +95,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 
 | City, State | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|
+| Rutland City, VT | Local problem first | Regulatory/practical-based | When it's needed | Peace-of-mind angle | What the customer sees | Cost, permits, emergency response |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
 |---|---|---|
+| Tree Work That Follows Rutland City Rules | Rutland City, VT | Avoid reusing for next 5 pages |
 
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+| Rutland City, VT | 2026-11-01 | pages/rutland-city-vt.md |
