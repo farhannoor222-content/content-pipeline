@@ -88,13 +88,16 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | City, State | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|
 | West Milton, PA (prior to pipeline, reference only) | Unknown | Crew-based | Local tree connection | Direct benefit | What we do | Cost, Timing, Quote |
+| New Berlin, PA | Local problem first | Terrain/risk-based | Risk or consequence angle | Comparison angle | Why it matters | Cost, Emergency response, Insurance |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
 |---|---|---|
 | We Offer Customized Solution for Your Yard | West Milton, PA | Original used; avoid reusing for next 5 Kerlin pages |
+| Tree Care Built for Life Along Penns Creek | New Berlin, PA | Avoid reusing for next 5 Kerlin pages |
 
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
 | West Milton, PA | (prior to pipeline) | reference page, not in clients/kerlin-tree-service/pages/ |
+| New Berlin, PA | 2026-11-01 | pages/new-berlin-pa.md |
