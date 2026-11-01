@@ -115,7 +115,24 @@ For each neighborhood or landmark (from location research file):
 - Do not promote the service in this section
 
 ### H2: Frequently Asked Questions
-3 to 4 questions. Prioritize: cost, timing or signs to call an arborist, permits, and how to get a quote.
+3 to 4 questions total: 1 mandatory cost question plus 2 to 3 rotating questions.
+
+**Mandatory: Cost.** Every page includes one cost question. Answer only with the price ranges in the client's profile file. Never invent numbers.
+
+**Rotating: choose 2 to 3 topics from this list:**
+
+- **Timing**: when to schedule work, or signs it's time to call an arborist
+- **Permits**: whether this city requires a permit for tree work or removal
+- **Quote process**: how to get an estimate and what it includes
+- **Insurance**: the business's coverage and what it means for the homeowner
+- **Service expectations**: what happens on the day of service, including cleanup
+- **Emergency response**: what to do after storm damage and how fast help can arrive
+
+**Competitor FAQ source:** A question found in competitor research can fill one rotating slot, but only if it passes all three tests in the Thin-Content Filter in `tone-and-qa-rules.md` (specific, adds something new, not boilerplate). Never copy a competitor's question or answer verbatim. Adapt it into original wording.
+
+Rules:
+- Check the FAQ Topics column in the client's Pattern and Angle Tracker, and do not use the same set of rotating topics as the client's immediately preceding page
+- Log the topics used (including any competitor-sourced question) in the FAQ Topics column after finishing the page
 
 For each answer:
 - 22 to 25 words
@@ -129,6 +146,6 @@ Only include if competitor research surfaced a genuinely useful topic the client
 
 Each client profile file should include a table like this, updated after every page:
 
-| City, State | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle |
-|---|---|---|---|---|---|
-| (example) West Milton, PA | Local problem first | Crew-based | Local tree connection | Trust/credibility | What we do |
+| City, State | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
+|---|---|---|---|---|---|---|
+| (example) West Milton, PA | Local problem first | Crew-based | Local tree connection | Trust/credibility | What we do | Cost, permits, emergency response |

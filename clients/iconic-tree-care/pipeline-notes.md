@@ -93,8 +93,8 @@ Emerald ash borer, fire blight, bacterial leaf scorch, chlorosis, crown thinning
 ## Pattern and Angle Tracker
 Updated after every page. Choose a pattern or angle not used in the client's last 3 to 5 pages (per column).
 
-| City, State | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle |
-|---|---|---|---|---|---|
+| City, State | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
+|---|---|---|---|---|---|---|
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
