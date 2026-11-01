@@ -151,6 +151,7 @@ Track which FAQ topics were used on this client's last 4 to 5 pages (add an "FAQ
 For each answer:
 - 22 to 25 words
 - First sentence: a direct answer, using real pricing or details from the client profile where relevant, never invented numbers
+- If the client profile has no pricing reference, research a real local or regional average price range for that service via web search instead of skipping the number or leaving it vague. Still never invent a number.
 - Second sentence: promote the business by directly naming its own action, using "we" or "our" (e.g., "Our free estimates give you the exact price," "Our arborists can confirm whether you need a permit," "We're available 24/7 for emergency calls"). Never a generic third-person statement ("A free estimate gives you...", "A tree service can confirm..."). Exception: if the question is explicitly about contacting the business, the whole answer can focus on that instead
 
 ### Optional: 1 to 2 Additional H2s
