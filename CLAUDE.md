@@ -23,3 +23,23 @@ Do all of this without asking for confirmation at each step. Only ask a question
 
 ## When the Request Has More Detail
 If the person gives extra instructions beyond city and business name (e.g., "make the H1 lead with weather," or "skip the FAQ section"), follow those instructions for that page instead of the defaults above.
+
+## GBP Post Requests
+Separate workflow from location pages above. Recognize a GBP post request when the person asks for a Google Business Profile post, a GBP post, or uploads a file whose tabs are labeled with business names rather than cities.
+
+### Multi-tab batch request (a .docx or similar file with one tab per business)
+1. Read the uploaded file. Each tab's content starts with a plain line naming a business. Match each tab, in order, to a client folder in clients/[business-slug]/ by that name.
+2. For each tab, read that client's about.md, customer-persona.md, and pipeline-notes.md.
+3. Determine the post type and topic for that tab from whatever the person specified (a topic list, a topic per tab, or a mix of post types). If nothing else is specified beyond the business name, ask which topics or post types to use for that batch before proceeding.
+4. Follow templates/gbp-post-templates.md exactly: pick the right post type's structure, apply the shared rules, and rotate structures, openings, and CTAs per that file's rules, checking the client's GBP Post Tracker in pipeline-notes.md first.
+5. Write the finished post back into that business's tab, replacing nothing else in the file.
+6. After all tabs are filled, save the file in clients/[business-slug]/gbp-posts/ for each business (or as one combined file if the person uploaded one combined file) and update each client's GBP Post Tracker.
+7. Give the person a download link to the completed file.
+
+### Single business, single or multiple posts
+1. Find the client folder, same as above.
+2. Ask for (or use what's already given): post type(s) and topic(s) if not specified.
+3. Follow templates/gbp-post-templates.md and the client's GBP Post Tracker, same as the batch flow.
+4. Save to clients/[business-slug]/gbp-posts/ and update the tracker.
+
+Do all of this without asking for confirmation at each step, same as location pages. Only ask when something genuinely blocks progress (topics not given, business name in a tab doesn't match any client folder, review post given with no screenshot or link).
