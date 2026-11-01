@@ -32,6 +32,7 @@ When writing about either service, state the actual method (section by section v
 * Second person ("you," "your property")
 * Aim for "you" or "your" in roughly 40 to 50 percent of sentences, not every sentence
 * Vary how "you" is used: as subject ("You can protect your home..."), as object ("Our team gives you..."), as possessive ("Your lawn stays..."), or implied through a command ("Call our local team today...")
+* Keep "we" to a minimum: no more than about 20 percent of sentences should use "we." Shift the subject instead: the business name ("Fant's Tree Service lowers each limb..."), "our crew," "our arborists," "the team," or the reader ("You get..."). Where a template rule calls for "we or our" (such as FAQ second sentences), prefer "our" or the business name
 
 ## Formatting Rules
 
@@ -55,6 +56,15 @@ When writing about either service, state the actual method (section by section v
 * Avoid fluff phrases: "we are passionate," "we care deeply," "you deserve," "when it comes to"
 * Avoid redundant and filler words
 * Cut the middle clause or split the sentence rather than stacking modifiers
+
+## Required Terms (Every Page)
+
+Work these terms into every page naturally. Never force them into a sentence where they read awkwardly, and never stack two of them in one sentence.
+
+* "Arborist" or "arborists": at least 2 times
+* Each of these at least once: "tree experts," "tree care professionals," "local," "experienced," "tree surgeons"
+
+Claims rule: these terms must not create a claim the client profile doesn't support. If a client has no arborist on staff (or the profile says not to claim one), use "arborist" in a general sense instead of "our arborist," for example "an arborist can tell whether..." or "the kind of pruning an arborist recommends." Never pair "arborist" with "certified" unless the client profile confirms a certification.
 
 ## Heading Rules
 
@@ -94,4 +104,6 @@ Only use a heading or phrase that passes all three tests. Never copy a competito
 7. Headings follow proper H1 to H3 Markdown structure, no brackets left in text
 8. No em dashes, ellipses, slashes-as-conjunctions, or ampersands in body text
 9. "You/your" appears in roughly 40 to 50 percent of sentences, not forced into every sentence
-10. FAQ answers give a direct answer first, then promote the service (not the business name) unless the question is about contacting the business directly
+10. FAQ answers give a direct answer first, then a second sentence naming the business's own action ("our" or the business name preferred over "we"), per the FAQ rules in the page template
+11. "We" appears in no more than about 20 percent of sentences
+12. Required Terms present: "arborist" at least 2 times, and "tree experts," "tree care professionals," "local," "experienced," and "tree surgeons" at least once each, with no unsupported arborist claims
