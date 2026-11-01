@@ -90,6 +90,8 @@ Rules:
 - Within the shared angle, still vary sentence structure and local details per service (different tree species per service, different specific detail per service)
 - (tiered) word count per population tier applies
 - No two consecutive H3s may start with the same word
+- Action rule: every service description must make clear what the business does, not just state a problem or fact. Even on the "Problem it solves" angle, the description needs an action tied to the business (e.g., "We trim overgrown sycamore limbs before they snap in a storm," not just "Overgrown sycamore limbs can snap in a storm"). A sentence that describes only a risk or situation with no business action in it is incomplete, regardless of which angle is chosen.
+- Species rule: when a service description references local tree species, name 2 to 3 species as examples, not just one. Naming only one species makes the service sound limited to that species. This applies at every population tier, including the 1-sentence Tier 1 descriptions, where the species can be listed briefly (e.g., "oak, maple, and sycamore limbs").
 
 ### H2: Why Choose [Business Name]
 Intro: 20 to 30 words. State business name, what hiring them means for the homeowner.
