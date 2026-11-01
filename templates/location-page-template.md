@@ -109,6 +109,7 @@ Rules:
 - (tiered) word count per population tier applies
 - Track angle used on this client's last 5 to 8 pages, avoid repeating
 - Vary which USP leads the section from page to page, not always the same order
+- Use an even number of H3s: 4 or 6
 
 ### H2: Our Working Process
 Intro: 20 to 30 words. State business name, that the process is safety-focused.

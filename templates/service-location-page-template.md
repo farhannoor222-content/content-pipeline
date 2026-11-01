@@ -41,10 +41,20 @@ Follow the same Action rule and Species rule as the "Our Services" section in lo
 (tiered) word count per the Population Tiers section above.
 
 ### H2: Why Choose [Business Name]
-Same as the "Why Choose [Business Name]" section in location-page-template.md (same angle options, same rotation rule), except the length is fixed: always use the Tier 2 count, 2 sentences per USP H3, regardless of the city's population.
+Same angle options and rotation rule as the "Why Choose [Business Name]" section in location-page-template.md, plus these service-page rules:
+
+- Every H3 is a reason to hire this business for this one service, not a general company USP. Build the reasons from what the client profile says about this service: its method, equipment, timing, pricing, or crew. A general USP can appear only when it is tied to the service (e.g., on a stump grinding page, "Licensed and Insured" becomes "Covered if Debris Flies").
+- Use an even number of H3s: 4 or 6.
+- Never reuse an H3 heading or its wording from the client's other service pages. The same strength can return on another page, but with a new heading and a different take on it.
+- Length is fixed: always use the Tier 2 count, 2 sentences per H3, regardless of the city's population.
 
 ### H2: Our Working Process
-Identical to the "Our Working Process" section in location-page-template.md: same angle options, same even-steps-only rule (4 or 6), same rule against using a USP as a step.
+Same angle options as the "Our Working Process" section in location-page-template.md, plus these service-page rules:
+
+- Steps describe how this one service is actually done (e.g., stump grinding: measure and check for buried lines, protect the lawn, grind below grade, final check). Adapt the client's process step list to the service.
+- Use an even number of steps: 4 or 6. Never use a USP as a step.
+- Never reuse a step heading or its wording from the client's other service pages. When steps overlap (assessment, lawn protection, cleanup), rename and reword them for this service.
+- 20 to 24 words per step, 2 sentences.
 
 ### H2: Frequently Asked Questions
 3 to 4 questions, same format and per-answer rules as location-page-template.md (direct factual first sentence, "we/our" business action in the second sentence).

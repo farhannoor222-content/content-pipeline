@@ -64,7 +64,7 @@ Work these terms into every page naturally. Never force them into a sentence whe
 * "Arborist" or "arborists": at least 2 times
 * Each of these at least once: "tree experts," "tree care professionals," "local," "experienced," "tree surgeons"
 
-Claims rule: these terms must not create a claim the client profile doesn't support. If a client has no arborist on staff (or the profile says not to claim one), use "arborist" in a general sense instead of "our arborist," for example "an arborist can tell whether..." or "the kind of pruning an arborist recommends." Never pair "arborist" with "certified" unless the client profile confirms a certification.
+Claims rule: "arborist" and "our arborists" are fine for every client. Never add "certified" (or "ISA-certified") unless the client's about.md mentions a certification.
 
 ## Heading Rules
 
