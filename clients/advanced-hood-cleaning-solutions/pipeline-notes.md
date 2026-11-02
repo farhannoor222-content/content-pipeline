@@ -10,6 +10,8 @@ main_targeted_city: Rochester, NY (UNCONFIRMED, see note below)
 
 This file holds only what `about.md` and `customer-persona.md` do not already cover: tracking data the content pipeline needs to keep pages varied and consistent.
 
+**Entity pages:** "hood cleaning service near [Location]" pages follow `templates/hood-cleaning-entity-template.md`.
+
 **Different industry.** This is a commercial kitchen hood and exhaust cleaning company. The page templates in `templates/` are written for tree service (H1 "Tree Service in [City]," Service Definitions for tree removal and cutting, required terms like "arborist" and "tree surgeons"). Those tree-specific parts do not apply to this client. Pages need a hood-cleaning version of the template, or clear instructions on which sections to adapt, before writing.
 
 **Main city not confirmed.** about.md lists three primary areas: Buffalo, Rochester, and Syracuse, NY. The Google Business Profile text names only Buffalo and Rochester. Rochester is the working assumption because headquarters (Livonia) is closest to it and customer-persona.md's examples center on Rochester. Confirm.
