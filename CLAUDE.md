@@ -46,6 +46,17 @@ Separate workflow from location pages above. Recognize a GBP post request when t
 
 Do all of this without asking for confirmation at each step, same as location pages. Only ask when something genuinely blocks progress (topics not given, business name in a tab doesn't match any client folder, review post given with no screenshot or link).
 
+## Location Pages for Non-Tree Clients
+A "[Service] in [City, ST]" request for a non-tree client uses that industry's location template instead of the tree templates, with the same steps as tree location pages (research, QA, save to `clients/[business-slug]/pages/[service-slug]-[city-slug]-[state].md`, .docx, tracker update):
+
+| Industry | Template |
+|---|---|
+| Hood cleaning | `templates/hood-cleaning-location-page-template.md` |
+| Painting | `templates/painting-location-page-template.md` |
+| Excavation | `templates/excavation-location-page-template.md` |
+
+Apply tone-and-qa-rules.md, but skip the tree-only parts (Service Definitions, tree Required Terms). If the person supplies local information, work it in naturally.
+
 ## Entity Page Requests (non-tree clients)
 Recognize an entity request when the person asks for a "[service] near [Location]" page (or an "entity") for a non-tree client. Pick the template by industry:
 

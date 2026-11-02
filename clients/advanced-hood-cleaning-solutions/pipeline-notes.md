@@ -10,6 +10,8 @@ main_targeted_city: Rochester, NY (UNCONFIRMED, see note below)
 
 This file holds only what `about.md` and `customer-persona.md` do not already cover: tracking data the content pipeline needs to keep pages varied and consistent.
 
+**Location pages:** "[Service] in [City, ST]" pages follow `templates/hood-cleaning-location-page-template.md`.
+
 **Entity pages:** "hood cleaning service near [Location]" pages follow `templates/hood-cleaning-entity-template.md`.
 
 **Different industry.** This is a commercial kitchen hood and exhaust cleaning company. The page templates in `templates/` are written for tree service (H1 "Tree Service in [City]," Service Definitions for tree removal and cutting, required terms like "arborist" and "tree surgeons"). Those tree-specific parts do not apply to this client. Pages need a hood-cleaning version of the template, or clear instructions on which sections to adapt, before writing.
@@ -77,6 +79,7 @@ Confirm these are current before quoting them as the company's prices.
 ## Pattern and Angle Tracker
 | City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|---|
+| Williamson, NY | General (hood cleaning) | Conditions first | Local kitchen types and codes | Exactly what we do and benefits | Trust/credibility | What we do | Frequency, Duration, Cost |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
@@ -85,3 +88,4 @@ Confirm these are current before quoting them as the company's prices.
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+| Williamson, NY | 2026-11-02 | pages/hood-cleaning-williamson-ny.md |
