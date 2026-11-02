@@ -45,3 +45,12 @@ Separate workflow from location pages above. Recognize a GBP post request when t
 4. Save to clients/[business-slug]/gbp-posts/ and update the tracker.
 
 Do all of this without asking for confirmation at each step, same as location pages. Only ask when something genuinely blocks progress (topics not given, business name in a tab doesn't match any client folder, review post given with no screenshot or link).
+
+## Excavation Entity Page Requests
+Recognize an excavation entity request when the person asks for an "excavation service near [Location]" page (or an excavation entity) for an excavation client, such as Bonzo Excavating.
+
+1. Find the client folder and read `about.md`, `customer-persona.md`, and `pipeline-notes.md` (base address for driving directions comes from about.md).
+2. Research the given landmark or area (SERP, Reddit, Facebook) and use any details the person provides.
+3. Follow `templates/excavation-entity-template.md` exactly. The tree-service templates and tree Required Terms do not apply.
+4. If driving directions are not provided, ask the person to paste the Google Maps directions from the client's base to the location before writing Part 4.
+5. Save to `clients/[business-slug]/entities/[location-slug].md`, convert to .docx next to it, and give the person a download link.

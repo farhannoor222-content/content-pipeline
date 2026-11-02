@@ -14,6 +14,8 @@ This file holds only what `about.md` and `customer-persona.md` do not already co
 
 **Auto-drafted from the source files in a batch import.** Fields below were extracted by script. Review them, especially the main city, services, USPs, and process steps, before writing the first page.
 
+**Entity pages:** "excavation service near [Location]" pages follow `templates/excavation-entity-template.md`.
+
 **Different industry.** This business is excavating and septic installation, not tree service. The page templates in `templates/` are written for tree service (tree-specific H1, Service Definitions, required terms like "arborist" and "tree surgeons"). Those parts do not apply. Decide on an industry-specific template before writing pages.
 
 ## Page Types
