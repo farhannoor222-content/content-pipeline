@@ -62,7 +62,7 @@ Check customer-persona.md for price ranges. If it has none, research a real loca
 ## Client-Specific Notes
 
 - "Certified" is not allowed: about.md mentions no certification. "Arborist" alone is fine.
-- **about.md is incomplete.** It lists only service-area towns and the main target city (Sonora, TX). No business name line, address, phone, services, or USPs. The name comes from customer-persona.md. Get the missing details before writing pages.
+- about.md lists only service-area towns and the main target city (Sonora, TX). Address and phone are not required; services and USPs come from customer-persona.md.
 - Typo in about.md: "San Angel0" should be San Angelo; "Ozona" and "Big Lake" are listed twice.
 
 ## Pattern and Angle Tracker

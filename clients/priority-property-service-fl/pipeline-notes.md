@@ -111,7 +111,6 @@ Check customer-persona.md for price ranges. If it has none, research a real loca
 
 - "Certified" is not allowed: about.md mentions no certification. "Arborist" alone is fine.
 - about.md has a current and a new business description. The new one is the tree-focused version used here.
-- The new description mentions "Greenway Landscape" in the emergency section, which looks like a leftover from another business. Do not reuse it.
 
 ## Pattern and Angle Tracker
 Updated after every page. Choose a pattern or angle not used in the client's last 3 to 5 pages (per column).

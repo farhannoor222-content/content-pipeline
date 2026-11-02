@@ -63,7 +63,7 @@ Check customer-persona.md for price ranges. If it has none, research a real loca
 ## Client-Specific Notes
 
 - "Certified" is not allowed: about.md mentions no certification. "Arborist" alone is fine.
-- **about.md is incomplete.** No business name, address, or phone. The name comes from the folder and customer-persona.md. Service areas listed: Spencer, Sparta, Cookeville, Monterey, TN.
+- about.md has no business name, address, or phone (not required). The name comes from the folder and customer-persona.md.
 
 ## Pattern and Angle Tracker
 Updated after every page. Choose a pattern or angle not used in the client's last 3 to 5 pages (per column).

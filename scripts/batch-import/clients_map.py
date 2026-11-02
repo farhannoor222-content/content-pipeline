@@ -24,7 +24,7 @@ B = [
  ("in-and-outdoor-solution","In & Outdoor Solution",["In and Outdoor/About.txt"],["In and Outdoor/Customer Profile.txt"],"painting"),
  ("jm-ezzy-tree-service","JM Ezzy Tree Service",["JM Ezzy/About.txt"],["JM Ezzy/Target Client Overview.txt"],"tree"),
  ("kc-rochester-tree-and-landscape","K&C Rochester Tree and Landscape",["K&C Rochester/About and CustomerPersona.txt"],["K&C Rochester/Customer Profile.txt"],"tree"),
- ("keystone-tree-techs","Keystone Tree Techs Inc",[],["Keystone/About and CustomerPersona.txt"],"tree"),
+ ("keystone-tree-techs","Keystone Tree Techs",["Keystone/About.txt"],["Keystone/About and CustomerPersona.txt"],"tree"),
  ("leatherneck-tree-service","Leatherneck Tree Service",["Leatherneck/About Company.txt"],["Leatherneck/Target Client Overview.txt"],"tree"),
  ("lone-pine-tree-service","Lone Pine Tree Service",["Lone pine/About.txt"],["Lone pine/Customer Profile.txt"],"tree"),
  ("matias-tree-service","Matias Tree Service and Landscape Contractor",["matias/About.txt"],["matias/Customer Profile.txt"],"tree"),

@@ -73,7 +73,7 @@ Check customer-persona.md for price ranges. If it has none, research a real loca
 
 - "Certified" is not allowed: about.md mentions no certification. "Arborist" alone is fine.
 - **Related client:** Bonzo Excavating looks like the same owner. Keep pages distinct.
-- about.md has no address or phone number, and no main city.
+- about.md has no address, phone, or main city (address and phone are not required).
 
 ## Pattern and Angle Tracker
 Updated after every page. Choose a pattern or angle not used in the client's last 3 to 5 pages (per column).

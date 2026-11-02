@@ -67,7 +67,7 @@ Check customer-persona.md for price ranges. If it has none, research a real loca
 ## Client-Specific Notes
 
 - "Certified" is not allowed: about.md mentions no certification. "Arborist" alone is fine.
-- **about.md intro looks copied.** "We handle all tree needs! Residential, Commercial, Utility, Right of Way, Field Maintenance, Land Clearing!" is word for word the same as Davis Tree Service's about file. Confirm these claims actually apply to JM Ezzy.
+- The about.md intro matches Davis Tree Service's word for word. The client owner re-sent it unchanged on 2026-11-02, so it is treated as correct for JM Ezzy.
 
 ## Pattern and Angle Tracker
 Updated after every page. Choose a pattern or angle not used in the client's last 3 to 5 pages (per column).

@@ -190,7 +190,7 @@ def notes(slug, name, ind, about, persona, extra, ovr={}):
     for f in flags_for(about, usps) + extra:
         L.append(f"- {f}")
     if not persona:
-        L.append("- **No customer persona file was provided.** Pages will rely on about.md and city research only.")
+        L.append("- No customer persona file (fine for this client). Pages rely on about.md and city research.")
     L += ["", "## Pattern and Angle Tracker", "Updated after every page. Choose a pattern or angle not used in the client's last 3 to 5 pages (per column).", "",
           "| City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |",
           "|---|---|---|---|---|---|---|---|", "",

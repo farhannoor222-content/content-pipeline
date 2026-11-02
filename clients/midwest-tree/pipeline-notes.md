@@ -75,7 +75,7 @@ Check customer-persona.md for price ranges. If it has none, research a real loca
 
 - "Certified" is allowed: about.md mentions certification. Use only the exact certification it names.
 - about.md lists "ISA- Certified Arborist" as a USP, so the ISA certification may be named.
-- **No customer persona file was provided.** Pages will rely on about.md and city research only.
+- No customer persona file (fine for this client). Pages rely on about.md and city research.
 
 ## Pattern and Angle Tracker
 Updated after every page. Choose a pattern or angle not used in the client's last 3 to 5 pages (per column).
