@@ -90,3 +90,15 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | Weekend and Holiday Septic Emergency Service in Beaver Falls, PA | A | 📞 Call | N |
+| 2026-11-03 | Regular | Getting Your Septic System Ready for Freezing Weather in Beaver Falls, PA | C | 📲 Get in touch | N |
+| 2026-11-03 | Regular | Why You Should Never Open a Septic Tank Lid Yourself | A | 📅 Book | N |
+| 2026-11-03 | Regular | Signs Your Septic Tank Is Getting Full | B | 📞 Call | Y |
+| 2026-11-03 | Regular | Book Your Septic Pumping Before the Year Ends | C | 🗓️ Schedule | N |
+| 2026-11-03 | Regular | A Thanksgiving Thank You to Every Local Septic Service Customer | A | 📞 Call | N |

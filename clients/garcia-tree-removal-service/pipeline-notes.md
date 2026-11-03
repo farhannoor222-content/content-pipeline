@@ -75,3 +75,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | How Islip, NY Homeowners Can Prepare Their Trees for the First Snow | B | 📞 Call | Y |
+| 2026-11-03 | Regular | Why Dormant Season Pruning Reduces Tree Stress | C | 🗓️ Schedule | N |
+| 2026-11-03 | Review | (review post, no title) | Client-first | 📞 Call | N |
+| 2026-11-03 | Regular | Emergency Tree Removal After November Wind Storms in Islip, NY | A | 📞 Call | N |
+| 2026-11-03 | Regular | Trimming Trees So Snow Plows Can Reach Driveway | C | 📲 Get in touch | N |

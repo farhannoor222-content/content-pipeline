@@ -106,3 +106,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | City, State | Date | File |
 |---|---|---|
 | Rutland City, VT | 2026-11-01 | pages/rutland-city-vt.md |
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | How Morrisville Morristown, VT Homeowners Can Prepare Their Trees for the First Snow | B | 📞 Call | Y |
+| 2026-11-03 | Regular | Why Dormant Season Pruning Reduces Tree Stress | C | 🗓️ Schedule | N |
+| 2026-11-03 | Review | (review post, no title) | Business-first | ✉️ Contact | N |
+| 2026-11-03 | Regular | Emergency Tree Removal After November Wind Storms in Morrisville Morristown, VT | A | 📞 Call | N |
+| 2026-11-03 | Regular | Trimming Trees So Snow Plows Can Reach Driveway | C | 📲 Get in touch | N |
