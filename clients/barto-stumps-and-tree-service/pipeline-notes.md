@@ -74,3 +74,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | Post-Storm Tree Cleanup Services Throughout Spring Hill | A | 📞 Call | N |
+| 2026-11-03 | Regular | Downed Trees After High Winds: What Spring Hill Residents Should Do | B | 📞 Call | Y |
+| 2026-11-03 | Regular | Why Leaning Shady Hills Trees Need Immediate Removal Attention | C | 🗓️ Schedule | N |
+| 2026-11-03 | Regular | Why Trees Need More Care During Brooksville's Storm Months | A | 📅 Book | N |
+| 2026-11-03 | Review | (pending: screenshot needed) | - | - | N |

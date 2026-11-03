@@ -70,3 +70,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | Post-Storm Tree Cleanup Services Throughout Champaign | A | 📞 Call | N |
+| 2026-11-03 | Regular | How to Identify Hazardous Urbana Trees Before They Fall | B | 📞 Call | Y |
+| 2026-11-03 | Regular | Why Trees Need More Care During Mansfield's Storm Months | C | 🗓️ Schedule | N |
+| 2026-11-03 | Regular | What to Expect During Stump Grinding on Your Monticello Property | A | 📅 Book | N |
+| 2026-11-03 | Review | (pending: screenshot needed) | - | - | N |

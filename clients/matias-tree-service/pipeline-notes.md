@@ -79,3 +79,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | Storm Damage Tree Services for Florin Residents | A | 📞 Call | N |
+| 2026-11-03 | Regular | Storm Season Checklist for Vineyard Property Owners | B | 📞 Call | Y |
+| 2026-11-03 | Regular | How Old Stumps Can Hide Safety Hazards in Florin Yards | C | 🗓️ Schedule | N |
+| 2026-11-03 | Regular | What to Expect During Stump Grinding on Your Arden Arcade Property | A | 📅 Book | N |
+| 2026-11-03 | Review | (pending: screenshot needed) | - | - | N |

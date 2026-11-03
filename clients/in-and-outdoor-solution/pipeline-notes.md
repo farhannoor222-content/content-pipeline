@@ -106,3 +106,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | Planning a Bathroom Remodel in Shelbyville: Questions to Ask First | B | 📞 Call | Y |
+| 2026-11-03 | Regular | Choosing Paint Colors That Hold Up Through Prospect Winters | C | 📲 Get in touch | N |
+| 2026-11-03 | Regular | Interior Painting Prep Tips for Crestwood Homes | A | 📅 Book | N |
+| 2026-11-03 | Regular | Scheduling Commercial Exterior Painting Around Simpsonville Weather | C | 🗓️ Schedule | N |
+| 2026-11-03 | Review | (pending: screenshot needed) | - | - | N |

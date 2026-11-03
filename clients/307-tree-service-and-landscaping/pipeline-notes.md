@@ -108,3 +108,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | Same-Day Emergency Tree Cutting for Basin Homeowners | A | 📞 Call | N |
+| 2026-11-03 | Regular | How Fast Can You Get Emergency Tree Removal in Greybull? | C | 📞 Call | N |
+| 2026-11-03 | Regular | Best Time of Year for Stump Grinding in Worland | A | 📅 Book | N |
+| 2026-11-03 | Regular | How Often Should Trees Be Trimmed in Thermopolis? | C | 📲 Get in touch | N |
+| 2026-11-03 | Review | (pending: screenshot needed) | - | - | N |

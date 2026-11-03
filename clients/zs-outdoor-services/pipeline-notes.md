@@ -95,3 +95,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | Same-Day Emergency Tree Cutting for Eatonton Homeowners | A | 📞 Call | N |
+| 2026-11-03 | Regular | Post-Storm Tree Cleanup Services Throughout Madison | C | 📲 Get in touch | N |
+| 2026-11-03 | Regular | Why Trees Need More Care During Greensboro's Storm Months | A | 📅 Book | N |
+| 2026-11-03 | Regular | Understanding the Difference Between Trimming and Pruning | C | 🗓️ Schedule | N |
+| 2026-11-03 | Review | (pending: screenshot needed) | - | - | N |

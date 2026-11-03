@@ -74,3 +74,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | Water System Installation for Wexford Homes | A | 📅 Book | N |
+| 2026-11-03 | Regular | Sloped Yard Solutions for Cranberry Township Homeowners | C | 🗓️ Schedule | N |
+| 2026-11-03 | Regular | How Frost Depth Affects Footings in Pittsburgh | A | 📅 Book | N |
+| 2026-11-03 | Regular | Protecting Your Franklin Park Foundation With Better Grading | C | 📲 Get in touch | N |
+| 2026-11-03 | Review | (pending: screenshot needed) | - | - | N |
