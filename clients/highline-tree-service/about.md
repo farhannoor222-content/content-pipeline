@@ -1,13 +1,13 @@
-# About: High Line Tree Service
+# About: Highline Tree Service
 
 ### Company Info
 
-* Company name: High Line Tree Service
+* Company name: Highline Tree Service
 * Address: 11923 N Vining Rd, Lakeview, MI 48850
 
 ### About Business
 
-High Line Tree Service is committed to excellence in every aspect of our business. We uphold a standard of integrity bound by fairness, honesty, and personal responsibility. Our distinction is the quality of service we bring to our customers. Accurate knowledge of our trade, combined with ability, is what makes us true professionals. Above all, we are watchful of our customers' interests and make their concerns the basis of our business.
+Highline Tree Service is committed to excellence in every aspect of our business. We uphold a standard of integrity bound by fairness, honesty, and personal responsibility. Our distinction is the quality of service we bring to our customers. Accurate knowledge of our trade, combined with ability, is what makes us true professionals. Above all, we are watchful of our customers' interests and make their concerns the basis of our business.
 
 ### Main Services
 

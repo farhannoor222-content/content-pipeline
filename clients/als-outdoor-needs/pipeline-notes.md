@@ -78,7 +78,7 @@ Check customer-persona.md for price ranges. If it has none, research a real loca
 - "Certified" is not allowed: about.md mentions no certification. "Arborist" alone is fine.
 - **Two source folders.** The about file came from `Al's Outdoor Needs`, the customer profile from `Al's`.
 - **Persona location mismatch.** customer-persona.md opens with "Orange County homeowners," but the business is in Greensboro, GA. Check whether the persona was written for a different area before using its local details.
-- **Overlap with Z's Outdoor Services:** both list Greensboro, GA and nearby towns (Eatonton, Madison, White Plains, Athens, Monroe).
+- **Overlap with Z’s Outdoor Services:** both list Greensboro, GA and nearby towns (Eatonton, Madison, White Plains, Athens, Monroe).
 - Experience: about.md says established 2006 but "over 25 years of experience." Use team experience wording, not company age.
 
 ## Pattern and Angle Tracker

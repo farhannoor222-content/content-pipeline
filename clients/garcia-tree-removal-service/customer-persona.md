@@ -1,4 +1,4 @@
-# Garcia Tree Removal Service Customer Profile
+# García Tree Removal Service Customer Profile
 
 * Customer Profile: Show Me Tree Service
 

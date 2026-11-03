@@ -1,4 +1,4 @@
-# Matias Tree Service and Landscape Contractor Customer Profile
+# Matias tree service and landscape contractor Customer Profile
 
 ## Target Client Overview (60 words)
 
@@ -186,7 +186,7 @@ Sacramento’s diverse neighborhoods create complex tree service needs. From tig
 
 ## Property Type (Summary First – 40–50 words)
 
-Properties served by Matias Tree Service and Landscape Contractor reflect Sacramento’s mix of historic neighborhoods and expanding suburban development. Most clients own single-family homes with mature trees, while a smaller share manage townhomes or multi-family properties that require careful access planning, HOA coordination, and strict safety controls due to proximity to structures.
+Properties served by Matias tree service and landscape contractor reflect Sacramento’s mix of historic neighborhoods and expanding suburban development. Most clients own single-family homes with mature trees, while a smaller share manage townhomes or multi-family properties that require careful access planning, HOA coordination, and strict safety controls due to proximity to structures.
 
 ## Historic Homes – 25%
 
@@ -1246,7 +1246,7 @@ Customers also think beyond their own property. They want tree care that improve
 
 ## Service Packages (Overall Summary – 40–50 words)
 
-Matias Tree Service and Landscape Contractor offers tiered service packages designed around urgency, risk level, and long-term planning. Sacramento customers choose services based on immediate safety threats, preventive needs, or full-property care. Pricing is structured to be transparent, scope-based, and aligned with real property risks rather than generic estimates.
+Matias tree service and landscape contractor offers tiered service packages designed around urgency, risk level, and long-term planning. Sacramento customers choose services based on immediate safety threats, preventive needs, or full-property care. Pricing is structured to be transparent, scope-based, and aligned with real property risks rather than generic estimates.
 
 1. Emergency Response
 
@@ -1836,7 +1836,7 @@ Financial benefits center on cost control and prevention. Sacramento customers s
 
 ## Summary (40–50 words)
 
-Matias Tree Service and Landscape Contractor is positioned as a reliable, locally established tree service provider serving Sacramento and surrounding areas. The company competes as a trusted mid-market option that balances professional standards, fast response, and fair pricing without the impersonal approach of large franchises or the risk of unlicensed operators.
+Matias tree service and landscape contractor is positioned as a reliable, locally established tree service provider serving Sacramento and surrounding areas. The company competes as a trusted mid-market option that balances professional standards, fast response, and fair pricing without the impersonal approach of large franchises or the risk of unlicensed operators.
 
 * Local Sacramento-based business
 

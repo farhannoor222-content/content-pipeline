@@ -1,5 +1,5 @@
 ---
-business_name: Andrew's All Around Tree & Shrub
+business_name: Andrew’s All Around Tree & shrub
 industry: Tree Service
 phone: "724-510-0852"
 address: Address: 114 Rutgers Dr, New Castle, PA 16105
@@ -7,7 +7,7 @@ established: 7/16/2021
 main_targeted_city: Boardman, OH
 ---
 
-# Pipeline Notes: Andrew's All Around Tree & Shrub
+# Pipeline Notes: Andrew’s All Around Tree & shrub
 
 This file holds only what `about.md` and `customer-persona.md` do not already cover: tracking data the content pipeline needs to keep pages varied and consistent.
 
@@ -59,6 +59,7 @@ Check customer-persona.md for price ranges. If it has none, research a real loca
 - None identified yet
 
 ## Client-Specific Notes
+- **Exact business name (updated 2026-11-03):** write it as "Andrew’s All Around Tree & shrub" exactly, including spelling, capitalization, and punctuation. Content written before this date used the older spelling and was not rewritten.
 
 - USPs contain banned words (reword before using as headings): "utmost".
 - "Certified" is not allowed: about.md mentions no certification. "Arborist" alone is fine.

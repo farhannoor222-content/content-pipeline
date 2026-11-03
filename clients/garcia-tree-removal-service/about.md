@@ -1,6 +1,6 @@
-# About: Garcia Tree Removal Service
+# About: García Tree Removal Service
 
-* Business Name: Garcia Tree Removal Service
+* Business Name: García Tree Removal Service
 
 * Address: 1601 E Forks Rd, Bay Shore, NY 11706
 * Phone: (631) 380-4623

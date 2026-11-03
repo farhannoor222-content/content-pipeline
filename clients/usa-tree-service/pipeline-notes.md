@@ -1,5 +1,5 @@
 ---
-business_name: USA Tree Service
+business_name: Usa tree service
 industry: Tree Service
 phone: "(509) 410-4569"
 address: 210605 East Perkins Rd, Kennewick WA 99337
@@ -7,7 +7,7 @@ established: 03/07/2020
 main_targeted_city: Walla Walla, WA
 ---
 
-# Pipeline Notes: USA Tree Service
+# Pipeline Notes: Usa tree service
 
 This file holds only what `about.md` and `customer-persona.md` do not already cover: tracking data the content pipeline needs to keep pages varied and consistent.
 
@@ -63,6 +63,7 @@ Check customer-persona.md for price ranges. If it has none, research a real loca
 - None identified yet
 
 ## Client-Specific Notes
+- **Exact business name (updated 2026-11-03):** write it as "Usa tree service" exactly, including spelling, capitalization, and punctuation. Content written before this date used the older spelling and was not rewritten.
 
 - Superlatives in the source text (never use on pages): "premier", "unparalleled".
 - "Certified" is not allowed: about.md mentions no certification. "Arborist" alone is fine.

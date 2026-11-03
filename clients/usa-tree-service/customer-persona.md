@@ -1,4 +1,4 @@
-# USA Tree Service Customer Profile
+# Usa tree service Customer Profile
 
 ## Usa tree service Customer Persona
 

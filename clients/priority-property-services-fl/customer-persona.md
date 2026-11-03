@@ -1,4 +1,4 @@
-# Priority Property Service FL Customer Profile
+# Priority Property Services FL Customer Profile
 
 ## PRIORITY PROPERTY SERVICES FL - CUSTOMER PERSONA PROFILE
 
@@ -21,7 +21,7 @@ The typical client for Priority Property Services FL is a 45-60 year old homeown
 
 ## Key Characteristics of the Customer
 
-The typical Priority Property Services customer is a practical homeowner who takes pride in their property but isn't extravagant. They value quality workmanship, reliability, and fair pricing. Many are approaching retirement or semi-retired and see their home as both a sanctuary and an investment. They're concerned about safety issues related to aging or damaged trees and want timely solutions, especially after storms. These customers prefer working with local, family-owned businesses with deep community roots and demonstrated expertise.
+The typical Priority Property Services FL customer is a practical homeowner who takes pride in their property but isn't extravagant. They value quality workmanship, reliability, and fair pricing. Many are approaching retirement or semi-retired and see their home as both a sanctuary and an investment. They're concerned about safety issues related to aging or damaged trees and want timely solutions, especially after storms. These customers prefer working with local, family-owned businesses with deep community roots and demonstrated expertise.
 
 ## Decision-Making Process
 

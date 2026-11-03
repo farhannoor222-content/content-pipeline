@@ -1,4 +1,4 @@
-# High Line Tree Service Customer Profile
+# Highline Tree Service Customer Profile
 
 ## Overview of the Typical Client
 

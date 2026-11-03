@@ -1,4 +1,4 @@
-# Z's Outdoor Services Customer Profile
+# Z’s Outdoor Services Customer Profile
 
 ## Demographics
 
@@ -185,7 +185,7 @@
 
 ### Financial Concerns
 
-Budget-conscious homeowners in Z's Outdoor Services' market are primarily concerned about finding affordable tree services that don't compromise quality or safety. With household incomes ranging from $50,000 to $150,000, these customers carefully evaluate pricing against their maintenance budgets. They worry about unexpected costs, hidden fees, and price gouging during emergency situations. The availability of free estimates is crucial for their decision-making process, allowing them to compare multiple quotes before committing. Many customers time larger projects around tax refund season or after receiving paychecks, and they appreciate transparent pricing with clear explanations of what's included in the service cost.
+Budget-conscious homeowners in Z’s Outdoor Services' market are primarily concerned about finding affordable tree services that don't compromise quality or safety. With household incomes ranging from $50,000 to $150,000, these customers carefully evaluate pricing against their maintenance budgets. They worry about unexpected costs, hidden fees, and price gouging during emergency situations. The availability of free estimates is crucial for their decision-making process, allowing them to compare multiple quotes before committing. Many customers time larger projects around tax refund season or after receiving paychecks, and they appreciate transparent pricing with clear explanations of what's included in the service cost.
 
 ### Service Delivery
 
@@ -557,7 +557,7 @@ Payment due upon satisfactory completion of work, not upfront deposits required.
 
 * Receives follow-up call or text checking satisfaction with completed work
 * Provides feedback through online review on Google or Facebook platforms
-* Refers Z's Outdoor Services to neighbors, friends, and family members enthusiastically
+* Refers Z’s Outdoor Services to neighbors, friends, and family members enthusiastically
 * Saves contact information for future seasonal maintenance and emergency needs
 * Receives seasonal reminders about preventive maintenance and storm preparation services
 * Books recurring services for ongoing property maintenance and tree care needs

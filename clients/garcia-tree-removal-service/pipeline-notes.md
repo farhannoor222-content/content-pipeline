@@ -1,12 +1,12 @@
 ---
-business_name: Garcia Tree Removal Service
+business_name: García Tree Removal Service
 industry: Tree Service
 phone: "(631) 380-4623"
 address: 1601 E Forks Rd, Bay Shore, NY 11706
 main_targeted_city: Bay Shore, NY
 ---
 
-# Pipeline Notes: Garcia Tree Removal Service
+# Pipeline Notes: García Tree Removal Service
 
 This file holds only what `about.md` and `customer-persona.md` do not already cover: tracking data the content pipeline needs to keep pages varied and consistent.
 
@@ -58,6 +58,7 @@ Check customer-persona.md for price ranges. If it has none, research a real loca
 - None identified yet
 
 ## Client-Specific Notes
+- **Exact business name (updated 2026-11-03):** write it as "García Tree Removal Service" exactly, including spelling, capitalization, and punctuation. Content written before this date used the older spelling and was not rewritten.
 
 - "Certified" is not allowed: about.md mentions no certification. "Arborist" alone is fine.
 - The source about file was saved in UTF-16 encoding; it was converted to plain text here.

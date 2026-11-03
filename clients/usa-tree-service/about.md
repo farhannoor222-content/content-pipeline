@@ -1,4 +1,4 @@
-# About: USA Tree Service
+# About: Usa tree service
 
 * Company name: Usa tree service
 

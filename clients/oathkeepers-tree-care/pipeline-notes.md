@@ -1,12 +1,12 @@
 ---
-business_name: Oathkeepers Tree Care
+business_name: Oathkeepers tree care
 industry: Tree Service
 phone: "(717) 378-1776"
 address: 1180 Conewago Ave, Manchester, PA 17345, United States
 main_targeted_city: York, PA
 ---
 
-# Pipeline Notes: Oathkeepers Tree Care
+# Pipeline Notes: Oathkeepers tree care
 
 This file holds only what `about.md` and `customer-persona.md` do not already cover: tracking data the content pipeline needs to keep pages varied and consistent.
 
@@ -64,6 +64,7 @@ Check customer-persona.md for price ranges. If it has none, research a real loca
 - None identified yet
 
 ## Client-Specific Notes
+- **Exact business name (updated 2026-11-03):** write it as "Oathkeepers tree care" exactly, including spelling, capitalization, and punctuation. Content written before this date used the older spelling and was not rewritten.
 
 - Superlatives in the source text (never use on pages): "premier", "unparalleled".
 - "Certified" is not allowed: about.md mentions no certification. "Arborist" alone is fine.

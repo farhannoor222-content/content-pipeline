@@ -1,5 +1,5 @@
 ---
-business_name: Aguilar Lawn and Landscape (UNCONFIRMED, see note below)
+business_name: Aguilar Lawn and Landscape
 industry: Tree Service
 phone: "318-731-9731"
 address: 5901 Candlewood Lane, Shreveport, LA 71119
@@ -11,7 +11,7 @@ main_targeted_city: Shreveport, LA
 
 This file holds only what `about.md` and `customer-persona.md` do not already cover: tracking data the content pipeline needs to keep pages varied and consistent.
 
-**Business name not confirmed.** about.md's company name is "Aguilar Lawn and Landscape," but the Google Business Profile text calls it "Aguilar Landscape and Tree Service." Confirm which name pages should use. Until then, this folder uses the about.md name.
+**Business name confirmed (2026-11-03):** use "Aguilar Lawn and Landscape" exactly.
 
 ## Page Types
 

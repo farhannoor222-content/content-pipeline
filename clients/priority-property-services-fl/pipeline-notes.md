@@ -1,11 +1,11 @@
 ---
-business_name: High Line Tree Service
+business_name: Priority Property Services FL
 industry: Tree Service
-address: 11923 N Vining Rd, Lakeview, MI 48850
-main_targeted_city: Lakeview, MI
+address: Not provided
+main_targeted_city: Webster, FL
 ---
 
-# Pipeline Notes: High Line Tree Service
+# Pipeline Notes: Priority Property Services FL
 
 This file holds only what `about.md` and `customer-persona.md` do not already cover: tracking data the content pipeline needs to keep pages varied and consistent.
 
@@ -13,7 +13,7 @@ This file holds only what `about.md` and `customer-persona.md` do not already co
 
 ## Page Types
 
-1. **Main Targeted City: Lakeview, MI**
+1. **Main Targeted City: Webster, FL**
    - General location page: `templates/location-page-template.md`
    - Per-service pages: `templates/service-location-page-template.md`
 2. **Nearby Cities:** `templates/location-page-template.md` with population-tier word counts
@@ -21,17 +21,71 @@ This file holds only what `about.md` and `customer-persona.md` do not already co
 
 ## Service Area (reference only, not a fixed content queue)
 
-- Not listed in about.md. See customer-persona.md.
+- Dade City
+- FL
+- USA
+- Lacoochee
+- FL
+- USA
+- Lake County
+- FL
+- USA
+- Mabel
+- FL 33597
+- USA
+- Ridge Manor
+- FL
+- USA
+- Spring Hill
+- FL
+- USA
+- Zephyrhills
+- FL
+- USA
+- Linden
+- FL 33597
+- USA
+- Pasco County
+- FL
+- USA
+- Trilby
+- FL 33523
+- USA
+- Sumter County
+- FL
+- USA
+- Webster
+- FL 33597
+- USA
+- Bushnell
+- FL 33513
+- USA
+- Dade City North
+- FL
+- USA
+- Hernando County
+- FL
+- USA
+- Tarrytown
+- FL 33597
+- USA
+- Brooksville
+- FL 34601
+- USA
+- Hill 'N Dale
+- FL 34602
+- USA
+- Croom-A-Coochee
+- FL 33597
+- USA
 
 ## Services
 
 - Tree Removal
-- Tree Trimming and Tree Pruning
-- Stump Grinding and Stump Removal
-- Emergency Storm Work
-- Residential and Commercial Tree Service
-- Land Clearing
-- Crane Work
+- Tree Trimming & Pruning
+- Stump Grinding
+- Emergency Tree Service (24/7)
+- Also listed in the current GBP description: land clearing, forestry mulching, lawn care, debris removal, pressure washing, trailer rental
 
 Tree Removal means section by section, and Tree Cutting means felling in one piece (Service Definitions in tone-and-qa-rules.md). Offer Tree Cutting only if it is listed above.
 
@@ -54,8 +108,10 @@ Check customer-persona.md for price ranges. If it has none, research a real loca
 - None identified yet
 
 ## Client-Specific Notes
+- **Exact business name (updated 2026-11-03):** write it as "Priority Property Services FL" exactly, including spelling, capitalization, and punctuation. Content written before this date used the older spelling and was not rewritten.
 
 - "Certified" is not allowed: about.md mentions no certification. "Arborist" alone is fine.
+- about.md has a current and a new business description. The new one is the tree-focused version used here.
 
 ## Pattern and Angle Tracker
 Updated after every page. Choose a pattern or angle not used in the client's last 3 to 5 pages (per column).
@@ -76,8 +132,8 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 
 | Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
 |---|---|---|---|---|---|
-| 2026-11-03 | Regular | Post-Storm Tree Cleanup Services Throughout Lakeview | A | 📞 Call | N |
-| 2026-11-03 | Regular | How Our Emergency Crews Handle Storm-Damaged Trees in Mount Pleasant | C | 📲 Get in touch | N |
-| 2026-11-03 | Regular | Why Trees Need More Care During Greenville's Storm Months | A | 📅 Book | N |
-| 2026-11-03 | Regular | How We Handle Large Tree Removal Projects in Big Rapids | C | 🗓️ Schedule | N |
+| 2026-11-03 | Regular | Post-Storm Tree Cleanup Services Throughout Brooksville | A | 📞 Call | N |
+| 2026-11-03 | Regular | Downed Trees After High Winds: What Webster Residents Should Do | C | 📲 Get in touch | N |
+| 2026-11-03 | Regular | How to Identify Hazardous Trees Before They Fall | B | 📞 Call | Y |
+| 2026-11-03 | Regular | Why Trees Need More Care During Bushnell's Storm Months | A | 📅 Book | N |
 | 2026-11-03 | Review | (pending: screenshot needed) | - | - | N |

@@ -24,7 +24,7 @@ OVR = {'allegiant-tree-care': {'city': 'Lancaster, PA'},
  'lone-pine-tree-service': {'city': 'Valley Springs, CA'},
  'midwest-tree': {'city': 'Lenexa, KS'},
  'oathkeepers-tree-care': {'city': 'York, PA'},
- 'priority-property-service-fl': {'city': 'Webster, FL',
+ 'priority-property-services-fl': {'city': 'Webster, FL',
                                   'services': ['Tree Removal',
                                                'Tree Trimming & Pruning',
                                                'Stump Grinding',
@@ -86,7 +86,7 @@ EXTRA = {'allegiant-tree-care': ['Experience: established 2018, but a USP says "
  'perkins-lawn-care': ['**Dates conflict:** established 10/30/2021, but the GBP text says "since 2014." Confirm before stating years in '
                        'business.'],
  'premier-tree-service': ['about.md mentions "certified arborists."'],
- 'priority-property-service-fl': ['about.md has a current and a new business description. The new one is the tree-focused version used '
+ 'priority-property-services-fl': ['about.md has a current and a new business description. The new one is the tree-focused version used '
                                   'here.'],
  'rikin-tree-service': ['about.md has no business name, address, or phone (not required). The name comes from the folder and '
                         'customer-persona.md.'],

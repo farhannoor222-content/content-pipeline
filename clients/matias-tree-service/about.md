@@ -1,4 +1,4 @@
-# About: Matias Tree Service and Landscape Contractor
+# About: Matias tree service and landscape contractor
 
 * Business Name:  Matias tree service and landscape contractor
 * Address: 7875 Robinette Rd, Sacramento, CA 95828

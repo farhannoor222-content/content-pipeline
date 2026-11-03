@@ -1,4 +1,4 @@
-# Oathkeepers Tree Care Customer Profile
+# Oathkeepers tree care Customer Profile
 
 ## Overview of the Typical Client
 

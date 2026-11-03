@@ -1,5 +1,5 @@
 ---
-business_name: Matias Tree Service and Landscape Contractor
+business_name: Matias tree service and landscape contractor
 industry: Tree Service
 website: https://maps.app.goo.gl/hUHSniARDzfLEciZ7
 address: 7875 Robinette Rd, Sacramento, CA 95828
@@ -7,7 +7,7 @@ established: 2013
 main_targeted_city: Sacramento, CA
 ---
 
-# Pipeline Notes: Matias Tree Service and Landscape Contractor
+# Pipeline Notes: Matias tree service and landscape contractor
 
 This file holds only what `about.md` and `customer-persona.md` do not already cover: tracking data the content pipeline needs to keep pages varied and consistent.
 
@@ -63,6 +63,7 @@ Check customer-persona.md for price ranges. If it has none, research a real loca
 - None identified yet
 
 ## Client-Specific Notes
+- **Exact business name (updated 2026-11-03):** write it as "Matias tree service and landscape contractor" exactly, including spelling, capitalization, and punctuation. Content written before this date used the older spelling and was not rewritten.
 
 - "Certified" is not allowed: about.md mentions no certification. "Arborist" alone is fine.
 

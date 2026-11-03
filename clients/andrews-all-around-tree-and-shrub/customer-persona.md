@@ -1,4 +1,4 @@
-# Andrew's All Around Tree & Shrub Customer Profile
+# Andrew’s All Around Tree & shrub Customer Profile
 
 ## Andrewâ€™s All Around Tree & shrub: Comprehensive Customer Persona
 
