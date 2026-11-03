@@ -1,47 +1,42 @@
 # GBP Blog Promotion Post Template
 
-Use this template to write a Google Business Profile post that promotes one of the client's blog articles. The person gives a link to a blog article. Fetch the article, read its title and content, modify the title, and write the post.
-
-This is separate from the post types in `gbp-post-templates.md`. Apply the Banned Words lists (global and GBP) and never invent facts the blog does not contain.
+Use this template to write a Google Business Profile post that promotes one of the client's published blog articles.
 
 ## Input
 
-- A link to a blog article on the client's website.
-- Identify the client from the link's domain (match it to the `website` field in `clients/*/pipeline-notes.md` or about.md).
-- Identify the location from the blog itself (city or area it covers). If the blog names no location, use the client's main targeted city.
+The person gives, for each post:
+- The blog title
+- A link (keep it exactly as given; do not crawl or change it)
+- The main idea or an excerpt from the blog
 
-If the article cannot be fetched, ask the person to paste the article text. Never summarize an article without reading it.
+Write only from the title and excerpt provided. Do not add claims the excerpt does not support. Identify the client from the person's note, the link's domain, or the section the post sits in, and read that client's files for the business name and primary service area.
 
-## Output
+## Structure
 
-A title, then the post (3 paragraphs, no labels or headings in the post body).
+Give a proper line break after each paragraph.
+
+1. **Paragraph 1 (20 words):** Introduce the issue and say that we recently published a blog that explains it clearly. This paragraph must be informative.
+2. **Paragraph 2 (50 words):** Explain the solution from the blog. Gather the main ideas and solutions from the excerpt. The blog usually answers a question; this paragraph is the answer.
+3. **Paragraph 3 (20 words):** Start with "📖 Read our..." Mention what the reader will learn, mention the company name once, and invite them to contact us for help.
+
+## Writing Instructions
+
+- No questions or interrogative sentences in the post body
+- Sentence length 8 to 12 words; maximum 20 words
+- Mostly simple sentences, with occasional compound and complex sentences for rhythm
+- Never write sentences of 3 to 4 words; combine them instead
+- Address the reader as "you"
+- Write in first person plural ("we," "our"); never "I"
+- Clear subjects; no abrupt starts or endings
+- No impersonal claims: write "Our free quotes help..." instead of "Free quotes help..."
+- Never use the word "certified"
+- Mention the primary service area exactly once
+- Also apply the GBP Banned Words list and global banned words, and the "Document Formatting" rules in gbp-post-templates.md (title bold 14 pt, body 12 pt, business name 16 pt before the business's first post)
+- Output must be publish-ready: no labels, notes, or extra text in the post
+
+Bad: Snow and ice weigh branches down. Limbs snap and fall unexpectedly.
+Good: Snow and ice weigh branches down, while limbs can snap and fall unexpectedly.
 
 ## Title
 
-- One single, linear sentence.
-- Prefer questions that spark curiosity.
-- Do not use the words: Title, Attention, Information, Description, Action.
-- Modify the blog's title rather than copying it. Localize it with the location.
-- Do not carry over banned words from the blog's title or URL (e.g., "best").
-
-Example titles from earlier posts (statement style; questions are preferred):
-- Storm Season Checklist for Aliquippa Property Owners
-- What to Do When Ice Weighs Down Trees in Beaver Falls
-
-## Post Structure (AIDA)
-
-1. **Problem (40 words):** Describe one specific problem people in the location face, taken from the blog. Make it relatable and location-specific; avoid generic statements. Introduce the business by name. Say that the latest blog explains the solution. Say that, besides offering services, the business shares expert knowledge, insights, and experience to help people.
-2. **Blog Summary (40 words):** Summarize the key points of the blog simply and clearly. Make it easy to understand and relevant to the local audience.
-3. **Call to Action (20 words):** Invite the reader to click the provided link to read the full blog. Keep it natural and motivating.
-
-## Tone and Readability
-
-- Simple, clear, and friendly (Hemingway grade 7 to 8).
-- Smooth sentences, not choppy. Avoid overly long or overly short sentences.
-- Write as if explaining to someone with limited reading skills.
-- Localize all content by mentioning the location and tailoring examples to it.
-- Do not break the flow with headings or labels.
-
-## Word Count
-
-The original instructions give 40 + 40 + 20 = 100 words for the three paragraphs, and also a total of 130 to 150 words. These conflict (see the note in pipeline history). Until confirmed, keep each paragraph close to its target and the total near 100 words. Adjust here once the person confirms.
+Use the blog title as given (it can be a question, since it is the post's heading). Keep the link on it as provided.

@@ -48,6 +48,14 @@ Every post type needs a heading or title above the post, except Review Posts, wh
 (in addition to the global list in tone-and-qa-rules.md)
 Typically, Amplify, adaptive, assist, augment, automate, bespoke, bold, boost, but also, commend, contextual, craft, crafting, curate, captivate, captivates, catalyze, comprehensive, cutting-edge, daunting, delve, dive deep, disrupt, discover, deploy, efficiently, elevate, embark, empower, endeavor, enhance, ensure, entrust, esteemed, ever-changing, ever-evolving, financial future, foster, future, game-changer, groundbreaking, heart, harness, intricate, landscape, master, merely, meticulous, meticulously, navigate, navigating, not only, optimize, optimizing, peace of mind, persistent, precise, precision, prompt, proven, realm, relentless, relentlessly, revolutionize, rise above, rigorous, robust, savvy, seasoned, seek, seeking, sharp, skilled, skyrocket, smart, straightforward, swift, swiftly, systematic, systematically, streamline, tailored, tapestry, top-tier, transform, underpins, underscore, unlock, unparalleled, unveil, uncover, utmost
 
+## Document Formatting (Word / Google Docs files)
+
+When posts are written into a .docx file:
+- **Business name:** before each business's first post, add the business name on its own line, 16 pt.
+- **Post title:** bold, 14 pt. Keep any hyperlink already on the title.
+- **Post body text:** 12 pt (includes bullets and the CTA line). Bold the location name where the structure calls for it.
+- Review posts have no title; their body text is 12 pt.
+
 ## Post Type 1: Regular Post
 
 Used for general tree-care topics that aren't an offer, review, entity, or cost-range post: warning signs, timing questions, maintenance advice, process questions, and similar.

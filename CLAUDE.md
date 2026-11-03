@@ -34,9 +34,12 @@ Separate workflow from location pages above. Recognize a GBP post request when t
 2. For each tab, read that client's about.md, customer-persona.md, and pipeline-notes.md.
 3. Determine the post type and topic for that tab from whatever the person specified (a topic list, a topic per tab, or a mix of post types). If nothing else is specified beyond the business name, ask which topics or post types to use for that batch before proceeding.
 4. Follow templates/gbp-post-templates.md exactly: pick the right post type's structure, apply the shared rules, and rotate structures, openings, and CTAs per that file's rules, checking the client's GBP Post Tracker in pipeline-notes.md first.
-5. Write the finished post back into that business's tab, replacing nothing else in the file.
+5. Write the finished post back into that business's tab, replacing nothing else in the file. Format per the "Document Formatting" section of templates/gbp-post-templates.md: business name 16 pt before the business's first post, post titles bold 14 pt, body text 12 pt.
 6. After all tabs are filled, save the file in clients/[business-slug]/gbp-posts/ for each business (or as one combined file if the person uploaded one combined file) and update each client's GBP Post Tracker.
 7. Give the person a download link to the completed file.
+
+### Blog promotion posts
+When the person gives blog titles with links and excerpts, write GBP blog promotion posts with `templates/gbp-blog-promotion-template.md`. Keep links exactly as given and do not crawl them. Write only from the excerpt.
 
 ### Single business, single or multiple posts
 1. Find the client folder, same as above.

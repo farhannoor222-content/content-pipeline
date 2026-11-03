@@ -127,4 +127,4 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 | 2026-11-03 | Regular | Why Dormant Season Pruning Reduces Tree Stress | C | 🗓️ Schedule | N |
 | 2026-11-03 | Review | (review post, no title) | Quote-first | 📅 Schedule | N |
 | 2026-11-03 | Regular | Emergency Tree Removal After November Wind Storms in Normandy, Jacksonville, FL | A | 📞 Call | N |
-| 2026-11-03 | Not written | Trimming Trees So Snow Plows Can Reach Driveway | n/a | n/a | n/a |
+| 2026-11-03 | Regular | Why Late Fall Is a Good Time for Tree Removal in Normandy, Jacksonville, FL (replaced the snow-plow topic) | C | 📲 Get in touch | N |
