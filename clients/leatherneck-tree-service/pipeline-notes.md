@@ -72,3 +72,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | How much does tree removal cost in Pennsylvania? | C | 📲 Get in touch | N |
+| 2026-11-03 | Regular | Emergency tree service: what to expect in Rochester | A | 📞 Call | N |
+| 2026-11-03 | Regular | Serving New Brighton, Monaca & Bridgewater now | C | 🗓️ Schedule | N |
+| 2026-11-03 | Review | (review post, no title) | Client-first | 📞 Call | N |
+| 2026-11-03 | Review | (review post, no title) | Quote-first | Schedule | N |

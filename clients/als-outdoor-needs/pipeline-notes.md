@@ -94,3 +94,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | Winter storm prep: when to call for emergency tree removal | B | 📞 Call | Y |
+| 2026-11-03 | Regular | Why dormant-season pruning protects trees through winter | C | 🗓️ Schedule | N |
+| 2026-11-03 | Regular | Stump grinding after fall cleanup — before vs. after | A | 📅 Book | N |
+| 2026-11-03 | Regular | Serving Winder & Barrow County homeowners this November | C | 📲 Get in touch | N |
+| 2026-11-03 | Review | (review post, no title) | Quote-first | Schedule | N |

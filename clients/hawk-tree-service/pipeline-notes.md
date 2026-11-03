@@ -112,3 +112,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | What makes a tree "hazardous"? A homeowner's guide | B | 📞 Call | Y |
+| 2026-11-03 | Regular | Winter storm branch removal — are you ready? | C | 📲 Get in touch | N |
+| 2026-11-03 | Regular | Serving Monument and Black Forest homeowners this fall | A | 📅 Book | N |
+| 2026-11-03 | Review | (review post, no title) | Quote-first | 📞 Call | N |
+| 2026-11-03 | Review | (review post, no title) | Client-first | 🗓️ Schedule | N |

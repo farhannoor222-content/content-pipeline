@@ -83,3 +83,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | Now serving Niagara Falls, NY homeowners | A | 📞 Call | N |
+| 2026-11-03 | Regular | Winter branch-breakage risk: what Western NY homeowners should know | C | 📲 Get in touch | N |
+| 2026-11-03 | Regular | Grand Island tree removal — what to expect | A | 📅 Book | N |
+| 2026-11-03 | Regular | Holiday light safety: trimming trees near power lines | C | 🗓️ Schedule | N |
+| 2026-11-03 | Review | (review post, no title) | Quote-first | 📞 Call | N |

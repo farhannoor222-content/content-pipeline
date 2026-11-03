@@ -80,3 +80,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | How much does tree removal really cost near Irwin? | C | 📲 Get in touch | N |
+| 2026-11-03 | Regular | Winter storm branch cleanup — are you ready? | A | 📞 Call | N |
+| 2026-11-03 | Regular | Best time to trim trees in Western Pennsylvania | C | 🗓️ Schedule | N |
+| 2026-11-03 | Regular | Serving the Norwin community for years — thank you | A | 📅 Book | N |
+| 2026-11-03 | Review | (review post, no title) | Quote-first | 📞 Call | N |

@@ -99,3 +99,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | What makes us Shreveport's best-rated tree service | A | 📅 Book | N |
+| 2026-11-03 | Regular | Large tree removal: what homeowners should expect | C | 📲 Get in touch | N |
+| 2026-11-03 | Regular | Now serving Bossier City landmarks and neighborhoods | A | 📞 Call | N |
+| 2026-11-03 | Regular | How much does tree removal cost near you? | C | 🗓️ Schedule | N |
+| 2026-11-03 | Review | (review post, no title) | Client-first | Contact | N |

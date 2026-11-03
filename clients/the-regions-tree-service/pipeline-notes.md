@@ -77,3 +77,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | Winter tree hazard checklist for Lake County homeowners | B | 📞 Call | Y |
+| 2026-11-03 | Regular | Why we're a top-rated tree service near the Crown Point Square | C | 📲 Get in touch | N |
+| 2026-11-03 | Regular | Emergency storm response — how fast can we get to you? | A | 📞 Call | N |
+| 2026-11-03 | Regular | Holiday season tree-lighting-safe trimming tips | C | 🗓️ Schedule | N |
+| 2026-11-03 | Review | (review post, no title) | Client-first | Contact | N |

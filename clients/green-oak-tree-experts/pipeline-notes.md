@@ -80,3 +80,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | Safe tree cleanup after severe storms: what to do first | B | 📞 Call | Y |
+| 2026-11-03 | Regular | Preparing Your Winston-Salem Trees for Winter Storm Season | C | 🗓️ Schedule | N |
+| 2026-11-03 | Regular | Land clearing and grubbing, explained | A | 📅 Book | N |
+| 2026-11-03 | Regular | How much does tree removal cost in North Carolina? | C | 📲 Get in touch | N |
+| 2026-11-03 | Review | (review post, no title) | Quote-first | Schedule | N |

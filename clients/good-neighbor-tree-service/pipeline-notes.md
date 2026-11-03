@@ -99,3 +99,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | Winter storm readiness checklist for Kannapolis & Concord | B | 📞 Call | Y |
+| 2026-11-03 | Regular | New service area spotlight: Statesville, NC | C | 🗓️ Schedule | N |
+| 2026-11-03 | Regular | Why dead trees are a bigger risk in winter storms | A | 📅 Book | N |
+| 2026-11-03 | Regular | Thank-you post to our Rowan/Cabarrus County customers | C | 📲 Get in touch | N |
+| 2026-11-03 | Review | (review post, no title) | Business-first | 🗓️ Schedule | N |
