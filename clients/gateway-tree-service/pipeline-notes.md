@@ -82,3 +82,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-03 | Regular | Emergency tree removal: what to expect | A | 📞 Call | N |
+| 2026-11-03 | Regular | How much does tree removal cost in Lake City, FL? | C | 📲 Get in touch | N |
+| 2026-11-03 | Regular | Why fall is the best time to trim trees in Florida | A | 📅 Book | N |
+| 2026-11-03 | Regular | Serving Fort White, Live Oak & Branford now | C | 📞 Call | N |
+| 2026-11-03 | Review | (review post, no title) | Client-first | 📞 Call | N |
