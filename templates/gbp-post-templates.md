@@ -102,6 +102,8 @@ Rotate the opening across a business's review posts, don't always lead the same 
 - Client-first: lead with the customer's name and what they said
 - Quote-first: lead with the specific thing they praised, before naming anyone
 
+Always mention that the business received a 5-star rating from this customer (e.g., "a 5-star rating," "5-star review"). Vary the wording across posts.
+
 Never use the exact phrase "Just ask [name]." Mention the business name once. Never name employees. No question sentences. No corporate jargon ("highly efficient," "customer-centric"). No em dashes, no comma-plus-ing verbs. Use line breaks for mobile readability.
 
 Rotate the CTA line too, vary the emoji and verb across Schedule, Call, Contact, and don't repeat the same CTA as the business's last 2 to 3 review posts.
