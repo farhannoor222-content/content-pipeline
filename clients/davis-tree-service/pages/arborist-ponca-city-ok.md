@@ -4,15 +4,15 @@ meta_description: "Get reliable arborist service in Ponca City, OK, from license
 
 # Arborist Service in Ponca City, OK
 
-A DIY cut in the wrong spot leaves open wounds that invite decay, pests, and weak regrowth. Davis Tree Service offers arborist service in Ponca City, OK, to fix that. You get a licensed arborist, free estimates, and safe work.
+A DIY cut in the wrong spot leaves open wounds that invite decay, pests, and weak regrowth. Davis Tree Service offers arborist service in Ponca City, OK, to fix that. You get a licensed pro, free estimates, and safe work.
 
-## Why Choose Us for Arborist Care?
+## Why Homeowners Choose Our Team
 
-Davis Tree Service brings experienced arborists and tree surgeons to every Ponca City job. You get honest advice, clean cuts, and cleanup from local crews who answer around the clock.
+Davis Tree Service brings experienced crews and tree surgeons to every Ponca City job. You get honest advice, clean cuts, and cleanup from local crews who answer around the clock.
 
 ### Licensed Arborist on Staff
 
-A licensed arborist checks each tree for disease, weak limbs, and root problems first. Your tree then gets a care plan that fits its condition.
+Our licensed specialist checks each tree for disease, weak limbs, and root problems first. Your tree then gets a care plan that fits its condition.
 
 ### Honest Advice Before Cutting
 
@@ -28,11 +28,11 @@ Our licensed and insured crews keep your home covered during climbing work. They
 
 ## Our Services for Homes and Businesses
 
-From storm damage to stumps, our arborists can handle any tree problem. These experienced, qualified professionals serve homes and businesses.
+From storm damage to stumps, our crew can handle any tree problem. These experienced, qualified professionals serve homes and businesses.
 
 ### Tree Removal
 
-Our arborists take down hazardous or unwanted trees section by section, lowering each piece carefully. The crew hauls off logs and brush.
+Our crew takes down hazardous or unwanted trees section by section, lowering each piece carefully. Logs and brush get hauled off afterward.
 
 ### Tree Trimming
 
@@ -56,9 +56,9 @@ Climbing a ladder with a chainsaw is how many homeowners get hurt. One misjudged
 
 ## Schedule a Free Consultation Today
 
-Contact Davis Tree Service today to book your free consultation. An arborist walks your property and checks each tree for health and safety risks. You then get recommended work, an upfront quote, and financing options with no obligation to book.
+Contact Davis Tree Service to book your free consultation. Our tree specialist walks your property and checks each tree for health and safety risks. You then get recommended work, an upfront quote, and financing options with no obligation to book.
 
-## Our Arborist Service Is Available Throughout Ponca City
+## Serving Every Part of Ponca City
 
 Our crews cover every part of Ponca City. That includes older streets downtown and rural acreage at the town's edge.
 
@@ -70,12 +70,12 @@ Our crews cover every part of Ponca City. That includes older streets downtown a
 
 ### Why should I hire an arborist instead of a general tree lopper?
 
-An arborist understands tree health and structure, while a lopper mostly cuts limbs. Our licensed arborist gives you quality care that keeps trees strong.
+You get real knowledge of tree health and structure, not just limb cutting. Our licensed specialist gives you quality care that keeps trees strong.
 
 ### How much do arborists charge per hour in Ponca City?
 
-Arborists in Ponca City usually charge about $200 to $400 per hour. Our team gives you an upfront price with a free quote instead.
+Rates in Ponca City usually run about $200 to $400 per hour. Our team gives you an upfront price with a free quote instead.
 
 ### When is the best time to call an arborist in Ponca City?
 
-The ideal time is late winter, when most trees are dormant. Our arborists also respond after ice storms and high winds to handle damaged limbs.
+The ideal time is late winter, when most trees are dormant. Our crews also respond after ice storms and high winds to handle damaged limbs.
