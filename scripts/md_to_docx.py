@@ -8,6 +8,48 @@ import sys
 from pathlib import Path
 
 from docx import Document
+from docx.opc.constants import RELATIONSHIP_TYPE as RT
+from docx.oxml import OxmlElement
+from docx.oxml.ns import qn
+
+
+INLINE = re.compile(r"\*\*(.+?)\*\*|\[(.+?)\]\((\S+?)\)")
+
+
+def add_link(paragraph, text, url):
+    """Append a live, blue, underlined hyperlink run."""
+    r_id = paragraph.part.relate_to(url, RT.HYPERLINK, is_external=True)
+    link = OxmlElement("w:hyperlink")
+    link.set(qn("r:id"), r_id)
+    run = OxmlElement("w:r")
+    props = OxmlElement("w:rPr")
+    color = OxmlElement("w:color")
+    color.set(qn("w:val"), "0563C1")
+    underline = OxmlElement("w:u")
+    underline.set(qn("w:val"), "single")
+    props.extend([color, underline])
+    run.append(props)
+    t = OxmlElement("w:t")
+    t.text = text
+    t.set(qn("xml:space"), "preserve")
+    run.append(t)
+    link.append(run)
+    paragraph._p.append(link)
+
+
+def add_inline(paragraph, text):
+    """Add text, rendering **bold** and [text](url) links."""
+    pos = 0
+    for m in INLINE.finditer(text):
+        if m.start() > pos:
+            paragraph.add_run(text[pos:m.start()])
+        if m.group(1):
+            paragraph.add_run(m.group(1)).bold = True
+        else:
+            add_link(paragraph, m.group(2), m.group(3))
+        pos = m.end()
+    if pos < len(text):
+        paragraph.add_run(text[pos:])
 
 
 def convert(md_path: Path) -> Path:
@@ -30,11 +72,12 @@ def convert(md_path: Path) -> Path:
             continue
         m = re.match(r"^(#{1,3})\s+(.*)$", line)
         if m:
-            doc.add_heading(m.group(2), level=len(m.group(1)))
+            h = doc.add_heading(level=len(m.group(1)))
+            add_inline(h, m.group(2))
         elif line.startswith("- "):
-            doc.add_paragraph(line[2:], style="List Bullet")
+            add_inline(doc.add_paragraph(style="List Bullet"), line[2:])
         else:
-            doc.add_paragraph(line)
+            add_inline(doc.add_paragraph(), line)
 
     out = md_path.with_suffix(".docx")
     doc.save(out)

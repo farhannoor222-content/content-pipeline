@@ -110,6 +110,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | Heading Used | City, State | Notes |
 |---|---|---|
 
+## Arborist Page Tracker
+Per templates/arborist-page-template.md. Don't reuse an H2 variant, H1 DIY angle, or Why Choose H3 set from the last 2 to 3 arborist pages.
+
+| City, State | H2 Variants Used | H1 DIY Angle | Why Choose H3s | Areas Listed | Competitors Used |
+|---|---|---|---|---|---|
+| Ponca City, OK | All base headings (Why Choose Us for Arborist Care?, Our Services for Homes and Businesses, Avoid DIY Risks with Our Experienced Professionals, Schedule a Free Consultation Today, Our Arborist Service Is Available Throughout Ponca City, Frequently Asked Questions) | Bad cuts leave wounds that invite decay, pests, weak regrowth | Licensed Arborist on Staff; Honest Advice Before Cutting; Free, No-Obligation Estimates; Insured Crews Protect Property | Downtown Ponca City, Hillcrest, Lake Ponca Area | None usable (results were listing or national lead-gen pages; two local sites unreachable from this session) |
+
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+| Ponca City, OK (Arborist) | 2026-11-04 | pages/arborist-ponca-city-ok.md |
