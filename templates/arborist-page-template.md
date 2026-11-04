@@ -89,6 +89,7 @@ The 1% cap in tone-and-qa-rules.md applies here too, and it's tight on this page
 * Use the rewordable H2 variants that don't contain "arborist" (see the table below).
 * In body text, say "our crew," "the team," "our tree surgeons," "tree care professionals," or "our specialists" instead of "our arborists." Keep "arborist" in the body to 1 use at most, where it reads most naturally.
 * Count the business name if it contains a capped term (e.g., "Royalty Tree Experts" counts toward "expert").
+* The city name has the same cap. The meta description, H1, H1 body phrase, FAQ questions 2 and 3, and the area H2 already name the city, so leave it out of the other body text. Say "the area," "town," or "around here," or name a specific neighborhood or street instead. If the budget runs short, drop the city from the FAQ questions ("How much do arborists charge per hour here?").
 * Run `python3 scripts/keyword_density.py <page.md>` before finishing.
 
 ## Variation Rules
@@ -119,7 +120,7 @@ Also rotate across pages for the same client:
 4. No business name in FAQ answers
 5. Area descriptions don't repeat the area name and run 10 to 12 words
 6. Service links point to this client's URLs (or are omitted and flagged), never another client's site
-7. Keyword density: "arborist," "tree service," "tree care," and "expert" each under 1% (scripts/keyword_density.py)
+7. Keyword density: "arborist," "tree service," "tree care," "expert," and the city name each under 1% (scripts/keyword_density.py)
 8. Section word counts: H1 40, Why Choose intro 30, USP H3s 20 to 25, Services intro 20, service H3s 20 to 22, DIY 100 to 120, Consultation 40, Areas intro 20, FAQ answers 22 to 25
 9. No unconfirmed claims (certified, licensed, insured, flat pricing) beyond what the client profile supports
 
