@@ -104,6 +104,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | Heading Used | City, State | Notes |
 |---|---|---|
 
+## Arborist Page Tracker
+Per templates/arborist-page-template.md. Don't reuse an H2 variant, H1 DIY angle, or Why Choose H3 set from the last 2 to 3 arborist pages.
+
+| City, State | H2 Variants Used | H1 DIY Angle | Why Choose H3s | Areas Listed | Competitors Used |
+|---|---|---|---|---|---|
+| Fort Gratiot Township, MI | Why Homeowners Pick Us for Arborist Care; Arborist Services for Homes and Businesses; Skip the DIY Risks with Experienced Arborists; Book Your Free Arborist Consultation; Arborist Service Across Fort Gratiot Township; Frequently Asked Questions | Topping and over-cutting starve the tree and cause weak, crowded regrowth | Owner-Operated Tree Care; Honest Tree Health Advice; Upfront Quotes, No Surprises; Licensed and Insured Crews | Lakeshore Road Corridor, Keewahdin Road Area, Metcalf Road Area | Skipped (person checked manually, no reliable competitors) |
+
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+| Fort Gratiot Township, MI (Arborist) | 2026-11-04 | pages/arborist-fort-gratiot-township-mi.md |
