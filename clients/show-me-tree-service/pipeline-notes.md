@@ -90,7 +90,11 @@ From about.md. On service pages, tie each one to the service (see service-locati
 
 ## Working Process Steps
 
-Not drafted yet. Build 4 or 6 genuine job steps from customer-persona.md ("What to Expect" or similar) before the first page. No USPs as steps.
+Drafted from "What to Expect" in customer-persona.md for the first page (Hillcrest, 2026-11-04). Four genuine job steps, no USPs; rename and reword per page:
+- On-Site Visit and Estimate (in-person assessment, free written estimate)
+- Crew Arrival and Setup (arrives at the agreed time, marks off the work area)
+- Controlled Cutting and Lowering (limbs lowered by rope)
+- Cleanup and Final Walkthrough (debris hauled away, walkthrough with the customer)
 
 ## Pricing Reference (for FAQ cost answers)
 
@@ -102,6 +106,9 @@ Check customer-persona.md for price ranges. If it has none, research a real loca
 
 ## Client-Specific Notes
 
+- customer-persona.md describes a $150,000+ income, $650,000-home customer. That fits San Marco, Ortega, and Deerwood, not every neighborhood (Hillcrest is lower-middle income, about $218,000 average home value). Match the framing to the neighborhood and avoid luxury language on Westside pages.
+- Avoid "landscape" and "landscaping" in page copy (global banned word), even though about.md mentions landscaping services.
+
 - "Certified" is not allowed: about.md mentions no certification. "Arborist" alone is fine.
 
 ## Pattern and Angle Tracker
@@ -109,14 +116,17 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 
 | City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|---|
+| Hillcrest, Jacksonville, FL | Neighborhood (Rakib: no area H2) | Local problem first (laurel oaks, sandy soil, storms) | Tree-species-based | Problem it solves | Local-relevance | What the customer sees | Cost, Pre-hurricane trimming, Deposit |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
 |---|---|---|
+| Tree Care for Hillcrest's Postwar Yards | Hillcrest, Jacksonville, FL | Used |
 
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+| Hillcrest, Jacksonville, FL (Neighborhood) | 2026-11-04 | pages/hillcrest-jacksonville-fl.md |
 
 ## GBP Post Tracker
 Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
