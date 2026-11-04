@@ -90,3 +90,13 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-04 | Regular | Stump Grinding in Willmar, MN: Clear Leftover Stumps Before Winter | A | 📅 Book | N |
+| 2026-11-04 | Review | (review post, no title) | Quote-first | 🗓️ Schedule | N |
+| 2026-11-04 | Regular | Warning Signs Your Tree Needs Professional Inspection in Granite Falls, MN This Fall | B | 📞 Call | Y |
+| 2026-11-04 | Regular | Storm Damage Tree Services in Redwood Falls, MN After Strong Winds and Rain | C | 📞 Call | N |

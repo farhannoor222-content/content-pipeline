@@ -78,3 +78,13 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-04 | Regular | Rain-Soaked Ground and a Weekend Cold Snap? Storm Damage Tree Services in Ellwood City, PA | A | 📞 Call | N |
+| 2026-11-04 | Regular | 5 Warning Signs Your Tree Needs a Professional Inspection in Poland, OH | B | 📞 Call | Y |
+| 2026-11-04 | Review | (review post, no title) | Client-first | 🗓️ Schedule | N |
+| 2026-11-04 | Regular | What to Expect During Stump Grinding on Your Boardman, OH Property | C | 🗓️ Schedule | N |

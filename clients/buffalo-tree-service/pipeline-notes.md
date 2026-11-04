@@ -115,3 +115,13 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-04 | Regular | Lake-Effect Snow and Wind: Check Your Trees in Niagara Falls | A | 📅 Book | N |
+| 2026-11-04 | Review | (review post, no title) | Client-first | 🗓️ Schedule | N |
+| 2026-11-04 | Regular | Warning Signs Your Tree Needs Professional Inspection in Niagara Falls | B | 📞 Call | Y |
+| 2026-11-04 | Regular | What to Expect During Stump Grinding on Your Marilla Property | C | 🤝 Get in touch | N |

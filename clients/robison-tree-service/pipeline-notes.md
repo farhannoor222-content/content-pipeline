@@ -81,3 +81,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-04 | Regular | Storm Damage Tree Services for Winchester, KY Residents Before Wednesday’s Rain | A | 🗓️ Schedule | N |
+| 2026-11-04 | Regular | Warning Signs Your Tree Needs a Professional Inspection in Stanton, KY | B | 📞 Call | Y |
+| 2026-11-04 | Offer | Offer: Get a Free Tree Cutting Service Quote | AIDA | 📞 Call | N |
+| 2026-11-04 | Regular | What to Expect During Stump Grinding on Your Mt. Sterling Property | C | 📞 Call | N |
+| 2026-11-04 | Review | (review post, no title) | Quote-first | 📅 Book | N |

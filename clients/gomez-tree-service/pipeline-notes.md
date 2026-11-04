@@ -79,3 +79,13 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-04 | Regular | Warning Signs Your Trees Need Inspection Before Winter in Pegram, TN | B | 📞 Call | Y |
+| 2026-11-04 | Regular | What to Expect During Stump Grinding in Fairview, TN | A | 📅 Book | N |
+| 2026-11-04 | Review | (review post, no title) | Business-first | 🗓️ Schedule | N |
+| 2026-11-04 | Regular | Storm-Damaged Trees in Ashland City, TN? Put Safety First | C | 📞 Call | N |

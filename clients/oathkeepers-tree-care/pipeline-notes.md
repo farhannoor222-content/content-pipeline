@@ -83,3 +83,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-04 | Regular | Storm Damage Tree Services for Dover, PA Residents – Rain Returns Thursday | A | 📞 Call | N |
+| 2026-11-04 | Regular | Warning Signs Your Tree Needs Professional Inspection in Shiloh, PA – Check Before Winter | B | 📞 Call | Y |
+| 2026-11-04 | Regular | Licensed & Bonded Tree Care Professionals Serving Rheems, PA | C | 🗓️ Schedule | N |
+| 2026-11-04 | Review | (review post, no title) | Client-first | 📞 Call | N |
+| 2026-11-04 | Offer | Offer: Get a Free Hazardous tree removal Service Quote | AIDA | 📞 Call | N |

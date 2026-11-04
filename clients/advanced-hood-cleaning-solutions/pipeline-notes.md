@@ -89,3 +89,16 @@ Confirm these are current before quoting them as the company's prices.
 | City, State | Date | File |
 |---|---|---|
 | Williamson, NY | 2026-11-02 | pages/hood-cleaning-williamson-ny.md |
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-04 | Regular | Keep Your Fairport Restaurant Ready for Service with Expert Hood Cleaning | A | 📅 Book | N |
+| 2026-11-04 | Regular | Refresh Your Property with Professional Pressure Washing in Greece, NY | C | 🗓️ Schedule | N |
+| 2026-11-04 | Regular | Improve Your Indoor Airflow with Air Duct Repair in Irondequoit, NY | A | 📞 Call | N |
+| 2026-11-04 | Regular | Keep Your Business Spotless with Commercial Cleaning in Pittsford, NY | C | 🤝 Get in touch | N |
+| 2026-11-04 | Entity | Hood Cleaning Service Near Ontario Beach Park, Rochester | Entity | 📞 Call | N |
+| 2026-11-04 | Regular | Professional Restaurant Hood Cleaning in Pittsford, NY for a Cleaner Kitchen | A | 🗓️ Schedule | N |
+| 2026-11-04 | Review | (review post, no title) | Client-first | 📞 Call | N |

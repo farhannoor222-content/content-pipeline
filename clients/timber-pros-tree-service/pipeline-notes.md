@@ -89,3 +89,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-04 | Regular | Santa Ana Winds & Storm Damage Tree Services for San Bernardino Residents | A | 📞 Call | N |
+| 2026-11-04 | Regular | Warning Signs Your Tree Needs Professional Inspection Before Winter Rains in Rialto | B | 📞 Call | Y |
+| 2026-11-04 | Offer | Offer: Get a Free Hazardous tree removal Service Quote | AIDA | 📞 Call | N |
+| 2026-11-04 | Regular | What to Expect During Stump Grinding on Your Colton Property | C | 🤝 Get in touch | N |
+| 2026-11-04 | Review | (review post, no title) | Business-first | 🗓️ Schedule | N |

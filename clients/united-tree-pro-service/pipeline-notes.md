@@ -81,3 +81,13 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-04 | Regular | Warning Signs Your Trees Need a Fall Inspection in Powder Springs, GA | B | 📞 Call | Y |
+| 2026-11-04 | Regular | Storm Damage Tree Services After Strong Fall Winds in Smyrna, GA | A | 🗓️ Schedule | N |
+| 2026-11-04 | Review | (review post, no title) | Client-first | 📞 Call | N |
+| 2026-11-04 | Regular | Stump Grinding Before Winter: What to Expect in Mableton, GA | C | 🤝 Get in touch | N |

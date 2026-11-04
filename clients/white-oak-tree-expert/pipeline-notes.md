@@ -83,3 +83,15 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-04 | Regular | Tree Removal Permits in Severna Park: Know the Rules Near the Water | A | 📅 Book | N |
+| 2026-11-04 | Review | (review post, no title) | Client-first | 🗓️ Schedule | N |
+| 2026-11-04 | Regular | Licensed, Insured and Bonded Tree Care for Brooklyn, MD Winter Storms | C | 📞 Call | N |
+| 2026-11-04 | Review | (review post, no title) | Quote-first | 📞 Call | N |
+| 2026-11-04 | Regular | Storm Damage Tree Services for Riviera Beach: Bay Winds and Nor'easters | A | 🗓️ Schedule | N |
+| 2026-11-04 | Offer | Offer: Get a Free Hazardous tree removal Service Quote | AIDA | 📞 Call | N |
