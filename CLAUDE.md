@@ -18,7 +18,7 @@ A request that names a service, like "Tree Trimming in Ponca City, OK, Davis Tre
 7. Check the client's Pattern and Angle Tracker in `pipeline-notes.md` before picking patterns and angles, avoid repeating what was used in the last several pages
 8. Run the full QA checklist before finishing
 9. Save the final page to `clients/[business-slug]/pages/[city-slug]-[state].md`. For a service-specific page, use `clients/[business-slug]/pages/[service-slug]-[city-slug]-[state].md` (e.g., `tree-trimming-ponca-city-ok.md`)
-10. Convert that same page into a Word document (.docx) with proper Heading 1, 2, 3 styles applied, matching the markdown headings exactly. Save it next to the markdown file, same name, .docx extension. Give the person a download link.
+10. Convert that same page into a Word document (.docx) with `python3 scripts/md_to_docx.py <page.md>`. It applies proper Heading 1, 2, 3 styles at the house sizes (H1 18 pt, H2 16 pt, H3 14 pt), matching the markdown headings exactly. These sizes apply to every location, service, neighborhood, and arborist page. Save it next to the markdown file, same name, .docx extension. Give the person a download link.
 11. Update the Pattern and Angle Tracker (including the Page Type column: "General" or the service name) and Pages Written table in `pipeline-notes.md`
 
 Do all of this without asking for confirmation at each step. Only ask a question if something genuinely blocks progress (city population can't be found, client folder doesn't exist, page type is ambiguous for a Main Targeted City).

@@ -8,6 +8,7 @@ import sys
 from pathlib import Path
 
 from docx import Document
+from docx.shared import Pt
 from docx.opc.constants import RELATIONSHIP_TYPE as RT
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
@@ -55,6 +56,9 @@ def add_inline(paragraph, text):
 def convert(md_path: Path) -> Path:
     text = md_path.read_text(encoding="utf-8")
     doc = Document()
+    # Page heading sizes (house standard): H1 18 pt, H2 16 pt, H3 14 pt.
+    for name, size in (("Heading 1", 18), ("Heading 2", 16), ("Heading 3", 14)):
+        doc.styles[name].font.size = Pt(size)
 
     # Front matter: show the meta description as a labeled paragraph.
     fm = re.match(r"^---\n(.*?)\n---\n", text, re.S)

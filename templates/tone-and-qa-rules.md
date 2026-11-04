@@ -64,6 +64,19 @@ Work these terms into every page naturally. Never force them into a sentence whe
 * "Arborist" or "arborists": at least 2 times
 * Each of these at least once: "tree experts," "tree care professionals," "local," "experienced," "tree surgeons"
 
+## Keyword Density (Every Page)
+
+Applies to every location, service, neighborhood, and arborist page. Don't over-optimize. Each of these terms must stay under 1% of the page's words, meaning fewer than 10 uses per 1,000 words (fewer than 8 on an 800-word page):
+
+* "tree service" (including "tree services")
+* "arborist" (including "arborists")
+* "tree care"
+* "expert" (including "experts")
+
+Every occurrence counts: headings, the meta description, FAQ questions, fixed phrases the template requires, and the business name when it contains the term (e.g., "Show Me Tree Service" counts as "tree service," "Royalty Tree Experts" counts as "expert"). When a client's name contains a term, budget for it by using "our crew," "the team," or "our tree surgeons" instead of repeating the name where the template doesn't require it. The Required Terms minimums above still apply; they fit well under the cap.
+
+Check with `python3 scripts/keyword_density.py <page.md>` before finishing.
+
 Claims rule: "arborist" and "our arborists" are fine for every client. Never add "certified" (or "ISA-certified") unless the client's about.md mentions a certification.
 
 ## Heading Rules
@@ -111,3 +124,4 @@ Only use a heading or phrase that passes all three tests. Never copy a competito
 12. Required Terms present: "arborist" at least 2 times, and "tree experts," "tree care professionals," "local," "experienced," and "tree surgeons" at least once each, with no unsupported arborist claims
 13. No H2 or H3 heading names a specific tree species (FAQ questions exempt)
 14. H3 headings are 3 to 4 words, except fixed service, technique, or landmark names and FAQ questions
+15. Keyword density: "tree service," "arborist," "tree care," and "expert" each under 1% of total words (run scripts/keyword_density.py)

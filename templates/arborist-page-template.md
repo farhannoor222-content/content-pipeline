@@ -40,7 +40,7 @@ Then 4 H3s:
 - Each H3 body: 20 to 25 words, 2 sentences, explaining the benefit the customer gets.
 
 ### H2: Our Services for Homes and Businesses
-Intro: 20 words. Say our arborists are experienced, qualified professionals who can address any tree problem. (Never "trained.")
+Intro: 20 words. Say our team is made up of experienced, qualified professionals who can address any tree problem. (Never "trained." Use "arborists" here only if the density budget allows.)
 
 Then one H3 per service, each 20 to 22 words, 2 sentences, explaining what our arborists do in that service:
 - **Tree Removal**: never use the word "dead." Describe section-by-section removal.
@@ -82,17 +82,28 @@ Then a bulleted list of areas (3 by default, or the ones the person gives):
 3. When is the best time to call an arborist in [City]?
    - Tie the answer to the local climate and season (e.g., dormant season for pruning, right after storms for damage).
 
+## Keyword Density on Arborist Pages
+
+The 1% cap in tone-and-qa-rules.md applies here too, and it's tight on this page type. An arborist page runs about 700 to 750 words, so "arborist" can appear at most 7 times in total. The meta description, H1, H1 body phrase, and the three FAQ questions already use 6 of those. So:
+
+* Use the rewordable H2 variants that don't contain "arborist" (see the table below).
+* In body text, say "our crew," "the team," "our tree surgeons," "tree care professionals," or "our specialists" instead of "our arborists." Keep "arborist" in the body to 1 use at most, where it reads most naturally.
+* Count the business name if it contains a capped term (e.g., "Royalty Tree Experts" counts toward "expert").
+* Run `python3 scripts/keyword_density.py <page.md>` before finishing.
+
 ## Variation Rules
 
-H2 headings may be lightly reworded per page so pages don't look templated. Keep the meaning and keep the key term ("arborist," "DIY," "free consultation," the city name) where the base heading has it. Check the client's Arborist Page Tracker and don't reuse a variant used on that client's last 2 to 3 arborist pages. On multi-location requests for the same client, every page must use a different variant for each rewordable H2.
+H2 headings may be lightly reworded per page so pages don't look templated. Keep the meaning. Because of the density cap, the variants drop "arborist." Check the client's Arborist Page Tracker and don't reuse a variant used on that client's last 2 to 3 arborist pages. On multi-location requests for the same client, every page must use a different variant for each rewordable H2.
 
 | Base H2 | Example variants |
 |---|---|
-| Why Choose Us for Arborist Care? | Why Homeowners Pick Us for Arborist Care / What Sets Our Arborist Care Apart / Reasons to Choose Our Arborists |
-| Our Services for Homes and Businesses | Arborist Services for Homes and Businesses / Tree Care for Residential and Commercial Properties / What Our Arborists Handle |
-| Avoid DIY Risks with Our Experienced Professionals | Skip the DIY Risks with Experienced Arborists / Why DIY Tree Work Costs More / Leave Risky Tree Work to Our Professionals |
-| Schedule a Free Consultation Today | Book Your Free Arborist Consultation / Request a Free Tree Consultation / Get a Free Consultation From Our Arborists |
-| Our Arborist Service Is Available Throughout [City] | Arborist Service Across [City] / Areas We Serve in [City] / Serving Every Part of [City] |
+| Why Choose Us for Arborist Care? | Why Homeowners Choose Our Team / What Sets Our Crew Apart / Reasons to Hire Our Crew |
+| Our Services for Homes and Businesses | Services for Residential and Commercial Properties / What Our Crew Handles / Help for Every Kind of Tree Problem |
+| Avoid DIY Risks with Our Experienced Professionals | Why DIY Tree Work Costs More / Leave Risky Tree Work to Our Professionals / Skip the Ladder and Chainsaw Risks |
+| Schedule a Free Consultation Today | Request a Free Tree Consultation / Book Your Free On-Site Consultation / Get a Free Consultation Today |
+| Our Arborist Service Is Available Throughout [City] | Areas We Serve in [City] / Serving Every Part of [City] / Where Our Crew Works in [City] |
+
+Each base H2 that contains "arborist" costs one use. Prefer the variants on most pages.
 | Frequently Asked Questions | Keep as is (or "Arborist FAQs" if the person prefers) |
 
 Also rotate across pages for the same client:
@@ -108,13 +119,14 @@ Also rotate across pages for the same client:
 4. No business name in FAQ answers
 5. Area descriptions don't repeat the area name and run 10 to 12 words
 6. Service links point to this client's URLs (or are omitted and flagged), never another client's site
-7. Section word counts: H1 40, Why Choose intro 30, USP H3s 20 to 25, Services intro 20, service H3s 20 to 22, DIY 100 to 120, Consultation 40, Areas intro 20, FAQ answers 22 to 25
-8. No unconfirmed claims (certified, licensed, insured, flat pricing) beyond what the client profile supports
+7. Keyword density: "arborist," "tree service," "tree care," and "expert" each under 1% (scripts/keyword_density.py)
+8. Section word counts: H1 40, Why Choose intro 30, USP H3s 20 to 25, Services intro 20, service H3s 20 to 22, DIY 100 to 120, Consultation 40, Areas intro 20, FAQ answers 22 to 25
+9. No unconfirmed claims (certified, licensed, insured, flat pricing) beyond what the client profile supports
 
 ## Output
 
 - Save to `clients/[business-slug]/pages/arborist-[city-slug]-[state].md`
-- Convert to .docx next to it (same name), with Heading 1, 2, 3 styles matching the markdown, and keep the H3 hyperlinks as live links
+- Convert to .docx next to it (same name) with scripts/md_to_docx.py: Heading 1, 2, 3 styles at 18, 16, and 14 pt, with live H3 hyperlinks
 - Add a row to the client's Arborist Page Tracker and Pages Written table in `pipeline-notes.md`. If the tracker section doesn't exist yet, create it:
 
 ```

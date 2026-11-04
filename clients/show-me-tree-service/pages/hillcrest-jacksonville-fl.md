@@ -1,5 +1,5 @@
 ---
-meta_description: "Get tree service in Hillcrest, Jacksonville, FL, from Show Me Tree Service. Our licensed, insured crews offer free written estimates with no advance deposit."
+meta_description: "Get tree service in Hillcrest, Jacksonville, FL, from a licensed, insured crew. Every job comes with a free written estimate and no advance deposit."
 ---
 
 # Tree Service in Hillcrest, Jacksonville, FL
