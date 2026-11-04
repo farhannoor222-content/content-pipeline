@@ -69,7 +69,11 @@ From about.md. On service pages, tie each one to the service (see service-locati
 
 ## Working Process Steps
 
-Not drafted yet. Build 4 or 6 genuine job steps from customer-persona.md ("What to Expect" or similar) before the first page. No USPs as steps.
+customer-persona.md has no "What to Expect" section, so these were drafted for the first page (Evans City, 2026-11-04). Not confirmed by the client. Four genuine job steps, no USPs; rename and reword per page:
+- Tree and Site Assessment (health, lean, nearby hazards)
+- Protect the Work Zone (drop zone, keep people, pets, cars clear)
+- Controlled Cutting and Lowering (rope lowering, crane when needed)
+- Cleanup and Final Check (haul brush and logs, walkthrough with the customer)
 
 ## Pricing Reference (for FAQ cost answers)
 
@@ -92,14 +96,17 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 
 | City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|---|
+| Evans City, PA | General | Local detail first (Breakneck Creek valley) | Terrain/risk-based | When it's needed | Direct benefit | Why it matters | Cost, Signs to call an arborist, Emergency response |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
 |---|---|---|
+| Tree Care for the Breakneck Creek Valley | Evans City, PA | Used |
 
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+| Evans City, PA (General) | 2026-11-04 | pages/evans-city-pa.md |
 
 ## GBP Post Tracker
 Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.

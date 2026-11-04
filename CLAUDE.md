@@ -26,6 +26,17 @@ Do all of this without asking for confirmation at each step. Only ask a question
 ## When the Request Has More Detail
 If the person gives extra instructions beyond city and business name (e.g., "make the H1 lead with weather," or "skip the FAQ section"), follow those instructions for that page instead of the defaults above.
 
+## Project Manager Preferences
+Some requests come from a specific project manager. When the person says a page is for one of these managers, apply that manager's rules on top of the normal template. Where they conflict, the manager's rules win.
+
+### Rakib
+- Leave out the landmark or area H2 ("We Serve Every Corner of [City]", "Our Arborist Service Is Available Throughout [City]", or similar).
+- Make up for it with stronger localization in the other sections, especially Why Choose Us and Our Services. Use local species, terrain, weather, housing, and streets only where they fit naturally. Never force a local detail into a sentence just to have one.
+- Rakib reviews strictly, so choose words carefully. Use plain, precise wording, make no claim the client files or research don't support, avoid filler, and do an extra pass for banned words and awkward phrasing before finishing.
+
+## Neighborhood Pages
+Until a dedicated neighborhood template exists, write a neighborhood page (e.g., "Hillcrest, Jacksonville, FL (neighborhood page)") with `templates/location-page-template.md`, treating the neighborhood as the place. Use "[Neighborhood], [City], [ST]" in the H1 and meta phrase (e.g., "tree service in Hillcrest, Jacksonville, FL"). Neighborhood populations are rarely published, so use Tier 2 counts unless a population is found. Save to `clients/[business-slug]/pages/[neighborhood-slug]-[city-slug]-[state].md`. In the trackers, log Page Type as "Neighborhood".
+
 ## Arborist Page Requests
 Separate page type from the location pages above. Recognize it when the person asks for an "arborist page," "arborist service page," or "arborist service in [City, ST]" for a client. This takes priority over the Default Request Format, so don't ask which page type, even for the Main Targeted City. One request may name 2 to 3 locations. Write one page per location.
 
