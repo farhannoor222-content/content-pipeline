@@ -26,6 +26,18 @@ Do all of this without asking for confirmation at each step. Only ask a question
 ## When the Request Has More Detail
 If the person gives extra instructions beyond city and business name (e.g., "make the H1 lead with weather," or "skip the FAQ section"), follow those instructions for that page instead of the defaults above.
 
+## Arborist Page Requests
+Separate page type from the location pages above. Recognize it when the person asks for an "arborist page," "arborist service page," or "arborist service in [City, ST]" for a client. This takes priority over the Default Request Format, so don't ask which page type, even for the Main Targeted City. One request may name 2 to 3 locations. Write one page per location.
+
+1. Find the client folder and read `about.md`, `customer-persona.md`, and `pipeline-notes.md` (USPs, services, service page URLs, pricing, claims the profile supports).
+2. Research each city for localization (species, climate, soil, tree risks, real tight and wide-lot neighborhoods). Research competitors for "arborist [City, ST]" when they exist, applying the Thin-Content Filter. Skip listing and directory sites (Yelp, Angi, HomeAdvisor, Thumbtack, BBB, "top 10" roundups). If no usable competitor exists, which is common in this niche, proceed without one and note it in the tracker.
+3. Follow `templates/arborist-page-template.md` exactly, including its wording rules (no study, training, or train) and H2 variation rules. Check the client's Arborist Page Tracker first. On multi-location requests, vary H2s, the H1 angle, and USP H3s across the pages.
+4. Apply `templates/tone-and-qa-rules.md` and run both QA checklists.
+5. Save to `clients/[business-slug]/pages/arborist-[city-slug]-[state].md`, convert to .docx next to it (Heading 1, 2, 3 styles, live H3 links), and give the person download links.
+6. Update the client's Arborist Page Tracker (create it if missing) and Pages Written table (Page Type "Arborist").
+
+Service H3 links use the URLs the person gives, or the client's own service URLs from its files. If none exist, leave the H3s unlinked and say so. Don't stop to ask.
+
 ## GBP Post Requests
 Separate workflow from location pages above. Recognize a GBP post request when the person asks for a Google Business Profile post, a GBP post, or uploads a file whose tabs are labeled with business names rather than cities.
 
