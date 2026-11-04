@@ -55,6 +55,9 @@ When posts are written into a .docx file:
 - **Post title:** bold, 14 pt. Keep any hyperlink already on the title.
 - **Post body text:** 12 pt (includes bullets and the CTA line). Bold the location name where the structure calls for it.
 - Review posts have no title; their body text is 12 pt.
+- **Review screenshots:** when writing a review post into the file, delete the review screenshot image. Keep the review link exactly as given.
+- **Break between posts:** leave one empty line (blank paragraph) after each post's last line, so every post is clearly separated from the next title or business name.
+- **No gap before titles:** titles must sit flush left with no indent or empty space before the text. If the uploaded file has a title formatted as a bulleted or numbered list item (which leaves an empty bullet slot and indent before the text), remove the list formatting and the left/hanging indent from that title paragraph. Apply the same to review links and other lines that carry list indentation.
 
 ## Post Type 1: Regular Post
 
