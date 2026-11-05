@@ -101,3 +101,14 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 |---|---|---|
 | West Milton, PA | (prior to pipeline) | reference page, not in clients/kerlin-tree-service/pages/ |
 | New Berlin, PA | 2026-11-01 | pages/new-berlin-pa.md |
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-05 | Regular | Why Regular Tree Inspections Matter for Homes in Winfield | A | 🗓️ Schedule | N |
+| 2026-11-05 | Regular | Fall Tree Maintenance Tips for Shamokin Dam Properties | B | 📞 Call | Y |
+| 2026-11-05 | Regular | What to Expect During Stump Grinding on Your Winfield Property | C | 📲 Get | N |
+| 2026-11-05 | Regular | Tree Clearance Guidelines for West Milton Homeowners | A | 📅 Book | N |
+| 2026-11-05 | Review | (review post, no title) | Business-first | 🗓️ Schedule | N |

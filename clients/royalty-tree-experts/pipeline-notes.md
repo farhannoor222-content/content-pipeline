@@ -115,3 +115,14 @@ Per templates/arborist-page-template.md. Don't reuse an H2 variant, H1 DIY angle
 | City, State | Date | File |
 |---|---|---|
 | Fort Gratiot Township, MI (Arborist) | 2026-11-04 | pages/arborist-fort-gratiot-township-mi.md |
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-05 | Regular | Why Regular Tree Inspections Matter for Homes in Fort Gratiot Township | C | 🗓️ Schedule | N |
+| 2026-11-05 | Regular | Fall Tree Maintenance Tips for Lexington Properties | B | 📞 Call | Y |
+| 2026-11-05 | Regular | What to Expect During Stump Grinding on Your Fort Gratiot Township Property | A | 🗓️ Schedule | N |
+| 2026-11-05 | Regular | Tree Clearance Guidelines for Jeddo Homeowners | C | 📞 Call | N |
+| 2026-11-05 | Review | (review post, no title) | Client-first | 📞 Call | N |
