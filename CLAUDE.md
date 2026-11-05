@@ -83,7 +83,7 @@ A "[Service] in [City, ST]" request for a non-tree client uses that industry's l
 
 Apply tone-and-qa-rules.md, but skip the tree-only parts (Service Definitions, tree Required Terms). If the person supplies local information, work it in naturally.
 
-## Entity Page Requests (non-tree clients)
+## Entity Page Requests (non-tree clients; tree clients see "Tree Entity Page Requests" below)
 Recognize an entity request when the person asks for a "[service] near [Location]" page (or an "entity") for a non-tree client. Pick the template by industry:
 
 | Industry | Template | Clients |
@@ -98,3 +98,18 @@ Recognize an entity request when the person asks for a "[service] near [Location
 3. Follow the matching template exactly. The tree-service templates and tree Required Terms do not apply.
 4. If driving directions are not provided, ask the person to paste the Google Maps directions from the client's base to the location before writing the directions section.
 5. Save to `clients/[business-slug]/entities/[location-slug].md`, convert to .docx next to it, and give the person a download link.
+
+## Tree Entity Page Requests
+Recognize a tree entity request when the person asks for a "tree service near [Location]" page (or an "entity") for a tree client. This is not a GBP post and not a location page. Use `templates/tree-entity-template.md`, which has three variants:
+
+- **Regular:** one page for a client (default).
+- **Multi-Page:** a request for several entity pages for the same business. Use the Multi-Page outline for every page in that request.
+- **Rakib:** the page is for Rakib. This variant wins over the other two, and the Rakib rules above also apply.
+
+1. Find the client folder and read `about.md`, `customer-persona.md`, and `pipeline-notes.md` (base address, services, equipment, USPs).
+2. Research the landmark or area (SERP, Reddit, Facebook) and use every detail the person provides. Focus on the landmark, not the city.
+3. Check the client's Entity Page Tracker in `pipeline-notes.md`, then follow the chosen variant exactly. Word limits are hard limits.
+4. If driving directions are not provided, ask the person to paste the Google Maps directions from the client's base to the location before writing the directions section. Place any Google Maps iframe they give under the directions H2 unchanged.
+5. Run the template's QA checklist.
+6. Save to `clients/[business-slug]/entities/[location-slug].md`, convert to .docx next to it with `python3 scripts/md_to_docx.py`, and give the person a download link.
+7. Update the client's Entity Page Tracker (create it if missing: Date, Location, Variant, H1 title, H2 headings, Opening pattern) and the Pages Written table (Page Type "Entity").
