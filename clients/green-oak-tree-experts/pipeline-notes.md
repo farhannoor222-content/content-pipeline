@@ -72,14 +72,17 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 
 | City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|---|
+| Deep River, High Point, NC | Neighborhood | Local detail first | Community-based | Local tree connection | Trust/credibility | What we do | Cost, Insurance, Emergency response, What to expect |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
 |---|---|---|
+| Local Tree Work Near West Wendover Avenue | Deep River, High Point, NC | Neighborhood page |
 
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+| Deep River, High Point, NC (Neighborhood) | 2026-11-05 | pages/deep-river-high-point-nc.md |
 
 ## GBP Post Tracker
 Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
