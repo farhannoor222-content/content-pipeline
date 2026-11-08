@@ -132,7 +132,7 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | Culpeper, VA | Tree Cutting | Local detail first | Regulatory/practical-based | n/a | Local-relevance angle | What the customer sees | Cost, Timing, Insurance |
 | Culpeper, VA | Emergency Tree Service | Business and experience first | Community-based | n/a | Trust/credibility | What we do | Cost, Response time, What to expect |
 | Culpeper, VA | Stump Removal | Local problem first | Tree-species-based | n/a | Direct benefit | Why it matters | Cost, What to expect, Utilities (811) |
-| Culpeper, VA | Crane Service | Scenario first | Terrain/risk-based | n/a | Comparison angle | Technical/expertise angle | Cost, Timing/signs, Access, Crane rental clarification |
+| Culpeper, VA | Crane Service | Situations list first (client-directed) | Terrain/risk-based | n/a | Comparison angle | Technical/expertise angle | Cost, Timing/signs, Access, Crane rental clarification |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
