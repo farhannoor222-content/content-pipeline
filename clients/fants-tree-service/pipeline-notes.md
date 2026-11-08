@@ -132,6 +132,7 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | Culpeper, VA | Tree Cutting | Local detail first | Regulatory/practical-based | n/a | Local-relevance angle | What the customer sees | Cost, Timing, Insurance |
 | Culpeper, VA | Emergency Tree Service | Business and experience first | Community-based | n/a | Trust/credibility | What we do | Cost, Response time, What to expect |
 | Culpeper, VA | Stump Removal | Local problem first | Tree-species-based | n/a | Direct benefit | Why it matters | Cost, What to expect, Utilities (811) |
+| Culpeper, VA | Crane Service | Scenario first | Terrain/risk-based | n/a | Comparison angle | Technical/expertise angle | Cost, Timing/signs, Access, Crane rental clarification |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
@@ -143,6 +144,7 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | When a Tree Can Fall in One Piece | Culpeper, VA (Tree Cutting) | Avoid reusing for next 5 pages |
 | Storm Help for Our Culpeper Neighbors | Culpeper, VA (Emergency Tree Service) | Avoid reusing for next 5 pages |
 | What Sits Under a Culpeper Stump | Culpeper, VA (Stump Removal) | Avoid reusing for next 5 pages |
+| Tight Spaces, Tall Trees, One Crane | Culpeper, VA (Crane Service) | Avoid reusing for next 5 pages |
 
 ## Pages Written
 | City, State | Date | File |
@@ -154,3 +156,4 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | Culpeper, VA (Tree Cutting) | 2026-11-01 | pages/tree-cutting-culpeper-va.md |
 | Culpeper, VA (Emergency Tree Service) | 2026-11-01 | pages/emergency-tree-service-culpeper-va.md |
 | Culpeper, VA (Stump Removal) | 2026-11-08 | pages/stump-removal-culpeper-va.md |
+| Culpeper, VA (Crane Service) | 2026-11-08 | pages/crane-service-culpeper-va.md |
