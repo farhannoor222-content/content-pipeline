@@ -4,7 +4,7 @@ meta_description: "Fant's Tree Service brings its own cranes to hard tree jobs. 
 
 # Crane Service in Culpeper, VA
 
-Cranes help when a tree is huge or leans over a house. They also help near power lines or over a busy road, and in tight yards. Fant's Tree Service owns its cranes, so you get crane service in Culpeper, VA.
+A huge trunk or a lean toward the house makes climbing unsafe. So does a limb over power lines. Fant's Tree Service owns its cranes and lifts such trees out in sections. Call us for crane service in Culpeper, VA.
 
 - Family Owned Since 1978
 - Licensed and Insured
