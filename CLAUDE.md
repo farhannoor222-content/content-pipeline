@@ -14,6 +14,25 @@ This repo generates location pages for tree service clients. When the person giv
 - **Deliverable:** always send the finished .docx to the person as a downloadable attachment (SendUserFile). A file path in text is not a download link.
 - **Banned phrase:** never write "three crew," "three crews," or any count of crews (e.g., "3 crews") in any page, for any client. Say "our crews" or "our team" instead.
 
+## Area Research Brief (required before writing any location or neighborhood page)
+Before writing, research the area and gather every item below. Show it as a short brief in the reply (or keep it in your working notes), then use it to drive localization. Mark an item "not found" rather than guessing.
+- **Nickname:** only if one exists; otherwise skip it.
+- **Local tree-related terms:** note any regional names for common tree service terms (e.g., "big balls" for stumps).
+- **Neighborhoods:** only if the place is a city.
+- **Tight spaces:** where lots, streets, or access are cramped.
+- **Open spaces:** parks, large lots, rural or wooded land.
+- **Local tree names:** 5 to 7 species.
+- **Climate type**
+- **Soil features**
+- **Common tree risks**
+- **House types**
+- **Business types** and **common businesses**
+- **Living expenses:** low, mid, or high.
+- **Weather patterns year round**
+- **Income level of residents**
+- **How busy life is here** (pace of life, commuting, work schedules).
+Use these facts only where they fit naturally and tie each to how the client works (see Standing Rules: Localization). This brief supports step 3 below and applies to neighborhood pages too.
+
 ## Default Request Format
 A request like "Rutland City, VT, Iconic Tree Care" or "write a page for [City, State], [Business Name]" means: generate a Nearby City location page, unless the city matches that client's "Main Targeted City" (check `clients/[business-slug]/pipeline-notes.md`), in which case ask which page type is wanted (general page, or a specific service page) since Main City has more than one page type.
 
@@ -23,7 +42,7 @@ A request that names a service, like "Tree Trimming in Ponca City, OK, Davis Tre
 
 1. Find the client folder: `clients/[business-slug]/` (match by business name, slug is lowercase with hyphens)
 2. Read `clients/[business-slug]/about.md`, `customer-persona.md`, and `pipeline-notes.md` for services, USPs, pricing, and page type rules
-3. Research the given city: population, nickname, local tree-related terms, neighborhoods, local tree names, climate, soil, common tree risks
+3. Research the given city: population plus every item in the "Area Research Brief" section above
 4. Research competitors for that city and service. Apply the Thin-Content Filter and three-test check (specific, adds something new, not boilerplate) from `templates/tone-and-qa-rules.md` before using anything from a competitor
 5. Follow `templates/location-page-template.md` exactly for structure, word counts, and all variation rules (opening pattern, heading angle, content angle, FAQ selection). For a service-specific page, follow `templates/service-location-page-template.md` instead
 6. Apply `templates/tone-and-qa-rules.md` for tone, formatting, and banned words
