@@ -65,6 +65,7 @@ Check customer-persona.md for price ranges. If it has none, research a real loca
 ## Client-Specific Notes
 - **Exact business name (updated 2026-11-03):** write it as "Matias tree service and landscape contractor" exactly, including spelling, capitalization, and punctuation. Content written before this date used the older spelling and was not rewritten.
 
+- Laguna West page (2026-11-08): no usable competitor found (directories only); 4 general process steps (Inspection, Safety Preparation, Job Execution, Final Walkthrough) approved by requester. Review-count badge skipped (no data/review-counts.csv).
 - "Certified" is not allowed: about.md mentions no certification. "Arborist" alone is fine.
 
 ## Pattern and Angle Tracker
@@ -72,14 +73,17 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 
 | City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|---|
+| Laguna West, Elk Grove, CA | Neighborhood | Local detail first | Tree-species-based | How it's done | Local-relevance | What the customer sees (4 general steps) | Cost, Permits, Emergency response, Signs to call |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
 |---|---|---|
+| Different Trees on Every Block | Laguna West, Elk Grove, CA | Neighborhood page |
 
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+| Laguna West, Elk Grove, CA (Neighborhood) | 2026-11-08 | clients/matias-tree-service/pages/laguna-west-elk-grove-ca.md |
 
 ## GBP Post Tracker
 Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
