@@ -82,3 +82,11 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+| Date | Post Type | Topic | Structure | Opening | CTA |
+|---|---|---|---|---|---|
+| 2026-11-08 | Blog promotion | Storm Damaged Tree Help for Walla Walla Homeowners | Blog promo (3 para) | Storm damage | 📖 Read our |
+| 2026-11-08 | Blog promotion | Warning Signs a Leaning Tree Is Unsafe Near Your Pasco Home | Blog promo (3 para) | A leaning tree | 📖 Read our |
+| 2026-11-08 | Blog promotion | Careful Tree Removal Near Homes and Fences in Kennewick | Blog promo (3 para) | Removing a tree | 📖 Read our |
+| 2026-11-08 | Blog promotion | Why Late Fall Is a Good Time to Prune Trees in Walla Walla | Blog promo (3 para) | Late fall | 📖 Read our |
