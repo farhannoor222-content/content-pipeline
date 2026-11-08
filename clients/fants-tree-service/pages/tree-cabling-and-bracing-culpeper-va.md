@@ -1,5 +1,5 @@
 ---
-meta_description: "Fant's Tree Service offers a tree cabling and bracing service in Culpeper, VA. Our local arborists support weak forks on oaks and tulip poplars."
+meta_description: "Call Fant's Tree Service for a tree cabling and bracing service in Culpeper, VA. Local arborists support weak forks on oaks and tulip poplars. Free estimates."
 ---
 
 # Tree Cabling and Bracing Service in Culpeper, VA
