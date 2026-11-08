@@ -5,6 +5,7 @@ This repo generates location pages for tree service clients. When the person giv
 ## Standing Rules (apply to every page, override template defaults)
 - **Meta description:** always start with an action verb (Get, Call, Trust, etc.) and keep it 150 to 160 characters (count characters, not words). This replaces the word counts in the templates. Still include the exact service or location phrase each template requires.
 - **Deliverable:** always send the finished .docx to the person as a downloadable attachment (SendUserFile). A file path in text is not a download link.
+- **Banned phrase:** never write "three crew," "three crews," or any count of crews (e.g., "3 crews") in any page, for any client. Say "our crews" or "our team" instead.
 
 ## Default Request Format
 A request like "Rutland City, VT, Iconic Tree Care" or "write a page for [City, State], [Business Name]" means: generate a Nearby City location page, unless the city matches that client's "Main Targeted City" (check `clients/[business-slug]/pipeline-notes.md`), in which case ask which page type is wanted (general page, or a specific service page) since Main City has more than one page type.

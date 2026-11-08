@@ -107,6 +107,7 @@ White oak, chestnut oak, pine, tulip poplar.
 (In addition to the global list in tone-and-qa-rules.md)
 - "Fathom's" (transcription error for the business name)
 - Firewood
+- "three crew," "three crews," or any crew count (use "our crews")
 
 ## Client-Specific Notes
 - **"Best of the Best" award:** the award name contains "best," which is on the global banned list. Refer to it without the word, for example "voted a readers' choice tree and landscaping company by the Culpeper Star-Exponent (2021)." Snow removal award years need confirming.
