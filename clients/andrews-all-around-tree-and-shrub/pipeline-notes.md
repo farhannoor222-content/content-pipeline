@@ -48,7 +48,7 @@ From about.md. On service pages, tie each one to the service (see service-locati
 
 ## Working Process Steps
 
-Not drafted yet. Build 4 or 6 genuine job steps from customer-persona.md ("What to Expect" or similar) before the first page. No USPs as steps.
+Used on the New Beaver page (2026-11-08), built from the persona's on-site assessment and cleanup expectations: On-Site Tree Assessment, Property Protection Plan, Safe Tree Work, Cleanup and Haul-Away. No USPs as steps.
 
 ## Pricing Reference (for FAQ cost answers)
 
@@ -61,6 +61,7 @@ Check customer-persona.md for price ranges. If it has none, research a real loca
 ## Client-Specific Notes
 - **Exact business name (updated 2026-11-03):** write it as "Andrew’s All Around Tree & shrub" exactly, including spelling, capitalization, and punctuation. Content written before this date used the older spelling and was not rewritten.
 
+- **Skipped USP:** "over a decade of experience" conflicts with the 2021 founding date in about.md, so it was left out of pages until the client confirms it.
 - USPs contain banned words (reword before using as headings): "utmost".
 - "Certified" is not allowed: about.md mentions no certification. "Arborist" alone is fine.
 - **Main city mismatch.** about.md's primary service location is Boardman, OH, but the business is in New Castle, PA, and the GBP text targets New Castle. Confirm which city gets the main page.
@@ -70,14 +71,17 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 
 | City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|---|
+| New Beaver, PA | General | Local detail first | Terrain/risk-based | Local tree connection | Local-relevance | What we do | Cost, Emergency response, Insurance, How to get a quote |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
 |---|---|---|
+| River Flats and Hillsides Shape Our Work | New Beaver, PA | Tier 1 borough (about 1,370) |
 
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+| New Beaver, PA | 2026-11-08 | pages/new-beaver-pa.md |
 
 ## GBP Post Tracker
 Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
