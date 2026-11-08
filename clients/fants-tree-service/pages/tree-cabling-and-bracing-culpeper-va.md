@@ -13,7 +13,7 @@ A tulip poplar forks into two heavy trunks over your roof, and a June thundersto
 
 ## Local Crews Who Support Heavy Trees
 
-Our three crews are all employees, and they work from our own lifts and cranes. That lets a crew reach a high fork without waiting on a rental. Tulip poplars and white oaks around Culpeper often grow two trunks from one base. Wind can pull that joint apart, so our arborists check every fork first. August 2018 storms dropped trees near Autumn Ridge Road and Kings Grant Road. A May 2024 tornado snapped others along Dunkard Church Road. Our crews inspect forks before June, when thunderstorm season peaks. Your tree may need cables, a brace rod, or neither. If it is too far gone to hold, we tell you so.
+We have experienced arborists and tree care professionals to handle difficult tree jobs. Summer thunderstorms hit Culpeper hardest from June through August. Tulip poplars and white oaks here often grow two trunks from one base. Wind pulls at that joint, so our crews check each fork first. Our crews give a fork over a roofline or porch the closest look. Live off Autumn Ridge Road or Kings Grant Road? Our own lifts and cranes reach the high forks. Your tree may need cables, a brace rod, or neither. If it is too far gone to hold, we tell you so.
 
 ## Why Choose Fant's Tree Service
 
