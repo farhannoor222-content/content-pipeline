@@ -5,6 +5,7 @@ This repo generates location pages for tree service clients. When the person giv
 ## Standing Rules (apply to every page, override template defaults)
 - **Meta description:** always start with an action verb (Get, Call, Trust, etc.) and keep it 150 to 160 characters (count characters, not words). This replaces the word counts in the templates. Still include the exact service or location phrase each template requires.
 - **Localization:** use only real, checkable local details: weather patterns, roads and streets, house types, tree species, terrain. Never use or imply specific storm dates, named weather events, or incidents (e.g., "the August 2018 storm"). Tie each detail to how the client works.
+- **"Crew" overuse:** do not lean on the word "crew" or "crews." Use it sparingly (about 2 to 3 times per page at most) and vary with the business name, "our team," "our arborists," "our tree surgeons," or "our climbers." Never use it in back-to-back sentences.
 - **Deliverable:** always send the finished .docx to the person as a downloadable attachment (SendUserFile). A file path in text is not a download link.
 - **Banned phrase:** never write "three crew," "three crews," or any count of crews (e.g., "3 crews") in any page, for any client. Say "our crews" or "our team" instead.
 
