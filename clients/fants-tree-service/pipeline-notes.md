@@ -135,6 +135,7 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | Culpeper, VA | Stump Removal | Local problem first | Tree-species-based | n/a | Direct benefit | Why it matters | Cost, What to expect, Utilities (811) |
 | Culpeper, VA | Crane Service | Situations first (client-directed) | Terrain/risk-based | n/a | Comparison angle | Technical/expertise angle | Cost, Timing/signs, Access, Crane rental clarification |
 | Culpeper, VA | Cabling and Bracing | Scenario first | Crew/team-based | n/a | Peace-of-mind angle | What the customer sees | Cost, Oak borer limits, Storm expectations |
+| Culpeper, VA | Tree Health and Plant Care | Local detail first | Community-based | n/a | Local-relevance angle | What we do | Cost, Signs of stress, Mulch, Removal honesty |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
@@ -148,6 +149,7 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | What Sits Under a Culpeper Stump | Culpeper, VA (Stump Removal) | Avoid reusing for next 5 pages |
 | Tight Spaces, Tall Trees, One Crane | Culpeper, VA (Crane Service) | Avoid reusing for next 5 pages |
 | Local Crews Who Support Heavy Trees | Culpeper, VA (Cabling and Bracing) | Avoid reusing for next 5 pages |
+| Healthy Trees Start With Local Soil | Culpeper, VA (Tree Health and Plant Care) | Avoid reusing for next 5 pages |
 
 ## Pages Written
 | City, State | Date | File |
@@ -161,3 +163,4 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | Culpeper, VA (Stump Removal) | 2026-11-08 | pages/stump-removal-culpeper-va.md |
 | Culpeper, VA (Crane Service) | 2026-11-08 | pages/crane-service-culpeper-va.md |
 | Culpeper, VA (Cabling and Bracing) | 2026-11-08 | pages/tree-cabling-and-bracing-culpeper-va.md |
+| Culpeper, VA (Tree Health and Plant Care) | 2026-11-08 | pages/tree-health-and-plant-care-culpeper-va.md |
