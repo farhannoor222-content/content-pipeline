@@ -85,14 +85,17 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 
 | City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|---|
+| Edgecliff, Lower Burrell, PA | Neighborhood (Rakib, no landmark H2) | Local problem first | Terrain/risk-based | Risk or consequence | Local-relevance | What we do | Cost, Signs to call, How to get a quote |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
 |---|---|---|
+| Expert Care for Mature Trees Beside Mid-Century Homes | Edgecliff, Lower Burrell, PA | Rakib variant |
 
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+| Edgecliff, Lower Burrell, PA | 2026-11-10 | clients/solid-oak-tree-service/pages/edgecliff-lower-burrell-pa.md |
 
 ## GBP Post Tracker
 Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
