@@ -112,3 +112,4 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 | 2026-11-05 | Regular | What to Expect During Stump Grinding on Your Winfield Property | C | 📲 Get | N |
 | 2026-11-05 | Regular | Tree Clearance Guidelines for West Milton Homeowners | A | 📅 Book | N |
 | 2026-11-05 | Review | (review post, no title) | Business-first | 🗓️ Schedule | N |
+| 2026-11-10 | Regular | Seasonal Tree Pruning Schedule for Winfield Climate | C | 📞 Call | N |
