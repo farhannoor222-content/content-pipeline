@@ -107,6 +107,7 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | City, State | Date | File |
 |---|---|---|
 | Evans City, PA (General) | 2026-11-04 | pages/evans-city-pa.md |
+| Edco Park Evans City (Entity) | 2026-11-11 | entities/edco-park-evans-city.md |
 
 ## GBP Post Tracker
 Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
@@ -118,3 +119,8 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 | 2026-11-03 | Regular | Checking Trees for Winter Weak Spots in Zelienople | A | 📅 Book | N |
 | 2026-11-03 | Regular | How Emergency Tree Service Works After Storms in Midland | C | 📞 Call | N |
 | 2026-11-03 | Review | (pending: screenshot needed) | - | - | N |
+
+## Entity Page Tracker
+| Date | Location | Variant | H1 title | H2 headings | Opening pattern |
+|---|---|---|---|---|---|
+| 2026-11-11 | Edco Park Evans City | Regular | Tree Service Near Edco Park Evans City: Shade and Community on West Main Street | Local Arborists Caring for the Trees Around the Park; Our Customized Approach with Modern Tools; Driving Directions From Keystone Tree Techs | Place first (park location and Dambach land gift), then amenities, then shade trees |
