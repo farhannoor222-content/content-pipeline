@@ -17,23 +17,23 @@ Sandy soil, summer storms and wooded lots shape how each job gets done here. Our
 
 ### Tree Trimming
 
-Our climbers thin canopies before summer storm season, so wind passes through and limbs stay off your roof.
+Limbs that rub a roof wear through shingles and fill valleys with leaf litter. Our climbers cut back to a healthy branch and thin canopies, so wind passes through before storm season.
 
 ### Tree Removal
 
-Near pool cages and fences, our team lowers each trunk section by rope, so nothing hits your home.
+Heat dries dead wood out, so a dead tree can split in the first summer thunderstorm. Our team lowers it section by section on ropes, so nothing lands on your pool cage or fence.
 
 ### Tree Cutting
 
-Wide lots let our tree surgeons fell trees in one piece, so your yard reopens sooner.
+Wide lots give room to drop a sound tree in one piece. Our tree surgeons clear the fall zone first, so the tree lands where planned.
 
 ### Stump Grinding
 
-In sandy soil, our grinder cuts stumps below grade and fills the hole, so you can replant.
+A stump left in the ground keeps sprouting and draws pests until the roots die. Our grinder cuts it below grade and fills the hole with grindings, so the sandy spot stays level.
 
 ### Storm Damage Cleanup
 
-Day or night after a storm, our team clears fallen limbs from your driveway and hauls debris away.
+Day or night after a storm, our team clears fallen limbs from your driveway and roof. Dangerous trees get handled first, and we haul the debris away.
 
 ## Why Choose Barto Stumps and Tree Service
 
