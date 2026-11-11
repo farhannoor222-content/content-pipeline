@@ -80,6 +80,7 @@ Confirm these are current before quoting them as the company's prices.
 | City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|---|
 | Williamson, NY | General (hood cleaning) | Conditions first | Local kitchen types and codes | Exactly what we do and benefits | Trust/credibility | What we do | Frequency, Duration, Cost |
+| Irondequoit, NY | General (hood cleaning) | Conditions first | Local kitchen types along Culver Rd, Titus Ave, East Ridge Rd | Exactly what we do and benefits | NFPA 96, photos, follow-up reports, grease hazard removal | Evaluate, protect, degrease, test and report | Frequency, Duration, Cost |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
@@ -89,6 +90,7 @@ Confirm these are current before quoting them as the company's prices.
 | City, State | Date | File |
 |---|---|---|
 | Williamson, NY | 2026-11-02 | pages/hood-cleaning-williamson-ny.md |
+| Irondequoit, NY | 2026-11-11 | pages/hood-cleaning-irondequoit-ny.md |
 
 ## GBP Post Tracker
 Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
