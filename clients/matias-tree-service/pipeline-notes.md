@@ -84,6 +84,8 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | City, State | Date | File |
 |---|---|---|
 | Laguna West, Elk Grove, CA (Neighborhood) | 2026-11-08 | clients/matias-tree-service/pages/laguna-west-elk-grove-ca.md |
+| Vineyard Park (Entity) | 2026-11-11 | entities/vineyard-park.md |
+| Laguna Town Hall (Entity) | 2026-11-11 | entities/laguna-town-hall.md |
 
 ## GBP Post Tracker
 Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
@@ -95,3 +97,9 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 | 2026-11-03 | Regular | How Old Stumps Can Hide Safety Hazards in Florin Yards | C | 🗓️ Schedule | N |
 | 2026-11-03 | Regular | What to Expect During Stump Grinding on Your Arden Arcade Property | A | 📅 Book | N |
 | 2026-11-03 | Review | (pending: screenshot needed) | - | - | N |
+
+## Entity Page Tracker
+| Date | Location | Variant | H1 title | H2 headings | Opening pattern |
+|---|---|---|---|---|---|
+| 2026-11-11 | Vineyard Park | Multi-Page | Tree Service Near Vineyard Park: A Small Green Space in Sacramento's Vineyard Community | Fixing Heat, Clay and Storm Problems in Your Yard; An Organized Approach with Modern Equipment; Route to Vineyard Park from Matias tree service and landscape contractor | Place first (8350 Grand Cru Dr, Southgate park district, subdivision name), then nearby streets, then species only |
+| 2026-11-11 | Laguna Town Hall | Multi-Page | Tree Service Near Laguna Town Hall: Where Laguna West Gathers | Tree Problems Solved Around Laguna West; A Step-by-Step Approach with Modern Equipment; Route to Laguna Town Hall from Matias tree service and landscape contractor | Place first (3020 Renwick Ave, Cosumnes CSD venue), then events, then block-by-block species |
