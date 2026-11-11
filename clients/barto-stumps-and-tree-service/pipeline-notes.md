@@ -66,7 +66,7 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 
 | City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|---|
-| Woodland Waters, North Weeki Wachee, FL | Neighborhood | Local detail first | Omitted (population under 600) | Local tree connection | Local-relevance | What the customer sees | Cost, Free quote, Emergency response, Insurance |
+| Woodland Waters, North Weeki Wachee, FL | Neighborhood | Local detail first | Omitted (population under 600) | How it's done (local conditions) | Local-relevance | What the customer sees | Cost, Free quote, Emergency response, Insurance |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |

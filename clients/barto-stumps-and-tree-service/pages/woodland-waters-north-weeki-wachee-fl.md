@@ -13,27 +13,27 @@ Oak limbs and tall pines shade the wooded lots here. That shade needs upkeep, so
 
 ## Our Services
 
-Oaks, pines and palms fill these wooded lots, and each needs its own cut. Our team picks the rope, saw or grinder for each tree, so every cut fits.
+Sandy soil, summer storms and wooded lots shape how each job gets done here. Our team plans every cut around those conditions, so the work fits your property.
 
 ### Tree Trimming
 
-Climbers on our team rope down live oak, laurel oak and pine limbs, so your roof stays clear.
+Our climbers thin canopies before summer storm season, so wind passes through and limbs stay off your roof.
 
 ### Tree Removal
 
-Section by section, our team lowers pine, oak and palm trunks, so nothing hits your pool cage.
+Near pool cages and fences, our team lowers each trunk section by rope, so nothing hits your home.
 
 ### Tree Cutting
 
-Our tree surgeons fell pine, cedar or oak in one piece, so open lots clear sooner.
+Wide lots let our tree surgeons fell trees in one piece, so your yard reopens sooner.
 
 ### Stump Grinding
 
-A grinder cuts oak, pine and palm stumps below the soil line, so you can reseed the spot.
+In sandy soil, our grinder cuts stumps below grade and fills the hole, so you can replant.
 
 ### Storm Damage Cleanup
 
-Our team answers storm calls day or night and clears fallen pine and oak limbs from your driveway.
+Day or night after a storm, our team clears fallen limbs from your driveway and hauls debris away.
 
 ## Why Choose Barto Stumps and Tree Service
 
