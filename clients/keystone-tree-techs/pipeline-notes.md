@@ -109,6 +109,7 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | Evans City, PA (General) | 2026-11-04 | pages/evans-city-pa.md |
 | Edco Park Evans City (Entity) | 2026-11-11 | entities/edco-park-evans-city.md |
 | Zelienople Community Park (Entity) | 2026-11-11 | entities/zelienople-community-park.md |
+| Edco Park Evans City, second page (Entity) | 2026-11-11 | entities/edco-park-evans-city-2.md |
 
 ## GBP Post Tracker
 Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
@@ -126,3 +127,4 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 |---|---|---|---|---|---|
 | 2026-11-11 | Edco Park Evans City | Regular | Tree Service Near Edco Park Evans City: Shade and Community on West Main Street | Local Arborists Caring for the Trees Around the Park; Our Customized Approach with Modern Tools; Driving Directions From Keystone Tree Techs | Place first (park location and Dambach land gift), then amenities, then shade trees |
 | 2026-11-11 | Zelienople Community Park | Regular | Tree Service Near Zelienople Community Park: Shade and Play Along East Beaver Street | Dependable Tree Work for Homes Around the Park; Hand Work First, Heavy Equipment Last; Route to Zelienople Community Park from Keystone Tree Techs | Place first (acreage, 1949 nonprofit origin, 2003 borough takeover), then amenities, then maples, oaks and sycamores |
+| 2026-11-11 | Edco Park Evans City (2nd page) | Multi-Page | Tree Service Near Edco Park Evans City: A Borough Gathering Place Built on Local Timber | Fixing Limb, Root and Storm Problems Near the Park; A Step-by-Step Approach with Modern Equipment; Route to Edco Park Evans City from Keystone Tree Techs | Place first (154 W. Main St, Dambach lumber company land), then pavilions and pool, then species only |
