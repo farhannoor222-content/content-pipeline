@@ -9,7 +9,7 @@ Oak limbs and tall pines shade the wooded lots here. That shade needs upkeep, so
 - Free Written Estimates
 - Licensed and Insured
 - Emergency Service Anytime
-- 100% Satisfaction Guarantee
+- 216 5-Star Reviews
 
 ## Our Services
 

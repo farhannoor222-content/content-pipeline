@@ -61,6 +61,8 @@ Check customer-persona.md for price ranges. If it has none, research a real loca
 - "Certified" is not allowed: about.md mentions no certification. "Arborist" alone is fine.
 - USP "150+ Five star Google Reviews": the trust-badge rule uses data/review-counts.csv for review counts. Do not hard-code this number on pages without confirming it is current.
 
+- Business Database sheet (Google Sheets, checked 2026-11-11): Barto has 216 Google reviews (5.0 rating) and Certified Arborist? is FALSE. Use the 216 review badge. Never write "certified".
+
 ## Pattern and Angle Tracker
 Updated after every page. Choose a pattern or angle not used in the client's last 3 to 5 pages (per column).
 
