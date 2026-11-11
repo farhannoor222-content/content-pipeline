@@ -123,3 +123,4 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 | 2026-11-03 | Regular | Serving Monument and Black Forest homeowners this fall | A | 📅 Book | N |
 | 2026-11-03 | Review | (review post, no title) | Quote-first | 📞 Call | N |
 | 2026-11-03 | Review | (review post, no title) | Client-first | 🗓️ Schedule | N |
+| 2026-11-11 | Review | (review post, no title) | Business-first | 📲 Contact | N |
