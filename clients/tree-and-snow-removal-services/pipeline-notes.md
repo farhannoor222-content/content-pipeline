@@ -84,6 +84,11 @@ Check customer-persona.md for price ranges. If it has none, research a real loca
 - "Certified" is not allowed: about.md mentions no certification. "Arborist" alone is fine.
 - Also offers snow removal. Tree templates fit the tree services only.
 
+## Entity Page Tracker
+| Date | Location | Variant | H1 title | H2 headings | Opening pattern |
+|---|---|---|---|---|---|
+| 2026-11-11 | Wauwatosa Village | Regular (custom: services H2 replaces tools H2, no tool bullets, one tree name per section) | Tree Service Near Wauwatosa Village: Caring for Tosa's Historic Center | Insured Local Help for Trees Near State Street; Our Services and When You Need Them; Driving Directions From Tree and Snow Removal Services | Place history first (Plank Road, Harwood Avenue, State Street) |
+
 ## Pattern and Angle Tracker
 Updated after every page. Choose a pattern or angle not used in the client's last 3 to 5 pages (per column).
 
@@ -97,6 +102,7 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+| Wauwatosa Village, Wauwatosa, WI (Entity) | 2026-11-11 | entities/wauwatosa-village.md |
 
 ## GBP Post Tracker
 Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
