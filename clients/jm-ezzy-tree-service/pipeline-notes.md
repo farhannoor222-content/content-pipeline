@@ -82,3 +82,10 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+
+## GBP Post Tracker
+| Date | Post Type | Title | Structure | Opening | CTA | Bullets |
+|---|---|---|---|---|---|---|
+| 2026-11-11 | Regular | Tree Trimming Services to Protect Your Home | A | Problem (overhanging limbs) | Schedule | No |
+| 2026-11-11 | Regular | Years of Experience Serving Montevallo Homeowners Safely | C | Risk statement, location in para 1 | Call | No |
+| 2026-11-11 | Regular | Dead Branch Removal to Protect Your Property | A | Problem (brittle branches) | Book | No |
