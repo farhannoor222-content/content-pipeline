@@ -171,3 +171,6 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 | Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
 |---|---|---|---|---|---|
 | 2026-11-12 | Regular | How Culpeper, VA Homeowners Can Prepare Their Trees for the First Snow | C | 🗓️ Schedule | N |
+| 2026-11-12 | Regular | Emergency Tree Removal After November Wind Storms in Culpeper, VA | A | 📞 Call | N |
+| 2026-11-12 | Regular | Why Dormant Season Pruning Reduces Tree Stress | C | 📲 Get in touch | N |
+| 2026-11-12 | Regular | Thankful for Every Local Homeowner Who Trusted Us With Their Tree Work This Year | A | 📅 Book | N |
