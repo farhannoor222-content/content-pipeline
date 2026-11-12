@@ -174,3 +174,4 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 | 2026-11-12 | Regular | Emergency Tree Removal After November Wind Storms in Culpeper, VA | A | 📞 Call | N |
 | 2026-11-12 | Regular | Why Dormant Season Pruning Reduces Tree Stress | C | 📲 Get in touch | N |
 | 2026-11-12 | Regular | Thankful for Every Local Homeowner Who Trusted Us With Their Tree Work This Year | A | 📅 Book | N |
+| 2026-11-12 | Review | (review post, no title) | Client-first | ✉️ Contact | N |
