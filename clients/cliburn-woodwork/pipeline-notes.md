@@ -77,6 +77,7 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 
 | City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|---|
+| McCall Creek, MS | Neighborhood | Local detail first | None (local H2 skipped per request) | Risk or consequence | Local-relevance | What the customer sees | Cost, Quote, Insurance, Emergency |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
@@ -85,6 +86,7 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+| McCall Creek, MS (Neighborhood) | 2026-11-12 | clients/cliburn-woodwork/pages/mccall-creek-ms.md |
 
 ## GBP Post Tracker
 Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
