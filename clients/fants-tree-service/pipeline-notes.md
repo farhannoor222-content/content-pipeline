@@ -164,3 +164,10 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | Culpeper, VA (Crane Service) | 2026-11-08 | pages/crane-service-culpeper-va.md |
 | Culpeper, VA (Cabling and Bracing) | 2026-11-08 | pages/tree-cabling-and-bracing-culpeper-va.md |
 | Culpeper, VA (Tree Health and Plant Care) | 2026-11-08 | pages/tree-health-and-plant-care-culpeper-va.md |
+
+## GBP Post Tracker
+Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
+
+| Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
+|---|---|---|---|---|---|
+| 2026-11-12 | Regular | How Culpeper, VA Homeowners Can Prepare Their Trees for the First Snow | C | 🗓️ Schedule | N |
