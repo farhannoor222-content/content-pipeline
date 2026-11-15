@@ -113,3 +113,6 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 | 2026-11-05 | Regular | Tree Clearance Guidelines for West Milton Homeowners | A | 📅 Book | N |
 | 2026-11-05 | Review | (review post, no title) | Business-first | 🗓️ Schedule | N |
 | 2026-11-10 | Regular | Seasonal Tree Pruning Schedule for Winfield Climate | C | 📞 Call | N |
+| 2026-11-15 | Product | Stump Removal | n/a (no product template) | Request a free estimate | N |
+| 2026-11-15 | Product | Stump Grinding | n/a (no product template) | Ask for a free estimate | N |
+| 2026-11-15 | Product | Emergency Tree Service | n/a (no product template) | none (rates and licensed line) | N |
