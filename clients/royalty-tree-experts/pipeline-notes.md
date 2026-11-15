@@ -126,3 +126,5 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 | 2026-11-05 | Regular | What to Expect During Stump Grinding on Your Fort Gratiot Township Property | A | 🗓️ Schedule | N |
 | 2026-11-05 | Regular | Tree Clearance Guidelines for Jeddo Homeowners | C | 📞 Call | N |
 | 2026-11-05 | Review | (review post, no title) | Client-first | 📞 Call | N |
+| 2026-11-15 | Product | Stump Grinding | n/a (no product template) | Free estimate line | N |
+| 2026-11-15 | Product | Emergency Tree Service | n/a (no product template) | Call us any time | N |
