@@ -97,3 +97,7 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | 2026-11-15 | Product | Stump Grinding | n/a (no product template) | Request free estimate | N |
 | 2026-11-15 | Product | Emergency Tree Service | n/a (no product template) | Call us any time | N |
 | 2026-11-15 | Product | Arborist Service | n/a (no product template) | Schedule assessment | N |
+| 2026-11-15 | Service | Tree Removal | n/a (no service template) | Ask for free estimate | N |
+| 2026-11-15 | Service | Tree Stump Removal | n/a (no service template) | Request free estimate | N |
+| 2026-11-15 | Service | Tree Trimming & Pruning | n/a (no service template) | Call for free estimate | N |
+| 2026-11-15 | Service | Tree Planting | n/a (no service template) | Request free estimate | N |
