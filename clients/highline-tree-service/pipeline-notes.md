@@ -82,3 +82,4 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 | 2026-11-03 | Regular | Why Trees Need More Care During Greenville's Storm Months | A | 📅 Book | N |
 | 2026-11-03 | Regular | How We Handle Large Tree Removal Projects in Big Rapids | C | 🗓️ Schedule | N |
 | 2026-11-03 | Review | (pending: screenshot needed) | - | - | N |
+| 2026-11-15 | Product | Crane Service | n/a (no product template) | Request an estimate | N |
