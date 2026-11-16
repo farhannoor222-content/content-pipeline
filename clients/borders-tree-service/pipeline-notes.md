@@ -88,4 +88,9 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 | 2026-11-03 | Regular | New: landmarks we serve near Sonora, TX | A | 📞 Call | N |
 | 2026-11-03 | Regular | How much does tree removal cost in San Angelo, TX? | C | 🗓️ Schedule | N |
 | 2026-11-03 | Regular | Serving Grape Creek, Christoval & Carlsbad now | A | 📅 Book | N |
+| 2026-11-16 | Product | Tree Trimming | n/a (no product template) | Ask us which limbs | N |
+| 2026-11-16 | Product | Stump Removal | n/a (no product template) | Call to schedule | N |
+| 2026-11-16 | Product | Stump Grinding | n/a (no product template) | none | N |
+| 2026-11-16 | Product | Emergency Tree Service | n/a (no product template) | none | N |
+| 2026-11-16 | Product | Hazardous Tree Removal | n/a (no product template) | Calling early line | N |
 | 2026-11-03 | Review | (review post, no title) | Business-first | 🗓️ Schedule | N |
