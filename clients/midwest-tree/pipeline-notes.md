@@ -97,3 +97,5 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 | Date | Post Type | Title | Structure or Opening | CTA | Bullet List |
 |---|---|---|---|---|---|
 | 2026-11-14 | Review | (review post, no title) | Business-first | 📞 Call | N |
+| 2026-11-16 | Product | Stump Grinding | n/a (no product template) | none | N |
+| 2026-11-16 | Product | Emergency Tree Service | n/a (no product template) | Call | N |
