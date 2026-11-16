@@ -96,4 +96,6 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 | 2026-11-03 | Regular | Preparing Your Winston-Salem Trees for Winter Storm Season | C | 🗓️ Schedule | N |
 | 2026-11-03 | Regular | Land clearing and grubbing, explained | A | 📅 Book | N |
 | 2026-11-03 | Regular | How much does tree removal cost in North Carolina? | C | 📲 Get in touch | N |
+| 2026-11-16 | Service | Disaster & Emergency | n/a (no service template) | none | N |
+| 2026-11-16 | Service | Land & Clearing | n/a (no service template) | Free estimate line | N |
 | 2026-11-03 | Review | (review post, no title) | Quote-first | Schedule | N |
