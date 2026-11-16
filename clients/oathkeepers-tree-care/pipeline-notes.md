@@ -75,14 +75,17 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 
 | City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|---|
+| Marietta, PA | General | Local detail first | Regulatory/practical-based | Equipment or expertise | Direct benefit | Technical/expertise | Cost, Permits, Emergency response, How to get a quote |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
 |---|---|---|
+| Careful Tree Work Within Borough Rules | Marietta, PA | Regulatory/practical angle |
 
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+| Marietta, PA | 2026-11-16 | pages/marietta-pa.md |
 
 ## GBP Post Tracker
 Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
