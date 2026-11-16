@@ -91,4 +91,5 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 | 2026-11-03 | Regular | Best time to trim trees in Western Pennsylvania | C | 🗓️ Schedule | N |
 | 2026-11-03 | Regular | Serving the Norwin community for years — thank you | A | 📅 Book | N |
 | 2026-11-16 | Service | Emergency Tree Service | n/a (no service template) | Free estimates line | N |
+| 2026-11-16 | Product | Emergency Tree Service | n/a (no product template) | none | N |
 | 2026-11-03 | Review | (review post, no title) | Quote-first | 📞 Call | N |
