@@ -109,12 +109,12 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 | 2026-11-03 | Regular | Large tree removal: what homeowners should expect | C | 📲 Get in touch | N |
 | 2026-11-03 | Regular | Now serving Bossier City landmarks and neighborhoods | A | 📞 Call | N |
 | 2026-11-03 | Regular | How much does tree removal cost near you? | C | 🗓️ Schedule | N |
-| 2026-11-16 | Service | Dead Tree Removal | n/a (no service template) | none | N |
-| 2026-11-16 | Service | Hazardous Tree Removal | n/a (no service template) | none | N |
-| 2026-11-16 | Service | Fallen Tree Removal | n/a (no service template) | none | N |
-| 2026-11-16 | Service | Tree Planting | n/a (no service template) | none | N |
-| 2026-11-16 | Service | Landscaping Design | n/a (no service template) | none | N |
-| 2026-11-16 | Service | Hardscaping | n/a (no service template) | none | N |
-| 2026-11-16 | Service | Grass Installation | n/a (no service template) | none | N |
-| 2026-11-16 | Service | Mulch Services | n/a (no service template) | none | N |
+| 2026-11-16 | Product | Dead Tree Removal | n/a (no product template) | varies | N |
+| 2026-11-16 | Product | Hazardous Tree Removal | n/a (no product template) | varies | N |
+| 2026-11-16 | Product | Fallen Tree Removal | n/a (no product template) | varies | N |
+| 2026-11-16 | Product | Tree Planting | n/a (no product template) | varies | N |
+| 2026-11-16 | Product | Landscaping Design | n/a (no product template) | varies | N |
+| 2026-11-16 | Product | Hardscaping | n/a (no product template) | varies | N |
+| 2026-11-16 | Product | Grass Installation | n/a (no product template) | varies | N |
+| 2026-11-16 | Product | Mulch Services | n/a (no product template) | varies | N |
 | 2026-11-03 | Review | (review post, no title) | Client-first | Contact | N |
