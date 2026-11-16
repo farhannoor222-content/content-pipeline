@@ -117,4 +117,6 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 | 2026-11-03 | Regular | Stump grinding pricing, explained | A | 📅 Book | N |
 | 2026-11-03 | Regular | Oak Wilt watch: what Cedar Park homeowners should know this fall | B | 📞 Call | Y |
 | 2026-11-03 | Regular | Holiday-ready yards: book your fall cleanup now | C | 🗓️ Schedule | N |
+| 2026-11-16 | Product | Tree Service | n/a (no product template) | none | N |
+| 2026-11-16 | Product | Arborist Service | n/a (no product template) | Free estimate | N |
 | 2026-11-03 | Review | (review post, no title) | Business-first | Contact | N |
