@@ -99,10 +99,12 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 
 | City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|---|
+| Ruby, MI | General | Local problem first | Terrain/risk-based | Local tree connection | Peace-of-mind | What the customer sees | Cost, Signs to call, Emergency response, How to get a quote |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
 |---|---|---|
+| How Wet Ground and Ice Shape Tree Work Here | Ruby, MI | Terrain/risk angle |
 
 ## Arborist Page Tracker
 Per templates/arborist-page-template.md. Don't reuse an H2 variant, H1 DIY angle, or Why Choose H3 set from the last 2 to 3 arborist pages.
@@ -115,6 +117,7 @@ Per templates/arborist-page-template.md. Don't reuse an H2 variant, H1 DIY angle
 | City, State | Date | File |
 |---|---|---|
 | Fort Gratiot Township, MI (Arborist) | 2026-11-04 | pages/arborist-fort-gratiot-township-mi.md |
+| Ruby, MI | 2026-11-16 | pages/ruby-mi.md |
 
 ## GBP Post Tracker
 Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
