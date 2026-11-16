@@ -82,6 +82,8 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 | 2026-11-03 | Regular | Emergency tree service: what to expect in Rochester | A | 📞 Call | N |
 | 2026-11-03 | Regular | Serving New Brighton, Monaca & Bridgewater now | C | 🗓️ Schedule | N |
 | 2026-11-03 | Review | (review post, no title) | Client-first | 📞 Call | N |
+| 2026-11-16 | Product | Emergency Tree Service | n/a (no product template) | none | N |
+| 2026-11-16 | Service | Emergency Tree Service | n/a (no service template) | Free estimates line | N |
 | 2026-11-03 | Review | (review post, no title) | Quote-first | Schedule | N |
 | 2026-11-11 | Review | (review post, no title) | Business-first | 📲 Contact | N |
 | 2026-11-11 | Review | (review post, no title) | Client-first | 📞 Call | N |
