@@ -99,3 +99,7 @@ Updated after every GBP post. Rotate structures, openings, and CTAs per template
 | 2026-11-14 | Review | (review post, no title) | Business-first | 📞 Call | N |
 | 2026-11-16 | Product | Stump Grinding | n/a (no product template) | none | N |
 | 2026-11-16 | Product | Emergency Tree Service | n/a (no product template) | Call | N |
+| 2026-11-16 | Service | Mulching | n/a (no service template) | varies | N |
+| 2026-11-16 | Service | Tree Fertilization | n/a (no service template) | varies | N |
+| 2026-11-16 | Service | Cabling & Bracing | n/a (no service template) | varies | N |
+| 2026-11-16 | Service | Canopy Thinning | n/a (no service template) | varies | N |
