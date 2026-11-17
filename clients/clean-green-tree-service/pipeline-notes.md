@@ -62,14 +62,17 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 
 | City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|---|
+| Kenwood, Champaign, IL | Neighborhood | Local detail first | Tree-species-based | Local tree connection | Direct benefit | What we do | Cost, Quote, Signs to call, What to expect |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
 |---|---|---|
+| Tending Mature Trees Near Centennial Park | Kenwood, Champaign, IL | Neighborhood page |
 
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+| Kenwood, Champaign, IL (Neighborhood) | 2026-11-17 | pages/kenwood-champaign-il.md |
 
 ## GBP Post Tracker
 Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
