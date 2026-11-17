@@ -85,11 +85,23 @@ A public park with a tennis center and pickleball courts.
 
 ### Kenwood Elementary School
 
-A public K-5 school set on Stratford Drive in a residential area.
+Stratford Drive holds this public K-5 school in a residential area.
 
 ### Kenwood Road
 
 One of four streets that border the neighboring public park.
+
+### Sholem Aquatic Center
+
+Lazy river and water slides fill this Park District summer pool.
+
+### Champaign Country Club
+
+An 18-hole golf course laid out along South Prospect Avenue.
+
+### Greenbelt II
+
+This Park District bikeway links Dodds, Heritage and Kaufman parks.
 
 ## Frequently Asked Questions
 
