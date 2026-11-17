@@ -85,7 +85,7 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
-| Marietta, PA | 2026-11-16 | pages/marietta-pa.md |
+| Marietta, PA | 2026-11-17 | pages/marietta-pa.md |
 
 ## GBP Post Tracker
 Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
