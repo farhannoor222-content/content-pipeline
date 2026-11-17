@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" width="640" height="220">
-  <rect width="640" height="220" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220" width="720" height="220">
+  <rect width="720" height="220" fill="#ffffff"/>
   <!-- icon: house whose body forms a person -->
   <g transform="translate(30,20)">
     <path d="M90 8 L170 70 L170 100 L150 100 L90 52 L30 100 L10 100 L10 70 Z" fill="#12263f"/>
@@ -10,5 +10,5 @@
   <!-- wordmark -->
   <text x="230" y="105" font-family="Poppins, 'Segoe UI', Arial, sans-serif" font-size="58" font-weight="700" fill="#12263f" letter-spacing="1">Home</text>
   <text x="230" y="160" font-family="Poppins, 'Segoe UI', Arial, sans-serif" font-size="58" font-weight="700" fill="#f26a21" letter-spacing="1">Sapiens</text>
-  <text x="232" y="190" font-family="Poppins, 'Segoe UI', Arial, sans-serif" font-size="14" font-weight="500" fill="#5b6b7f" letter-spacing="3">GROWTH FOR HOME SERVICE OWNERS</text>
+  <text x="232" y="190" font-family="Poppins, 'Segoe UI', Arial, sans-serif" font-size="14" font-weight="500" fill="#5b6b7f" letter-spacing="2.5">VIDEO EDITING FOR HOME SERVICE PROVIDERS</text>
 </svg>
