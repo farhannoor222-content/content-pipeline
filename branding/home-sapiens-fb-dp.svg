@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
   <rect width="1000" height="1000" fill="#ffffff"/>
-  <g transform="translate(284,190) scale(2.6)"><path d="M90 8 L170 70 L170 100 L150 100 L90 52 L30 100 L10 100 L10 70 Z" fill="#12263f"/><circle cx="90" cy="92" r="20" fill="#f26a21"/><path d="M50 178 L50 132 Q50 118 64 118 L116 118 Q130 118 130 132 L130 178 Z" fill="#12263f"/><rect x="80" y="146" width="20" height="32" rx="3" fill="#ffffff"/></g>
-  <text x="500" y="760" text-anchor="middle" font-family="Poppins, 'Segoe UI', Arial, sans-serif" font-size="92" font-weight="700" fill="#12263f">Home <tspan fill="#f26a21">Sapiens</tspan></text>
+  <circle cx="500" cy="500" r="470" fill="#e6edf5"/>
+  <g transform="translate(266,219) scale(2.6)"><path d="M90 8 L170 70 L170 100 L150 100 L90 52 L30 100 L10 100 L10 70 Z" fill="#12263f"/><circle cx="90" cy="92" r="20" fill="#f26a21"/><path d="M50 178 L50 132 Q50 118 64 118 L116 118 Q130 118 130 132 L130 178 Z" fill="#12263f"/><rect x="80" y="146" width="20" height="32" rx="3" fill="#ffffff"/></g>
+  <text x="292" y="752" textLength="416" lengthAdjust="spacingAndGlyphs" font-family="Poppins, 'Segoe UI', Arial, sans-serif" font-size="62" font-weight="700" fill="#12263f">Home <tspan fill="#f26a21">Sapiens</tspan></text>
 </svg>
