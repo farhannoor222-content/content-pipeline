@@ -82,14 +82,17 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 
 | City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|---|
+| Clarkfield, MN | General | Scenario first | Terrain/risk-based | Problem it solves | Direct benefit | What we do | Cost, Emergency response, Signs to call |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
 |---|---|---|
+| What Prairie Wind Does to Trees | Clarkfield, MN | |
 
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
+| Clarkfield, MN | 2026-11-18 | clients/rugged-tree-service/pages/clarkfield-mn.md |
 
 ## GBP Post Tracker
 Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
