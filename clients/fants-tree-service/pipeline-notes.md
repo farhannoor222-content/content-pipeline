@@ -136,6 +136,7 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | Culpeper, VA | Crane Service | Situations first (client-directed) | Terrain/risk-based | n/a | Comparison angle | Technical/expertise angle | Cost, Timing/signs, Access, Crane rental clarification |
 | Culpeper, VA | Cabling and Bracing | Scenario first | Crew/team-based | n/a | Peace-of-mind angle | What the customer sees | Cost, Oak borer limits, Storm expectations |
 | Culpeper, VA | Tree Health and Plant Care | Local detail first | Community-based | n/a | Local-relevance angle | What we do | Cost, Signs of stress, Mulch, Removal honesty |
+| Rapidan, VA | General (Rakib, no landmark H2) | Benefit first | Regulatory/practical-based | Local tree connection | Trust/credibility | Why it matters | Cost, Insurance, Permits, Timing |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
@@ -150,6 +151,7 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | Tight Spaces, Tall Trees, One Crane | Culpeper, VA (Crane Service) | Avoid reusing for next 5 pages |
 | Local Crews Who Support Heavy Trees | Culpeper, VA (Cabling and Bracing) | Avoid reusing for next 5 pages |
 | Healthy Trees Start With Local Soil | Culpeper, VA (Tree Health and Plant Care) | Avoid reusing for next 5 pages |
+| A Village Split by Two Counties | Rapidan, VA | Rakib variant. Avoid reusing for next 5 pages |
 
 ## Pages Written
 | City, State | Date | File |
@@ -164,6 +166,7 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | Culpeper, VA (Crane Service) | 2026-11-08 | pages/crane-service-culpeper-va.md |
 | Culpeper, VA (Cabling and Bracing) | 2026-11-08 | pages/tree-cabling-and-bracing-culpeper-va.md |
 | Culpeper, VA (Tree Health and Plant Care) | 2026-11-08 | pages/tree-health-and-plant-care-culpeper-va.md |
+| Rapidan, VA | 2026-11-18 | pages/rapidan-va.md |
 
 ## GBP Post Tracker
 Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
