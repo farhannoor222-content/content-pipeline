@@ -11,10 +11,6 @@ A heavy limb cracks above your driveway just off Highway 67 on a windy night. Ru
 - Emergency Storm Response
 - 10 Years of Experience
 
-## What Prairie Wind Does to Trees
-
-Wind crosses open farmland with little to slow it, so tall silver maples and oaks lose limbs first. Our climbers trim those limbs near North Park, Neilson Park and Peninsula Park. Each cut goes back to the branch collar, so the wound closes and the tree stays sound. Lots here sit close together because the city covers about one square mile. Our team lowers each limb on a rope, so fences and roofs stay untouched. Spruce windbreaks on rural lots take the same gusts, so our arborists remove dead and leaning trees. Ash trees add a second worry because emerald ash borer is spreading across southwest Minnesota. Our tree experts check each ash for thin crowns and remove dying ones in sections. You lose only the trees that put your home at risk.
-
 ## Our Services
 
 Yards in town and acreage outside it need different tools and methods. Our team matches the machine and the method to each job.
@@ -71,6 +67,14 @@ Our arborists explain the plan and price before work starts, so nothing surprise
 
 Written estimates list each task and cost, so you can compare the job against your budget.
 
+### Local Wind Knowledge
+
+Our climbers trim maples near North Park, Neilson Park and Peninsula Park, so wind finds fewer weak limbs.
+
+### Ash Borer Watch
+
+Emerald ash borer is spreading in southwest Minnesota, so our tree experts check ash for thin crowns.
+
 ## Our Working Process
 
 Rugged Tree Service keeps every job safe with the same four steps. Each one protects your home, your yard, and our climbers.
@@ -120,6 +124,10 @@ Removal typically runs $400 to $2,000 or more, based on size and access. Our tea
 ### How fast can you respond to storm damage?
 
 Our emergency response is same-day when possible, and urgent hazards get priority scheduling. We secure the tree and clear access to your home.
+
+### What should I expect during a tree removal visit?
+
+Expect an inspection, ground covers, limbs lowered on ropes, and a final walkthrough. Our team explains each step as the work moves along.
 
 ### When should I call an arborist?
 

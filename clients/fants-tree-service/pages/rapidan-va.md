@@ -11,13 +11,9 @@ Your oaks stay healthy and your roof stays clear when the work comes on time. Fa
 - 24/7 Emergency Service
 - Same-Day or Next-Day Scheduling
 
-## A Village Split by Two Counties
-
-The village sits on both sides of the Rapidan River, so it spans Culpeper and Orange counties. Most areas we serve need no permit to take a tree down. Your lot may sit in either county, so our family names the office to ask before we start. Historic buildings fill the crossroads where VA 614, VA 615, and VA 673 meet. Near Emmanuel Episcopal Church and Waddell Memorial Presbyterian Church, our climbers rope each limb down in sections. That keeps branches off old roofs and leaves the shade in place. Arbor mats spread the weight of our equipment, so lawns near the river keep their grass. White oak and chestnut oak shade local yards, and an oak borer is killing many of them. Our arborists check each oak and tell you the truth about whether it can stay.
-
 ## Our Services
 
-White oak, chestnut oak, pine, and tulip poplar shape yards across the village. Our team matches each job below to the way those trees grow and fail.
+White oak, chestnut oak, pine, and tulip poplar shape yards in this two-county village. Our team matches each job below to the way those trees grow and fail.
 
 ### Tree Removal
 
@@ -39,7 +35,7 @@ Patios and beds need clear ground, so our team digs out oak and pine stumps and 
 
 In open ground, our team fells pine and poplar in one piece, which saves you time.
 
-### Emergency Tree Service
+### Emergency Storm Response
 
 Thunderstorms topple pine and poplar, so our team answers any hour and clears your roof or drive.
 
@@ -53,7 +49,7 @@ Cables from our tree surgeons support weak forks in white oak and poplar, so val
 
 ### Tree Health and Plant Care
 
-Our team checks white and chestnut oaks for borer damage, so you learn which trees can recover.
+Our tree experts check white and chestnut oaks for borer damage, so you learn which trees can recover.
 
 ## Why Choose Fant's Tree Service
 
@@ -61,7 +57,7 @@ Fant's Tree Service gives local homeowners experienced tree care professionals f
 
 ### Honest Recommendations
 
-An oak borer is killing many local oaks, so our tree experts tell you whether yours can stay.
+An oak borer is killing many local oaks, so our arborists tell you whether yours can stay.
 
 ### Licensed and Insured
 
@@ -77,7 +73,7 @@ Our own employees run our own cranes and lifts to reach tall oaks, so you pay no
 
 ### Arbor Mats Protect Lawns
 
-Arbor mats spread our equipment's weight, so lawns along the river and village roads keep their grass.
+Our arbor mats spread equipment weight, so lawns near Emmanuel Episcopal and Waddell Memorial Presbyterian churches stay green.
 
 ### Same-Day or Next-Day Scheduling
 

@@ -47,6 +47,8 @@ Review count badge: check `data/review-counts.csv` (a shared, monthly-updated fi
 These 4 can stay the same across a client's pages or vary, either is fine, no rotation tracking needed for this section.
 
 ### H2: Customized Local Heading
+Skip this entire section when the place has under 2,000 people (see Standing Rules in CLAUDE.md). Put its local detail into Our Services and Why Choose Us instead.
+
 Pull from the client's heading pool if an unused or recently-unused option exists. Otherwise write a new one using local details.
 
 Body: 120 to 150 words.
