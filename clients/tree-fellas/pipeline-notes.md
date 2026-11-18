@@ -67,16 +67,19 @@ Updated after every page. Choose a pattern or angle not used in the client's las
 | City, State | Page Type | H1 Pattern | Heading Angle | Services Angle | Why-Choose-Us Angle | Process Angle | FAQ Topics |
 |---|---|---|---|---|---|---|---|
 | Northfield, NH | General (Rakib, no landmark H2) | Local problem first | Tree-species-based | Risk or consequence | Local-relevance | What we do | Cost, Signs to call, Emergency response, How to get a quote |
+| Center Barnstead, Barnstead, NH | Neighborhood | Local detail first | Community-based | When it's needed | Trust/credibility | What the customer sees | Cost, What to expect, Permits |
 
 ## Heading Pool: Customized Local H2
 | Heading Used | City, State | Notes |
 |---|---|---|
 | What Wet Snow Does to Local Trees | Northfield, NH | Rakib variant |
+| Local Know-How Around the Village | Center Barnstead, Barnstead, NH | |
 
 ## Pages Written
 | City, State | Date | File |
 |---|---|---|
 | Northfield, NH | 2026-11-10 | clients/tree-fellas/pages/northfield-nh.md |
+| Center Barnstead, Barnstead, NH | 2026-11-18 | clients/tree-fellas/pages/center-barnstead-barnstead-nh.md |
 
 ## GBP Post Tracker
 Updated after every GBP post. Rotate structures, openings, and CTAs per templates/gbp-post-templates.md.
